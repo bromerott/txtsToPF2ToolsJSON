@@ -1,0 +1,62 @@
+GHENEMAHL
+	CREATURE
+	7
+	LE
+	Medium
+	Kyton
+	Fiend
+	
+
+	
+
+	
+
+	
+
+	Perception
+	+14; darkvision
+	Skills
+	Deception +14, Diplomacy +16, Intimidation +16, Arcana +14, Religion +12
+	STR
+	+0
+	DEX
+	+3
+	CON
+	+5
+	INT
+	+5
+	WIS
+	+3
+	CHA
+	+3
+	AC
+	24
+	Fort
+	+12
+	Ref
+	+14
+	Will
+	+18
+	
+
+	HP
+	120 (fast healing 2); Weaknesses good 5, silver 5
+	Aura of Truth Ghenemahl exudes an aura of truth, making it difficult for anyone within 30 feet to utter a lie. This effect functions as per zone of truth, save that it emanates from Ghenemahl (not a fixed point in space) and thus moves along with him.
+	Speed
+	40 feet
+	Melee
+	(A)
+	lancet +18 (agile, evil, magical, reach 10 feet), Damage 2d10+8 piercing plus 1d6 evil
+	Divine Innate Spells
+	Divine Innate Spells DC 26, attack +16; 5th dimension door; 4th acid arrow, solid fog; 3rd shatter (at will); 2nd obscuring mist (at will); Constant (4th) freedom of movement
+
+
+	Lancets of Truth
+	A creature hit by the Ghenemahl’s lancet must make a DC 24 Fortitude save or be forced to utter a secret and be sickened 2 as their body moves against their will.
+	
+
+
+
+
+
+________________

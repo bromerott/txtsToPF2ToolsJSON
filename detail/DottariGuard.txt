@@ -1,0 +1,59 @@
+DOTTARI GUARD
+	CREATURE
+	-1
+	LE
+	Medium
+	Humanoid
+	Human
+	
+
+	
+
+	
+
+	Perception
+	+3
+	Languages
+	Common
+	Skills
+	Intimidation +4, Society +4
+	STR
+	+1
+	DEX
+	+1
+	CON
+	+3
+	INT
+	+1
+	WIS
+	+1
+	CHA
+	+1
+	Items
+	Leather Armor, Light Mace, Shield
+	AC
+	14
+	Fort
+	+7
+	Ref
+	+4
+	Will
+	+3
+	
+
+	HP
+	8
+	Speed
+	25 feet
+	Melee
+	(A)
+	Light Mace +3 Damage 1d6+1 bludgeoning
+	Ranged
+	(A)
+	Longbow +3 Damage 1d6+1 piercing
+	Another One For The Cells!
+	(A)
+	Requirements The Dottari has reduced an enemy to 0 hp this turn Effect The Dottari stabilizes the enemy and and can immediately Demoralize an enemy with a +4 circumstance bonus to its Intimidation check.
+	Raise Shield
+	(A)
+	The Dottari gains a +2 circumstance bonus to AC until the start of his next turn.

@@ -1,0 +1,62 @@
+ASMODEN
+	CREATURE
+	15
+	CE
+	Medium
+	Undead
+	
+
+	
+
+	
+
+	
+
+	Perception
+	+19; darkvision, true seeing
+	Languages
+	Abyssal, Aklo, Common, Draconic, Elven, Infernal, Necril, Undercommon
+	Skills
+	Acrobatics +25, Arcana +32, Deception +26, Occultism +30, Religion +21, Stealth +25
+	STR
+	-3
+	DEX
+	+4
+	CON
+	+0
+	INT
+	+5
+	WIS
+	-2
+	CHA
+	+7
+	AC
+	38
+	Fort
+	+23
+	Ref
+	+27
+	Will
+	+23
+	+1 vs positive
+	HP
+	220 (negative healing); Immunities disease, paralyzed, poison, polymorph, unconscious; Resistances cold 5, electricity 5, fire 5, physical 5 (except bludgeoning)
+	Necrotic Whirlwind (arcane, aura, evocation) 20 feet. When Asmoden battles, an aura of negative energy surrounds him.This obscures vision, making any creature in the area concealed, and causes creatures in its area (except Asmoden) to treat all creatures as concealed. Any creature other than Asmoden that enters or begins its turn in the aura takes 2d12 negative damage.
+
+
+Countermeasures Free Action Trigger Asmoden’s turn begins. Effect Asmoden casts blink, fly, spell turning, or true seeing on itself. It usually chooses spell turning unless it already has that spell in effect.
+	Speed
+	30 feet, fly 30 feet
+	Melee
+	(A)
+	longsword +27 [+22/+17] (reach 5 feet, finesse, magical), Damage 1d4-3 piercing plus 6d6 negative
+	Divine Innate Spells
+	DC 40, attack +30; 9th wail of the banshee; 7th spell turning (at will); 4th blink (at will), dimension door (at will), enervation (at will); Cantrips (8th) divine lance, chill touch; Constant (6th) true seeing
+	Paralysis
+	(incapacitation, occult, necromancy) Any living creature (including elves) hit by Asmoden’s attack must succeed at a DC 36 Fortitude save or become paralyzed. It can attempt a new save at the end of each of its turns, and the DC cumulatively decreases by 1 on each such save.
+	Trap Soul
+	(A)
+	Frequency once per day; Effect Asmoden traps a slain creature’s soul inside his sword. The dying creature can attempt a DC 38 Fortitude save; if it succeeds, it doesn’t die and its soul is not trapped but it’s enervated 2 (or is unaffected entirely on a critical success). When the soul of a creature gets trapped, the creature’s body swiftly turns to dust.
+
+
+	________________

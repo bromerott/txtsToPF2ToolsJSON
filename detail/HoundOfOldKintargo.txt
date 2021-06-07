@@ -1,0 +1,52 @@
+HOUND OF OLD KINTARGO
+	CREATURE
+	13
+	LE
+	Large
+	Beast
+	Fiend
+	Fire
+	
+
+	
+
+	Perception
+	+23; darkvision, scent (imprecise) 120 feet
+	Skills
+	Acrobatics +24, Athletics +22, Stealth +24, Survival +26 (+28 to Track)
+	STR
+	+8
+	DEX
+	+6
+	CON
+	+6
+	INT
+	-2
+	WIS
+	+5
+	CHA
+	-2
+	AC
+	34
+	Fort
+	+26
+	Ref
+	+24
+	Will
+	+20
+	+1 vs magic
+	HP
+	230; Immunities fire; Weaknesses cold 15
+	Hellish Revenge (R) Trigger The hound is critically hit by any Strike. Effect The hound’s Breath Weapon recharges. It can immediately use it as part of this reaction.
+
+
+Flames of Anger (R) Trigger The hound deals evil damage to a creature with its Jaws Strike. Effect The hound bites through the target’s resistances. For 1 hour, the target’s resistances are lowered by an amount equal to the evil damage dealt to them. This effect can stack multiple times, and even with other hound’s Flames of Anger.
+	Speed
+	40 feet
+	Melee
+	(A)
+	jaws +27 [+22/+17] (magical), Damage 3d8+10 piercing plus 1d6 evil and 2d6 fire
+	Breath Weapon
+	(A)
+	(divine, evocation, fire) The hound breathes flames that deal 14d6 fire damage to all creatures in a 15-foot cone (DC 33 basic Reflex save.) The hound can’t use Breath Weapon again for 1d4 rounds. If the hound would take fire damage or be targeted by a fire effect, its Breath Weapon recharges.
+	________________

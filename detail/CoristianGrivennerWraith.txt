@@ -1,0 +1,64 @@
+CORISTIAN GRIVENNER, WRAITH
+	CREATURE
+	20
+	Rare
+	LE
+	Medium
+	Incorporeal
+	Undead
+	Wraith
+	
+
+	
+
+	Perception
+	+36; darkvision, lifesense 60 feet
+	Languages
+	Common, Elven, Infernal
+	Skills
+	Acrobatics +39, Arcana +34, Stealth +38
+	STR
+	-5
+	DEX
+	+10
+	CON
+	+5
+	INT
+	+0
+	WIS
+	+7
+	CHA
+	+9
+	AC
+	48
+	Fort
+	+36
+	Ref
+	+40
+	Will
+	+40
+	
+
+	HP
+	350 (negative healing); Immunities death effects, disease, paralyzed, poison, precision, unconscious; Resistances all damage 15 (except force, ghost touch, or positive; double resistance vs. non-magical)
+	Attack of Opportunity (R)
+	Draining Presence (aura, negative) 20 feet. A creature entering the aura must succeed at a DC 42 Fortitude save or become drained 1. It recovers after it has been out of the aura for 1 minute. This drained condition value is cumulative with the drained value caused by drain life, but not with multiple draining presence auras. A creature that succeeds at its save is temporarily immune to draining presence for 24 hours.
+	Speed
+	fly 60 feet; instantaneous movement
+	Melee
+	(A)
+	spectral hand +38 [+34/+30] (agile, finesse, magical), Damage 5d10+16 force plus dimensional shunt and drain life
+	Tormentor’s Blink
+	(A)
+	Coristian strides towards a creature within range of its speed. This stride does not have the move trait - it happens immediately.
+	Smite Good
+	(A)
+	Coristian’s hatred for the silver ravens enhance his attacks greatly. He selects one enemy he can see - until the start of his next turn, Coristian’s Strikes deal an extra 6 evil damage.
+
+
+If the chosen enemy attacks Coristian before the start of his next turn, the duration extends to the end of that enemy's next turn. If the enemy continues to attack you each turn, the duration continues to extend.
+	Drain Life
+	(arcane, necromancy) When Coristian damages a living creature with his spectral hand Strike, he gains 20 temporary Hit Points and the target must succeed at a DC 42 Fortitude save or become drained 1 and stupefied 1 as long as it is drained. Further damage dealt by Coristian’s spectral hand Strikes increases the value of the drained and stupefied conditions by 1 each on a failed save, to a maximum of 10 for both.
+	
+
+________________

@@ -1,0 +1,37 @@
+	THUNDERSCAR
+	CREATURE
+	-
+	LE
+	Medium
+	Human
+	Humanoid
+	
+
+	
+
+	
+
+	AC
+	30
+	Fort
+	+20
+	Ref
+	+20
+	Will
+	+19
+	
+
+	HP
+	128
+	Speed
+	35 feet
+	Melee
+	(A)
+	Hoof +20 [+16/+12] Damage 2d6+9+1d6 lightning
+	Support
+	(A)
+	If Thunderscar has moved at least 10 feet before using this action, Vanasses gains a +6 bonus to her next Lance strike.
+	Gallop
+	(AA)
+	Thunderscar strides 90 feet.
+	________________

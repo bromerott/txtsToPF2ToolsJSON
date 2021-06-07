@@ -1,0 +1,5728 @@
+﻿Hell’s Rebels Bestiary for Pathfinder 2nd Edition - Books 4 to 6
+  
+
+
+
+Illustration by Caio Maciel Monteiro
+
+
+
+
+This guide uses trademarks and/or copyrights owned by Paizo Inc., which are used under Paizo's Community Use Policy. We are expressly prohibited from charging you to use or access this content. This guide is not published, endorsed, or specifically approved by Paizo Inc. For more information about Paizo's Community Use Policy, please visit paizo.com/communityuse. For more information about Paizo Inc. and Paizo products, please visit paizo.com.
+
+
+This product is compliant with the Open Game License (OGL) and is suitable for use with the Pathfinder Second Edition Roleplaying Game.
+________________
+
+
+ADRAKASH
+	CREATURE
+	18
+	CE
+	Gargantuan
+	Dragon
+	Incorporeal
+	Undead
+	Wraith
+	
+
+	Perception
+	+31; darkvision, lifesense 120 feet
+	Skills
+	Acrobatics +32, Arcana +32, Intimidation +35, Religion +35, Stealth +35
+	STR
+	-5
+	DEX
+	+9
+	CON
+	+0
+	INT
+	+7
+	WIS
+	+7
+	CHA
+	+9
+	AC
+	41
+	Fort
+	+31
+	Ref
+	+34
+	Will
+	+34
+	
+
+	HP
+	280 (negative healing); Immunities death effects, disease, paralyzed, poison, precision, unconscious; Resistances all 20 (except force, ghost touch, or positive; double resistance vs. non-magical)
+	Frightful Presence (aura, emotion, fear, mental) 90 feet, DC 35
+	Positive Energy Transfer Reaction (divine, conjuration) Trigger Adrakash succeeds at a saving throw to resist positive damage, but still takes damage from that effect; Effect Adrakash transfers all positive damage from the effect to a single undead creature of its choice that it controls within 120 feet.
+	Speed
+	50 feet, fly 80 feet
+	Melee
+	(A)
+	spectral jaws +35 [+30/+35] (reach 20 feet), Damage 8d8+8 negative plus drain life
+	Melee
+	(A)
+	spectral claw +35 [+31/+27] (agile, reach 15 feet), Damage 8d6+8 negative plus divine dispelling and drain life
+	Breath Weapon
+	(AA)
+	 (divine, necromancy, negative) Adrakash unleashes a burst of negative energy that deals 20d6 negative damage to all creatures in a 60-foot cone (DC 40 basic Reflex save). It can’t use Breath Weapon again for 1d4 rounds.
+	Divine Dispelling
+	(abjuration, divine) Adrakash’s claws rend divine magic. Whenever he hits a creature with one of its spectral claws, Adrakash can attempt a Religion check to counteract an ongoing divine spell effect (of spell level 8th or lower) on the creature.
+	Draconic Frenzy
+	(A)
+	Adrakash makes two claw Strikes and one jaws Strike in any order.
+	Phase Lurch
+	(A)
+	(divine, move) Requirements Adrakash is in ectoplasmic form; Effect As the Stride action, but Adrakash can pass through walls or material obstacles as though he were incorporeal. He must begin and end its movement outside of any physical obstacles, and passing through solid material is difficult terrain.
+	Ectoplasmic Form
+	(A)
+	(divine, necromancy) Adrakash can push through the ectoplasmic veil to temporarily assume a physical form made of ectoplasm. Adrakash loses the incorporeal trait for 1d4 rounds, though it can return to its incorporeal form as a free action before then. Once this ability ends, Adrakash can’t use this ability again for 1d4 rounds. While in ectoplasmic form, Adrakash’s AC increases to 43 and it gains 100 temporary Hit Points. He loses his immunity to non-magical attacks and precision damage, as well as its resistance to all damage. His claw and jaws Strikes deal slashing and piercing damage, respectively, instead of negative damage.
+	Divine Innate Spells
+	DC 37, attack +35; 8th charm (undead targets only); 7th divine wrath (x3), finger of death; 6th vampiric exsanguination; 4th charm (x3; undead targets only), darkness; 3rd bind undead (at will)
+	Drain Life
+	(divine, necromancy) When Adrakash deals damage to a living creature with a spectral jaws or spectral claw Strike, Adrakash gains 18 temporary Hit Points, and the creature must succeed at a DC 40 Fortitude save or become drained 2. Further damage dealt by Adrakash’s spectral jaws or spectral claws Strikes increases the value of the drained condition by 2 on a failed save, to a maximum of drained 8.
+	
+
+	
+
+	
+
+	
+
+	________________
+
+
+
+
+AHRLI
+	CREATURE
+	11
+	LN
+	Large
+	Outsider
+	
+
+	
+
+	
+
+	
+
+	Perception
+	+22; low-light vision
+	Skills
+	Athletics +26, Crafting +21, Diplomacy +24, Intimidation +26, Performance +21
+	STR
+	+7
+	DEX
+	+0
+	CON
+	+5
+	INT
+	+1
+	WIS
+	+3
+	CHA
+	+1
+	AC
+	30
+	Fort
+	+25
+	Ref
+	+18
+	Will
+	+21
+	
+
+	HP
+	220
+	Speed
+	20 feet, swim 60 feet
+	Melee
+	(A)
+	ranseur +25 [+20/+15] (disarm, magical, reach 20 feet), Damage 2d10+13 piercing
+	Otherworldy Booty
+	(A)
+	A mercane can retrieve or hide an extradimensional storage chest. The mercane does not need an expensive replica chest to use this ability; any chest will do. It can only use this ability on one chest at a time.
+	________________
+
+
+ALUCEDA ZHOL
+	CREATURE
+	12
+	CE
+	Medium
+	Undead
+	Vampire
+	
+
+	
+
+	
+
+	Perception
+	+26; darkvision
+	Languages
+	Common, Necril
+	Skills
+	Acrobatics +23, Arcana +27, Athletics +22, Deception +24, Diplomacy +26, Intimidation +28, Society +25, Stealth +25
+	STR
+	+6
+	DEX
+	+4
+	CON
+	+1
+	INT
+	+6
+	WIS
+	+4
+	CHA
+	+5
+	Children of the Night (divine, enchantment, mental)
+	AC
+	33
+	Fort
+	+21
+	Ref
+	+24
+	Will
+	+26
+	+1 status to saves vs. magic
+	HP
+	185 (coffin restoration, fast healing 10, negative healing); Immunities death effects, disease, paralyze, poison, sleep; Resistances physical 10 (except magical silver); Weaknesses vampire weaknesses
+	Mist Escape (F)
+	Speed
+	25 feet, climb 25 feet
+	Melee
+	(A)
+	claw +24 (agile), Damage 2d8+15 slashing plus Grab
+	Change Shape
+	(A)
+	(concentrate, divine, polymorph, transmutation) Giant bat with fangs +23 for 2d8+15 piercing.
+	Divine Innate Spells DC 35; attack +25; 5th Shadow Blast, Abyssal Plague 4th harm, phantasmal killer, vampiric maiden, enervation; 3rd vampiric touch, chilling darkness (x3); 2nd Death Knell, Ghoulish Cravings, See Invisibility, Sudden Blight; 1st harm (x4); Cantrips (4th) chill touch, divine lance
+	Infernal Wound
+(A)
+	If a creature dies after being reduced to 0 HP by Drink Blood, Aluceda can turn this victim into a vampire by donating some of its own blood to the victim and burying the victim in earth for 3 nights. If the new vampire is lower level than its creator, it is under the creator’s control. If a vampire controls too many spawn at once (as determined by the GM), strong-willed spawn can free themselves by succeeding at a Will saving throw against the vampire’s Will DC.
+	Dominate
+	(A)
+	(divine, enchantment, incapacitation, mental, visual) DC 32
+	Drain Bonded Item
+	(F)
+	Frequency Once per day. Requirements Aluceda
+ hasn’t acted yet on this turn. Effect Aluceda expends the power stored in its signet ring. This gives her the ability to cast one prepared spell it had already previously cast today, without spending a spell slot. Aluceda must still Cast the Spell and meet the spell’s other requirements.
+	Drink Blood
+	(A)
+	 (divine, necromancy) When Drinking Blood, Aluceda regains 10 HP.
+	Steady Spellcasting
+	If another creature’s reaction would disrupt Aluceda’s spellcasting action, she attempts a DC 15 flat check. If she succeeds, her action isn’t disrupted.
+	Turn to Mist
+	(A)
+	(concentrate, divine, transmutation) Aluceda turns into a cloud of vapor, as the gaseous form spell, or back to its normal form. Aluceda loses fast healing while in gaseous form. Aluceda can remain in this form indefinitely.
+
+
+	
+
+ANAGONDUN
+	CREATURE
+	20
+	LE
+	Large
+	Devil
+	Fiend
+	
+
+	
+
+	
+
+	Perception
+	+37; greater darkvision, true seeing
+	Languages
+	Celestial, Common, Draconic, Infernal; telepathy 100 feet
+	Skills
+	Acrobatics +34, Arcana +32, Athletics +39, Deception +39, Diplomacy +34, Intimidation +39, Religion +37, Society +36, Stealth +34
+	STR
+	+9
+	DEX
+	+5
+	CON
+	+6
+	INT
+	+5
+	WIS
+	+6
+	CHA
+	+4
+	AC
+	46
+	Fort
+	+37
+	Ref
+	+32
+	Will
+	+35
+	+1 vs magic
+	HP
+	335 (regeneration 30 (deactivated by good)); Immunities fire; Resistances physical 15 (except silver), poison 15; Weaknesses good 15
+	False Divinity (R) Trigger A creature within 30 ft. of Anagondun damages him. Effect  Mimicking divine power, Anagondun can either cast Enduring Might or Retributive Pain.
+	Speed
+	40 feet, fly 80 feet
+	Melee
+	(A)
+	jaws +40 [+35/+30] (evil, magical, poison, reach 10 feet), Damage 4d10+17 piercing plus 2d6 evil plus Infernal Healing
+	Melee
+	(A)
+	claw +38 [+34/+30] (agile, evil, magical, reach 10 feet), Damage 4d6+17 slashing plus 2d6 evil
+	Melee
+	(A)
+	tail +36 [+31/+26] (evil, magical, reach 10 feet), Damage 4d10+17 bludgeoning plus 2d6 evil and Improved Grab
+	Melee
+	(A)
+	slam +36 [+31/+26] (evil, magical, reach 15 feet), Damage 4d6+17 bludgeoning plus 2d6 evil
+	False Divinity
+	(A)
+	Anagondun mimics divine power and manifests it in the form of a cleric´s domain spell. He may cast Destructive Aura or Fire Ray without needing  to spend a Focus point.
+	Divine Innate Spells
+	DC 42; 9th overwhelming presence (at will); 8th dispel magic (at will), paralyze (at will), heal (at will), harm (at will); 5th dimension door; 4th dimension door (at will); Constant (8th) true seeing
+	Idol Armor
+	Anagondun wears an unholy armor made of fallen idols and ornaments of devotion. Being affected by the spells Weapon of Judgement and Divine Decree, as well as coming into 30 ft. of a creature affected by a Divine Vessel or Avatar spell instantly destroy the armor, lowering Anagondun’s AC by 6.
+	Infernal Healing
+	(divine, necromancy) Anagondun’s jaws Strike also deals 1d6 persistent bleed damage that resists attempts to heal it. The flat check to stop the bleeding starts at DC 20. The DC is reduced to 15 only if the bleeding creature or an ally successfully assists with the recovery.
+
+The DC to Administer First Aid to a creature with an infernal wound is increased by 5. A spellcaster or item attempting to use healing magic on a creature suffering from an infernal wound must succeed at a DC 38 counteract check or the magic fails to heal the creature.
+	________________
+
+
+
+
+ASMODEAN HELLWASP SWARM
+	CREATURE
+	10
+	N
+	Large
+	Animal
+	Fiend
+	Swarm
+	
+
+	
+
+	Perception
+	+120 greater darkvision
+	Skills
+	 Athletics +18, Stealth +21
+	STR
+	+1
+	DEX
+	+6
+	CON
+	+4
+	INT
+	-5
+	WIS
+	+3
+	CHA
+	-5
+	AC
+	28
+	Fort
+	+19
+	Ref
+	+19
+	Will
+	+14
+	
+
+	HP
+	130; Immunities precision, swarm mind; Resistances bludgeoning 5, piercing 10, slashing 10; Weaknesses area damage 10, splash damage 10
+	Trigger A creature leaves the swarm's space; Effect The swarm takes 1d6 damage as ticks cling to the creature and continue biting, dealing 3d6 persistent piercing damage. Immersion in water reduces the DC of the flat check to end this persistent damage to 5, and any area damage dealt to the creature destroys these clinging ticks.
+	Speed
+	25 feet, fly 25 feet
+	Swarming Stings
+	(A)
+	Each enemy in the swarm's space takes 4d6 piercing damage (DC 30 basic Reflex save) plus Cling and exposure to hellwasp venom
+	Hellwasp Venom
+	(A)
+	Saving Throw DC 29 Fortitude; Onset 1 day; Stage 1 enfeebled (1 day); Stage 2 enfeebled 2 (1 day).
+	________________
+
+
+
+
+ASMODEAN PRIEST
+	CREATURE
+	8
+	LE
+	Medium
+	Humanoid
+	Human
+	
+
+	
+
+	
+
+	Perception
+	+17
+	Languages
+	Common, Infernal
+	Skills
+	Academia Lore +16, Arcana +18, Demon Lore +20, Diplomacy +13 (+15 with devils), Religion +17
+	Infernal Temptation
+	Diabolic study has garnered the attention of at least one devil that is actively trying to possess the priest. When the priest publicly espouses the benefits of diabolic power (whether they believe it a good thing or not), they gain a +1 status bonus to skill checks, AC, and saves for 1 day. These bonuses don't apply against devils. At the end of the day, the priest must attempt a DC 20 Will save, becoming possessed for 1 day on a failure (permanently on a critical failure).
+	STR
+	+3
+	DEX
+	+1
+	CON
+	+2
+	INT
+	+4
+	WIS
+	+4
+	CHA
+	+0
+	AC
+	24
+	Fort
+	+15
+	Ref
+	+14
+	Will
+	+17
+	
+
+	HP
+	130
+	Speed
+	25 feet
+	Melee
+	(A)
+	longspear +19 [+14/+9] (magical, reach), Damage 1d8+11 piercing
+	Infernal Blessing
+	(A)
+	Requirements The priest’s last action was to cast a non-cantrip spell; Effect The priest siphons energy drawn from the Nine Hells into their weapon. Until the end of the turn, the weapon deals an extra 2d6 fire damage.
+	Divine Prepared Spells
+	DC 30, attack +22; 4th divine wrath, spell immunity, anathematic reprisal; 3rd fireball, glyph of warding, slow, vampiric touch; 2nd ghoulish cravings,  blur, darkness, see invisibility; 1st sanctuary (x2), fleet step, mending; Cantrips (4th) acid splash, daze, detect magic, light, read aura
+	Devil Summoning
+	The priest can cast a 5th-level summon fiend divine spell to summon a devil . To do so, they must sacrifice two 4th-level prepared spells and voluntarily take 4d12 mental damage that can't be reduced or prevented. If the priest is unable to Sustain the Spell, including if they're knocked out or killed, the spell continues, but the GM rolls a DC 10 flat check each round, ending the spell on a failure.
+	________________
+
+
+ASMODEAN SPECTER
+	CREATURE
+	8
+	LE
+	Medium
+	Incorporeal
+	Undead
+	
+
+	
+
+	
+
+	Perception
+	+17; darkvision
+	Languages
+	Common, Necril; telepathy 100 feet (with spectral thralls only)
+	Skills
+	Acrobatics +17, Intimidation +15, Stealth +17
+	STR
+	-5
+	DEX
+	+6
+	CON
+	+4
+	INT
+	+0
+	WIS
+	+4
+	CHA
+	+4
+	AC
+	27
+	Fort
+	+15
+	Ref
+	+19
+	Will
+	+17
+	
+
+	HP
+	110 (negative healing); Immunities death effects, disease, paralyzed, poison, precision, unconscious; Resistances all 5 (except force, ghost touch, or positive
+	Frightful Presence (aura, emotion, fear, mental) 30 feet, DC 22
+	Sunlight Powerlessness A specter caught in sunlight is clumsy 2 and slowed 2 for as long as it remains in the sunlight.
+	Speed
+	fly 40 feet
+	Melee
+	(A)
+	vile touch +20 [+15/+10] (finesse), Damage 8d6 negative plus spectral corruption
+	Spectral Corruption
+	(curse, divine, enchantment, incapacitation, mental) When the specter damages a living creature with its vile touch Strike, the specter gains 5 temporary Hit Points and the target creature must attempt a DC 27 Will save to avoid becoming corrupted.
+* Critical Success The creature is unaffected and is temporarily immune to spectral corruption for 1 minute.
+* Success The creature is stupefied 2 for 1 hour.
+* Failure The creature succumbs to the corruption and becomes a spectral thrall. The creature is controlled by the specter, obeying the specter's telepathic or spoken orders, though a spectral thrall does not obey obviously self-destructive orders. It can attempt a new Will save at the end of each of its turns; on a success, it is no longer controlled by the specter but becomes stupefied 2 for 1 hour.
+* Critical Failure As failure, but the creature remains a thrall to the specter until the curse is removed or until the specter succumbs to pain starvation; it can't attempt new Will saves to recover on its own.
+	________________
+
+
+
+
+ASMODEN
+	CREATURE
+	15
+	CE
+	Medium
+	Undead
+	
+
+	
+
+	
+
+	
+
+	Perception
+	+19; darkvision, true seeing
+	Languages
+	Abyssal, Aklo, Common, Draconic, Elven, Infernal, Necril, Undercommon
+	Skills
+	Acrobatics +25, Arcana +32, Deception +26, Occultism +30, Religion +21, Stealth +25
+	STR
+	-3
+	DEX
+	+4
+	CON
+	+0
+	INT
+	+5
+	WIS
+	-2
+	CHA
+	+7
+	AC
+	38
+	Fort
+	+23
+	Ref
+	+27
+	Will
+	+23
+	+1 vs positive
+	HP
+	220 (negative healing); Immunities disease, paralyzed, poison, polymorph, unconscious; Resistances cold 5, electricity 5, fire 5, physical 5 (except bludgeoning)
+	Necrotic Whirlwind (arcane, aura, evocation) 20 feet. When Asmoden battles, an aura of negative energy surrounds him.This obscures vision, making any creature in the area concealed, and causes creatures in its area (except Asmoden) to treat all creatures as concealed. Any creature other than Asmoden that enters or begins its turn in the aura takes 2d12 negative damage.
+
+
+Countermeasures Free Action Trigger Asmoden’s turn begins. Effect Asmoden casts blink, fly, spell turning, or true seeing on itself. It usually chooses spell turning unless it already has that spell in effect.
+	Speed
+	30 feet, fly 30 feet
+	Melee
+	(A)
+	longsword +27 [+22/+17] (reach 5 feet, finesse, magical), Damage 1d4-3 piercing plus 6d6 negative
+	Divine Innate Spells
+	DC 40, attack +30; 9th wail of the banshee; 7th spell turning (at will); 4th blink (at will), dimension door (at will), enervation (at will); Cantrips (8th) divine lance, chill touch; Constant (6th) true seeing
+	Paralysis
+	(incapacitation, occult, necromancy) Any living creature (including elves) hit by Asmoden’s attack must succeed at a DC 36 Fortitude save or become paralyzed. It can attempt a new save at the end of each of its turns, and the DC cumulatively decreases by 1 on each such save.
+	Trap Soul
+	(A)
+	Frequency once per day; Effect Asmoden traps a slain creature’s soul inside his sword. The dying creature can attempt a DC 38 Fortitude save; if it succeeds, it doesn’t die and its soul is not trapped but it’s enervated 2 (or is unaffected entirely on a critical success). When the soul of a creature gets trapped, the creature’s body swiftly turns to dust.
+
+
+	________________
+
+
+BARAAGAMA
+	CREATURE
+	15
+	CN
+	Gargantuan
+	Aberration
+	Aquatic
+	
+
+	
+
+	
+
+	Perception
+	+24; darkvision, tremorsense (imprecise) 60 feet
+	Skills
+	Athletics +32
+	STR
+	+3
+	DEX
+	+6
+	CON
+	+3
+	INT
+	-2
+	WIS
+	+2
+	CHA
+	+0
+	AC
+	37
+	Fort
+	+32
+	Ref
+	+23
+	Will
+	+26
+	all-around vision
+	HP
+	300; Immunities acid Resistances cold 20
+	Naturally Invisible The invisible stalker is invisible at all times, though when it takes a hostile action of any kind, it is hidden instead of undetected until the start of its next turn, as the vague outline of its humanoid form is faintly visible for a short period of time.
+	Speed
+	60 feet, swim 60 feet
+	Melee
+	(A)
+	bite +32 [+27/+22] (magical, reach 15 feet), Damage 4d12+17 piercing
+	Melee
+	(A)
+	claw +32 [+28/+24] (agile, magical, reach 20 feet), Damage 3d10+17 slashing
+	Legendary Storm
+	(AAA)
+	Frequency: Once per day
+Baraagama can call forth a legendary storm, casting Cataclysm. However, it manifests only Incredible lightning, Beating winds and a tsunami (only 3 of the 7 effects).
+	Pull Apart
+	(AA)
+	Baraagama makes two claw Strikes against the same target. If both hit, the target takes an extra 2d12+13 slashing damage, with a DC 36 basic Fortitude save. On a critical failure, the creature is torn to pieces and dies. Baragaama’s multiple attack penalty increases only after all the attacks are made.
+	Thrash
+	(AA)
+	Baraagama Strikes once against each creature in its reach with its claws. Each attack takes a –2 circumstance penalty and counts toward the mukradi's multiple attack penalty, but the multiple attack penalty doesn’t increase until after all the attacks are made.
+	________________
+
+
+
+
+BARBED DEVIL
+	CREATURE
+	11
+	LN
+	Medium
+	Fiend
+	Devil
+	
+
+	
+
+	
+
+	Perception
+	+24; greater darkvision
+	Languages
+	Celestial, Draconic, Infernal; telepathy 100 feet
+	Skills
+	Acrobatics +23, Arcana +18, Intimidation +21, Religion +20, Stealth +23, Survival +22
+	STR
+	+7
+	DEX
+	+6
+	CON
+	+5
+	INT
+	+1
+	WIS
+	+5
+	CHA
+	+4
+	AC
+	31
+	Fort
+	+23
+	Ref
+	+20
+	Will
+	+20
+	+1 vs magic
+	HP
+	165; Immunities fire; Resistances physical 10 (except silver), poison 10; Weaknesses good 10
+	Attack of Opportunity (R) Barb only. A hamatula gains an extra reaction at the start of each of its turns that it can use only to make an Attack of Opportunity. It can't use more than one Attack of Opportunity triggered by the same action. In addition to the normal trigger, a hamatula can make an Attack of Opportunity against a creature that touches it or an adjacent creature that attempts a melee Strike against it.
+	Speed
+	25 feet, fly 30 feet
+	Melee
+	(A)
+	barb +24 [+19/+14] (evil, magical), Damage 3d8+13 piercing plus 1d6 evil and bloodletting
+	Ranged
+	(A)
+	hurled barb +23 [+18/+13] (evil, magical, range increment 60 feet), Damage 2d8+13 piercing plus 1d6 evil and bloodletting
+	Divine Innate Spells
+	DC 27, attack +21; 5th dimension door, glyph of warding (at will); 4th dimension door (at will); 3rd harm, paralyze (×2); Cantrips (5th) produce flame
+	Bloodletting
+	On a critical hit, the hamatula's barbs deal 3d6 persistent bleed damage.
+	Frightful Strike
+	(F)
+	(divine, emotion, enchantment, fear, mental) Trigger The hamatula hits a creature with a barb Strike; Effect The creature struck must succeed at a DC 27 Will save or become frightened 2 (or frightened 3 on a critical failure). Regardless of the result of its saving throw, the creature is then temporarily immune to Frightful Strike for 24 hours.
+	Impaling Barb
+	(AA)
+	The hamatula makes a barb Strike, then Strides up to half its Speed without triggering reactions. If the Strike hits, the hamatula impales the target with one of its barbs and snaps the barb free as it moves away from the target. This deals an additional 2d8 piercing damage to the target and pins it to an adjacent surface, rendering it immobilized (Escape DC 29).
+	Warden of Erebus
+	A hamatula's glyph of warding innate spell can contain any common spell from the Core Rulebook that meets the criteria in glyph of warding; the hamatula doesn't need to provide the spell.
+	________________
+
+
+BARBED SECRETARY
+	CREATURE
+	12
+	LN
+	Medium
+	Fiend
+	Devil
+	
+
+	
+
+	
+
+	Perception
+	+26; greater darkvision
+	Languages
+	Celestial, Draconic, Infernal; telepathy 100 feet
+	Skills
+	Acrobatics +25, Arcana +20, Intimidation +23, Religion +22, Stealth +25, Survival +24
+	STR
+	+7
+	DEX
+	+6
+	CON
+	+5
+	INT
+	+1
+	WIS
+	+5
+	CHA
+	+4
+	AC
+	33
+	Fort
+	+25
+	Ref
+	+22
+	Will
+	+22
+	+1 vs magic
+	HP
+	185; Immunities fire; Resistances physical 10 (except silver), poison 10; Weaknesses good 10
+	Attack of Opportunity (R) Barb only. A hamatula gains an extra reaction at the start of each of its turns that it can use only to make an Attack of Opportunity. It can't use more than one Attack of Opportunity triggered by the same action. In addition to the normal trigger, a hamatula can make an Attack of Opportunity against a creature that touches it or an adjacent creature that attempts a melee Strike against it.
+	Speed
+	25 feet, fly 30 feet
+	Melee
+	(A)
+	barb +26 [+21/+16] (evil, magical), Damage 3d8+15 piercing plus 1d6 evil and bloodletting
+	Ranged
+	(A)
+	hurled barb +25 [+20/+15] (evil, magical, range increment 60 feet), Damage 2d8+15 piercing plus 1d6 evil and bloodletting
+	Divine Innate Spells
+	DC 33, attack +23; 5th dimension door, glyph of warding (at will); 4th dimension door (at will); 3rd harm, paralyze (×2); Cantrips (5th) produce flame
+	Bloodletting
+	On a critical hit, the secretary’s barbs deal 3d6 persistent bleed damage.
+	DependableResults
+	(F)
+	Frequency Once per round
+Trigger The secretary rolls damage for an attack; Effect The die of the damage roll change to the average rounded up. 
+	Frightful Strike
+	(F)
+	(divine, emotion, enchantment, fear, mental) Trigger The secretary hits a creature with a barb Strike; Effect The creature struck must succeed at a DC 33 Will save or become frightened 2 (or frightened 3 on a critical failure). Regardless of the result of its saving throw, the creature is then temporarily immune to Frightful Strike for 24 hours.
+	Impaling Barb
+	(AA)
+	The secretary makes a barb Strike, then Strides up to half its Speed without triggering reactions. If the Strike hits, the secretary impales the target with one of its barbs and snaps the barb free as it moves away from the target. This deals an additional 2d8 piercing damage to the target and pins it to an adjacent surface, rendering it immobilized (Escape DC 29).
+	Warden of Erebus
+	A secretary's glyph of warding innate spell can contain any common spell from the Core Rulebook that meets the criteria in glyph of warding; the secretary doesn't need to provide the spell.
+	________________
+
+
+
+
+BARZILLAI THRUNE, BONE DEVIL
+	CREATURE
+	21 or 23
+	LE
+	Medium
+	Devil
+	Fiend
+	
+
+	
+
+	
+
+	Perception
+	+39; greater darkvision
+	Skills
+	Acrobatics +34, Arcana +32, Athletics +33, Deception +39, Intimidation +40, Nature +33, Occultism +39, Religion +40, Society +39
+	STR
+	+9
+	DEX
+	+8
+	CON
+	+9
+	INT
+	+8
+	WIS
+	+9
+	CHA
+	+9
+	AC
+	48
+	Fort
+	+39
+	Ref
+	+34
+	Will
+	+37
+	+1 vs magic
+	HP
+	380 Immunities fire; Resistances physical 15(except silver), poison 15; Weaknesses good 15
+	Iron Command (R) Trigger: An enemy within 15 feet damages Barzillai
+Effect: Barzillai puts his aggressor in their place. The aggressor can choose to either kneel as a free action, or take 5d6 mental damage. Whatever the choice, Barzillai deals 2 extra evil damage against that enemy until his next turn.
+	Unholy Mace (R)  Frequency once per day; Trigger Barzillai critically succeeds at an attack roll against a good creature; Effect The target takes 4d8 persistent bleed damage.
+	Attack of Opportunity (R)
+	Speed
+	25 feet
+	Melee
+	(A)
+	+3 major striking greater flaming unholy mace +42 [+37/+32] (magical, reach), Damage 4d8+10 bludgeoning plus 1d6 fire and 2d6 evil, plus 2d10 persistent fire damage on a critical hit
+
+Fire damage done by this weapon ignores fire resistance
+	Melee
+	(A)
+	stinger +42 [+38/+34] (magical, reach), Damage 4d10+17 piercing plus 2d6 evil and bone devil venom
+	You will fail at the last step! A Failure!
+	(A)
+	Barzillai attempts to Demoralize a creature he can see. He does not need to share a language with the target. As long as the target remains within 15 feet of him, it cannot reduce its frightened condition below 1.
+	Fast Channel
+	Barzillai can get the 3-action version of the Harm spell by spending only 2 actions.
+	Quick Invisibility 
+	Barzillai can cast invisibility on himself using only 1 action.
+	Bone Devil Venom
+	Saving Throw DC 45 Fortitude; Maximum Duration 10 rounds; Stage 1 6d6 poison damage, enfeebled 2 (1 round); Stage 2 7d6 poison damage and enfeebled 3 (1 round); Stage 3 8d6 poison damage, enfeebled 4
+	Divine Prepared Spells
+	DC 44, attack +34; 
+8th Divine Aura, Heal, Phantom Pain 7th Finger of Death, Harm, Divine Vessel, Dimension Door (x3), Dimensional Anchor (x3) 6th Spirit Blast, Harm, Heal 5th Command, Harm, Flame Strike 4th Spell Immunity (x3) 3rd Crisis of Faith, Heal (x2) 2nd  invisibility (at will; self only), Dispel Magic, Resist Energy, Darkvision 1st Sanctuary (x3)
+	Enhanced Form
+	If Barzillai is in his Enhanced Form (as per the Adventure’s requirements), he rolls initiative once, but gets a second turn each round, with an initiative of his initial roll minus 20.
+	________________
+
+
+
+
+BEJAKRA
+	CREATURE
+	17
+	NE
+	Medium
+	Humanoid
+	Human
+	
+
+	
+
+	
+
+	Perception
+	+32
+	Skills
+	Acrobatics +31, Deception +32, Diplomacy +32, Intimidation +32, Occultism +27, Stealth +35
+	STR
+	+0
+	DEX
+	+7
+	CON
+	+3
+	INT
+	+2
+	WIS
+	+6
+	CHA
+	+6
+	AC
+	39
+	Fort
+	+25
+	Ref
+	+29
+	Will
+	+32
+	
+
+	HP
+	300
+	Blood for Father Skinsaw (R) Trigger A foe critically hits Bejakra, or Bejakra critically fails her save against a foe’s damaging effect. 
+Effect Bejakra’s own blood crystallizes and forms spikes, which go after the target, dealing 4d10+14 piercing damage (DC 38 basic Reflex save) and applying the effects of terrifying assassin.
+	Speed
+	60 feet, fly 60 feet
+	Melee
+	(A)
+	balgorrah +32 [+27/+22] (finesse, magical), Damage 3d6+14 negative plus terrifying assassin
+	Hail of Blades
+	(AA)
+	Bejakra spins in place and throws phantom daggers around her, as a 40-foot emanation. All creatures in the area except her take 8d10 piercing damage and must make a DC 38 Reflex save.
+
+Critical Success The creature is unaffected.
+Success The creature takes full damage.
+Failure The creature takes full damage and is drained 1d4.
+Critical Failure The creature takes double damage and is drained 4.
+
+The hail of blades continues for 1 round, and any creature that comes within the area during that time must attempt a save against the effect. A creature can’t be affected more than once by the same Hail. Bejakra can’t Hail again for 1d4 rounds.
+	Terrifying Assassin
+	A creature damaged by Balgorrah that isn’t already frightened must attempt a DC 38 Will save (DC 43 if the attack was a critical hit). If the creature fails its save, it’s frightened 2; on a critical failure, the creature also cowers with fear and is stunned 4. If the creature is protected against fear by a spell or magic item, Balgorrah first attempts to counteract the protection effect, with the effect of a 9th-level dispel magic spell.
+	Step of Shadow
+	When Bejakra Strides at least 10 feet, she is concealed by shadows until the start of their next turn. Creatures with greater darkvision can ignore this concealment.
+	Sneak Attack
+	Bejakra deals an additional 3d6 points of precision damage against flat-footed and frightened creatures.
+	
+
+	
+
+	
+
+	________________
+
+
+
+
+BLOOD GOLEM
+	CREATURE
+	8
+	N
+	Large
+	Construct
+	Golem
+	Mindless
+	
+
+	
+
+	Perception
+	+12; darkvision
+	Skills
+	Athletics +19
+	STR
+	+5
+	DEX
+	-1
+	CON
+	+3
+	INT
+	-5
+	WIS
+	+0
+	CHA
+	-5
+	AC
+	26
+	Fort
+	+18
+	Ref
+	+14
+	Will
+	+15
+	
+
+	HP
+	140; Immunities disease, death effects, electricity, doomed, drained, fatigued, healing, magic (see below), mental, necromancy, nonlethal attacks, paralyzed, poison, sickened, unconscious; Resistances physical 5 (except adamantine)
+Weakness bleed 10
+	Berserk A severely damaged blood golem has a chance of going berserk. If it has 40 or fewer HP at the start of its turn, the golem must succeed at a DC 5 flat check or go berserk. A berserk golem wildly attacks the nearest living creature, or the nearest object if no creatures are nearby.
+	Golem Antimagic harmed by negative energy (5d8, 3d4 from areas or persistent damage); healed by positive energy (area 2d4 HP); slowed by negative energy
+	Speed
+	25 feet,
+	Melee
+	(A)
+	fist +20 [+15/+10] (magical, reach 10 feet), Damage 2d10+7 bludgeoning
+	Berserk Slam
+	(A)
+	Requirement The blood golem is berserk. Effect The blood golem Strikes with its fist at a –1 circumstance penalty. If it hits, it deals 1d6 extra damage and knocks the target prone.
+	________________
+
+
+
+
+CAINAN VIPER VINE
+	CREATURE
+	15
+	LE
+	Large
+	Plant
+	
+
+	
+
+	
+
+	
+
+	Perception
+	+26; low-light vision, tremorsense (imprecise) 60 feet
+	Skills
+	Athletics +31, Stealth +28
+	STR
+	+8
+	DEX
+	+5
+	CON
+	+7
+	INT
+	-4
+	WIS
+	+5
+	CHA
+	-3
+	AC
+	37
+	Fort
+	+30
+	Ref
+	+28
+	Will
+	+26
+	+1 vs magic
+	HP
+	300; Resistances poison 15, physical 10 (except silver) Weaknesses good 10
+	Cold Vulnerability When exposed to a cold effect, the viper vine is overwhelmed by lethargy, becoming slowed 1 for 1d4 rounds.
+	Speed
+	35 feet, fly 50 feet
+	Melee
+	(A)
+	jaws +31 [+26/+21] (reach 10 feet), Damage 3d6+19 piercing plus 3d6 poison
+	Melee
+	(A)
+	vine +31 [+27/+23] (agile, reach 15 feet), Damage 3d10+19 bludgeoning plus Grab
+	Smite Good
+	(A)
+	The vine selects one enemy it can see - until the start of its next turn, the vine’s Strikes deal an extra 6 evil damage.
+
+
+If the chosen enemy attacks the vine before the start of his next turn, the duration extends to the end of that enemy's next turn. If the enemy continues to attack it each turn, the duration continues to extend.
+	Grab
+	(A)
+	3d8+16 bludgeoning, DC 37
+	Captivating Pollen
+	(A)
+	(enchantment, incapacitation, mental, poison) The viper vine releases a 60-foot emanation of invisible pollen that stays in the air for 5 rounds unless dispersed by a moderate or stronger wind. Each creature that enters or starts its turn in the area must attempt a DC 37 Will save or be captivated. The viper vine can't use Captivating Pollen for 1d4 rounds.
+
+Critical Success The creature is unaffected and is temporarily immune to Captivating Pollen for 24 hours.
+Success The creature is sickened 1.
+Failure The creature is fascinated, and it must spend each of its actions to move closer to the viper vine as expediently as possible while avoiding obvious dangers. If a captivated creature is adjacent to the viper vine, it stays still and doesn't act. It ceases to be fascinated if it's no longer in the pollen aura at the end of its turn.
+Critical Failure As failure, plus the creature is stupefied 2 for 24 hours.
+	________________
+
+
+
+
+CORISTIAN GRIVENNER
+	CREATURE
+	12
+	LE
+	Medium
+	Humanoid
+	Human
+	
+
+	
+
+	
+
+	Items
+	+2 Greater Resilient Full Plate, +2 Striking Flaming Mace,
+	Perception
+	+21
+	Languages
+	Common, Elven, Infernal
+	Skills
+	Athletics +12, Deception +19, Diplomacy +17, Intimidation +17, Medicine +19, Occultism +20, Performance +17, Religion +23, Society +20
+	STR
+	+1
+	DEX
+	+0
+	CON
+	+3
+	INT
+	+4
+	WIS
+	+5
+	CHA
+	+3
+	AC
+	32
+	Fort
+	+21
+	Ref
+	+18
+	Will
+	+25
+	
+
+	HP
+	140
+	Surging Focus (F) Trigger: An ally Coristian can see falls to 0 Hit Points
+Effect: Coristian regains 1 Focus Point and can no longer use this ability.
+	Speed
+	25 feet
+	Melee
+	(A)
+	+2 striking flaming mace+19 [+14/+9] (magical, reach), Damage 2d6+1+1d6 piercing
+	Cast Down
+	(A)
+	Coristian charges his channel with great force. If the next action he uses is to cast harm or heal to damage one creature, the target is knocked prone if it takes any damage from the spell. If it critically fails, it also takes -10-foot status penalty to its Speed for 1 minute.
+	Domain Focus Spells
+	Focus Pool: 3; Spell Lvl 6; Sudden Shift, Veil of Confidence, Fire Ray and Commanding Lash
+	Turn Undead
+	Whenever Coristian uses the Heal spell to damage undead, each undead of Level 11 or lower that critically fails its save gains the fleeing  condition for 1 round.
+	Directed Channel
+	Coristian can change the area of Heal and Harm spells to 60 ft. cones when casting the 3-action version of those spells.
+	Divine Prepared Spells
+	DC 31, attack +21; 6th Vampiric Exsanguination, Heal, Blinding Fury (R) ; 5th Spiritual Guardian, Summon Fiend, Breath of Life (R) ; 4th Freedom of Movement, Vampiric Maiden, Anathematic Reprisal (R) ; 3rd Vampiric Touch, Chilling Darkness, Harm; 2nd Harm (x3); 1st Heal (x3)
+	________________
+
+
+
+
+CORISTIAN GRIVENNER, WRAITH
+	CREATURE
+	20
+	Rare
+	LE
+	Medium
+	Incorporeal
+	Undead
+	Wraith
+	
+
+	
+
+	Perception
+	+36; darkvision, lifesense 60 feet
+	Languages
+	Common, Elven, Infernal
+	Skills
+	Acrobatics +39, Arcana +34, Stealth +38
+	STR
+	-5
+	DEX
+	+10
+	CON
+	+5
+	INT
+	+0
+	WIS
+	+7
+	CHA
+	+9
+	AC
+	48
+	Fort
+	+36
+	Ref
+	+40
+	Will
+	+40
+	
+
+	HP
+	350 (negative healing); Immunities death effects, disease, paralyzed, poison, precision, unconscious; Resistances all damage 15 (except force, ghost touch, or positive; double resistance vs. non-magical)
+	Attack of Opportunity (R)
+	Draining Presence (aura, negative) 20 feet. A creature entering the aura must succeed at a DC 42 Fortitude save or become drained 1. It recovers after it has been out of the aura for 1 minute. This drained condition value is cumulative with the drained value caused by drain life, but not with multiple draining presence auras. A creature that succeeds at its save is temporarily immune to draining presence for 24 hours.
+	Speed
+	fly 60 feet; instantaneous movement
+	Melee
+	(A)
+	spectral hand +38 [+34/+30] (agile, finesse, magical), Damage 5d10+16 force plus dimensional shunt and drain life
+	Tormentor’s Blink
+	(A)
+	Coristian strides towards a creature within range of its speed. This stride does not have the move trait - it happens immediately.
+	Smite Good
+	(A)
+	Coristian’s hatred for the silver ravens enhance his attacks greatly. He selects one enemy he can see - until the start of his next turn, Coristian’s Strikes deal an extra 6 evil damage.
+
+
+If the chosen enemy attacks Coristian before the start of his next turn, the duration extends to the end of that enemy's next turn. If the enemy continues to attack you each turn, the duration continues to extend.
+	Drain Life
+	(arcane, necromancy) When Coristian damages a living creature with his spectral hand Strike, he gains 20 temporary Hit Points and the target must succeed at a DC 42 Fortitude save or become drained 1 and stupefied 1 as long as it is drained. Further damage dealt by Coristian’s spectral hand Strikes increases the value of the drained and stupefied conditions by 1 each on a failed save, to a maximum of 10 for both.
+	
+
+________________
+
+
+
+
+CRIMSON BRASS GOLEM
+	CREATURE
+	15
+	N
+	Large
+	Construct
+	Golem
+	Mindless
+	
+
+	
+
+	Perception
+	+28; darkvision
+	Skills
+	Athletics +33
+	STR
+	+9
+	DEX
+	+6
+	CON
+	+5
+	INT
+	-5
+	WIS
+	+0
+	CHA
+	-5
+	AC
+	38
+	Fort
+	+27
+	Ref
+	+22
+	Will
+	+24
+	
+
+	HP
+	200; Immunities bleed, death effects, disease, doomed, drained, fatigued, fire (see below), healing, magic (see below), mental, necromancy, nonlethal attacks, paralyzed, poison, sickened, unconscious; Resistances physical 15 (except adamantine or bludgeoning)
+	Golem Antimagic harmed by sonic (8d10, 2d10 from area or persistent damage); healed by fire (area 2d10 HP); slowed by cold
+	Vulnerable to Shatter Casting a shatter spell on an obsidian golem affects the golem normally, but also causes jagged feathers of brass to flake off its body. The squares on which the golem was standing (or the squares below it, if it was flying) become difficult terrain.
+	Speed
+	25 feet, fly 25 feet
+	Melee
+	(A)
+	trident +31 [+26/+21] (deadly d10, magical, reach 10 feet, versatile S), Damage 4d10+11 piercing
+	Melee
+	(A)
+	wing +29 [+25/+21] (agile, deadly d10, magical, reach 10 feet, versatile S), Damage 3d10+11 piercing
+	Ranged
+	(A)
+	crimson feather +30 [+25/+20] (deadly d8, magical, range increment 30 feet, versatile S), Damage 4d8+11 piercing
+	Cinder Cloud
+	(A)
+	The crimson brass golem exhumes a choking incendiary cloud in a 15-foot cone. Creatures in the area take 4d8+9 fire damage (DC 33 basic Reflex save).
+	Shred Armor
+	A crimson brass golem's body is so sharp that it tears through armor like a knife through butter. Whenever the golem scores a critical hit with a fist Strike against a creature wearing non-adamantine armor, the creature's armor becomes broken.
+	________________
+
+
+
+
+CRUCIARUS
+	CREATURE
+	9
+	LE
+	Medium
+	Incorporeal
+	Undead
+	
+
+	
+
+	
+
+	
+
+	Perception
+	+22; darkvision
+	Skills
+	Arcana +21, Deception +21, Intimidation +23, Occultism +23, Stealth +19
+	STR
+	+7
+	DEX
+	+3
+	CON
+	+5
+	INT
+	+4
+	WIS
+	+5
+	CHA
+	+5
+	AC
+	31
+	Fort
+	+20
+	Ref
+	+18
+	Will
+	+24
+	
+
+	HP
+	175 (negative healing); Immunities death effects, disease, paralyzed, poison, spell deflection, unconscious
+	Speed
+	fly 30 feet
+	Melee
+	(A)
+	pain touch +24 [+20/+16] (agile), Damage 6d6 negative plus pain touch
+	Tortured Gaze
+	(A)
+	(visual) The cruciarus can channel the excruciating pain it felt as it died of doghousing against a target within 30 feet of it. The target must make a basic DC 31 Fortitude save against 6d4 points of mental damage. On a failure, the target is also fatigued.
+	Pain Touch
+	A cruciarus’ attacks cause wracking, agonizing pains to tear through a victim’s body. It ignores all kinds of resistances, but does not harm undead. Creatures affected by pain touch make a DC 31 Fortitude save or become stunned 1 from the pain.
+
+
+The stunned condition from a cruciarus can stack with itself or other cruciaruses’.
+	________________
+
+
+
+
+DELEXIA
+	CREATURE
+	12
+	LE
+	Medium
+	Humanoid
+	Orc
+	
+
+	
+
+	
+
+	Perception
+	+26; darkvision, low-light vision
+	Skills
+	Acrobatics +22, Athletics +21, Intimidation +17, Medicine +21, Nature +20, Religion +22, Survival +24
+	STR
+	+4
+	DEX
+	+5
+	CON
+	+4
+	INT
+	+0
+	WIS
+	+4
+	CHA
+	+0
+	AC
+	31
+	Fort
+	+22
+	Ref
+	+25
+	Will
+	+21
+	successes on Reflex count as crit successes
+	HP
+	215
+	Attack of Opportunity (R) Can only be triggered by movement actions
+	Speed
+	50 feet
+	Melee
+	(A)
+	hamatula strike +23 [+19/+15] (agile), Damage 3d8+12 piercing
+	Melee
+	(A)
+	unarmed strike +23 [+19/+15] (agile), Damage 3d6+12 piercing
+	Flurry of Blows
+	(A)
+	Delexia makes two strikes - either hamatula or unarmed strikes.
+	Hamatula Stance
+	(A)
+	Delexia enters her stance and can make hamatula strikes, as well as use the Hamatulatsu activity.
+	Hamatulatsu
+	(AA)
+	Delexia makes one hamatula strike, which deals 5d10+12 points of damage. This counts as two attacks towards her multiple attack penalty.
+	________________
+
+
+
+
+DISCIPLE OF SHAX
+	CREATURE
+	11
+	LE
+	Medium
+	Humanoid
+	Fiend
+	
+
+	
+
+	
+
+	Perception
+	+21; see invisibility
+	Languages
+	Common, Infernal
+	Skills
+	Acrobatics +22, Athletics +17, Deception +21, Religion +23, Shax Lore +19, Thievery +22
+	STR
+	+1
+	DEX
+	+5
+	CON
+	+4
+	INT
+	+4
+	WIS
+	+2
+	CHA
+	+3
+	AC
+	30
+	Fort
+	+19
+	Ref
+	+23
+	Will
+	+20
+	
+
+	HP
+	175
+	Speed
+	25 feet
+	Melee
+	(A)
+	dagger +23 [+19/+5] (agile), Damage 3d4+5 slashing and piercing
+	Ranged
+	(A)
+	light hammer +14 [+10/+6] (agile, magical, thrown 20 feet), Damage 2d6+5 bludgeoning
+	Shax’s Teachings
+	The disciples of Shax may make Religion checks instead of Deception checks when Feinting. Additionally, whenever they succeed at a Feint, their targets are flat-footed to all attacks made by the disciple until its next turn.
+	Sneak Attack
+	Whenever the disciple of Shax deals damage to a flat-footed creature, it deals an extra 3d6 precision damage.
+	Divine Spellcasting
+	DC 30; 6th blinding fury (x2), harm (×4); 5th flame strike (x2), see invisibility (already cast); 4th freedom of movement, silence, enervation 3rd blindness, dispel magic; Cantrips (6th) divine lance
+	________________
+
+
+
+
+DOTTARI CAPTAIN
+	CREATURE
+	8
+	LE
+	Medium
+	Humanoid
+	Human
+	
+
+	
+
+	
+
+	Perception
+	+16
+	Languages
+	Common
+	Skills
+	Architecture Lore +25, Athletics +13, Bureaucracy Lore +19, Crafting +25, Diplomacy +24, Intimidation +22, Society +21
+	STR
+	+3
+	DEX
+	+1
+	CON
+	+1
+	INT
+	+4
+	WIS
+	+2
+	CHA
+	+3
+	AC
+	26
+	Fort
+	+14
+	Ref
+	+14
+	Will
+	+17
+	
+
+	HP
+	135
+	Speed
+	25 feet
+	Melee
+	(A)
+	light hammer +16 [+12/+8] (agile), Damage 2d6+5 bludgeoning
+	Ranged
+	(A)
+	light hammer +14 [+10/+6] (agile, magical, thrown 20 feet), Damage 2d6+5 bludgeoning
+	Call To Action
+	(A)
+	The captain gives a speech to inspire themself and all allies within 60 feet, granting them a +1 status bonus to attack and damage rolls until the start of the guildmaster's next turn.
+	Sworn Duty
+	While within a barracks or presiding over Dottari business, the captain gains a +2 circumstance bonus to weapon attack rolls and deals an additional 2d6 damage on a successful weapon attack.
+	________________
+
+
+
+
+DOTTARI TROOP
+	CREATURE
+	8
+	LE
+	Gargantuan
+	Humanoid
+	Human
+	
+
+	
+
+	
+
+	Perception
+	+18
+	Languages
+	Common
+	Skills
+	Athletics +16
+	STR
+	+6
+	DEX
+	+1
+	CON
+	+4
+	INT
+	-5
+	WIS
+	+3
+	CHA
+	-5
+	AC
+	28
+	Fort
+	+19
+	Ref
+	+19
+	Will
+	+14
+	
+
+	HP
+	115 Immunities precision, swarm mind; Resistances bludgeoning 5, piercing 10, slashing 10; Weaknesses area damage 10, splash damage 10
+	Speed
+	25 feet
+	Disarm The Rebel!
+	(A)
+	Each enemy in the troop’s space takes 3d6 bludgeoning damage (DC 26 basic Reflex save), and the troop may try to disarm each target affected. 
+	Get this Rebel On The Ground!
+	(A)
+	Each enemy in the troop’s space takes 3d6 bludgeoning damage (DC 26 basic Reflex save), and the troop may try to trip each target affected. 
+	________________
+
+
+
+
+DYBBUK
+	CREATURE
+	15
+	NE
+	Medium
+	Incorporeal
+	Spirit
+	Undead
+	
+
+	
+
+	Perception
+	+27; darkvision
+	Skills
+	Acrobatics +28, Deception +31, Diplomacy +27, Intimidation +29, Stealth +28
+	STR
+	-5
+	DEX
+	+7
+	CON
+	+0
+	INT
+	+1
+	WIS
+	+6
+	CHA
+	+8
+	AC
+	35
+	Fort
+	+21
+	Ref
+	+28
+	Will
+	+29
+	
+
+	HP
+	175 (negative healing); Immunities death effects, disease, paralyzed, poison, precision, unconscious; Resistances all damage 10 (except force, ghost touch, or positive, double resistance against non-magical)
+	Frightful Presence (aura, divine, emotion, enchantment, fear, mental) 30 feet, DC 33
+	Speed
+	fly 50 feet
+	Melee
+	(A)
+	pain touch +28 [+24/+20] (agile, evil, finesse, magical), Damage 3d10+14 negative plus 2d6 evil
+	Inhabit Object
+	(A)
+	(necromancy, occult, possession) The dybbuk possesses a Large or smaller unattended object within 20 feet, making it an animated object. This animated object's level can be no higher than the dybbuk's level – 2. This possession ends when the object is destroyed or the dybbuk leaves it by using this ability again. At this point, the dybbuk reappears in the object's square and can't Inhabit an Object again for 1d4 rounds. If the object is destroyed, the dybbuk takes 5d6 force damage.
+	Malevolent Possession
+	(AA)
+	(incapacitation, mental, necromancy, occult, possession) The dybbuk attempts to possess an adjacent corporeal creature. This has the same effect as the possession spell (DC 34) with an unlimited duration, except since the dybbuk doesn't have a physical body, they aren't unconscious, and aren't paralyzed when the effect ends, though they take 5d6 force damage if the body is knocked unconscious or killed. If the dybbuk took control of the target with Malevolent Possession, when the dybbuk departs, the target has only incoherent memories of the interval it was possessed. If a creature dies while possessed by the dybbuk and its corpse remains intact, the dybbuk can immediately inhabit the corpse (see Inhabit Object) as a reaction, in which case the corpse becomes an animated object.
+	Occult Innate Spells
+	DC 36, attack +30; 6th dominate, feeblemind, telekinetic maneuver (at will); 5th chilling darkness (×2), fear; 4th modify memory; 3rd fear (at will); Cantrips (6th) telekinetic projectile
+	________________
+
+
+
+
+ERUBDIYA
+	CREATURE
+	9
+	N
+	Large
+	Ooze
+	
+
+	
+
+	
+
+	
+
+	Perception
+	+18; darkvision
+	Languages
+	Common, Infernal
+	Skills
+	Acrobatics +18, Athletics +16, Deception +17, Intimidation +19, Occultism +20, Stealth +20
+	STR
+	+3
+	DEX
+	+4
+	CON
+	+3
+	INT
+	+1
+	WIS
+	+3
+	CHA
+	+5
+	AC
+	28
+	Fort
+	+15
+	Ref
+	+20
+	Will
+	+18
+	
+
+	HP
+	160
+	Speed
+	25 feet, climb 25 feet
+	Melee
+	(A)
+	fangs +19 [+15/+11] (agile, finesse), Damage 2d8+9 piercing plus spirit naga venom
+	Spit
+	(A)
+	Erubdiya makes an attack with a +20 bonus against a creature within 30 feet of it in order to entangle them. A target struck with the goo has its Speed reduced by 15 feet. A creature can end the effect by spending a total of 3 Interact actions to carefully remove the sticky substance.
+	Occult Spontaneous Spells
+	DC 28, attack +20; 5th black tentacles, sending, subconscious suggestion (3 slots); 4th clairvoyance, confusion, fly, modify memory (4 slots); 3rd dream message, mind reading, paralyze, vampiric touch (4 slots); 2nd blur, humanoid form, mirror image, telekinetic maneuver (4 slots); 1st charm, command, grim tendrils, unseen servant (4 slots); Cantrips (5th) daze, detect magic, mage hand, read aura, sigil
+
+
+	Slime Naga Venom
+	(poison) Saving Throw DC 28; Maximum Duration 6 rounds; Stage 1 2d6 poison damage and stupefied 1 (1 round); Stage 2 2d6 poison damage and stupefied 2 (1 round)
+	________________
+
+
+FANGRANE
+	CREATURE
+	18
+	LE
+	Medium
+	Devil
+	Fiend
+	
+
+	
+
+	
+
+	
+
+	Perception
+	+34; (+38 to Sense Motive) greater darkvision
+	Skills
+	Acrobatics +31, Deception +36, Diplomacy +38, Intimidation +32, Religion +32, Society +29, Stealth +35
+	STR
+	+7
+	DEX
+	+8
+	CON
+	+6
+	INT
+	+4
+	WIS
+	+7
+	CHA
+	+9
+	AC
+	42
+	Fort
+	+29
+	Ref
+	+31
+	Will
+	+34
+	+1 status to all saves vs. magic
+	HP
+	320; Immunities fire; Resistances physical 15 (except silver); Weaknesses good 15
+	Indomitable Oration Any creature capable of comprehending speech understands Fangrane, as if they constantly spoke in all languages at once.
+	Whispers of Discord (R) Trigger A creature within 60 feet is targeted by a spell that would restore Hit Points or provide a status bonus (Fangrane automatically recognizes such effects); Effect Fangrane whispers disturbing lies, audible only to the target, to shake the target's faith in the spell's caster. The target must attempt a DC 45 Will save.
+
+
+Critical Success The target disbelieves the lies and receives the intended benefit of the spell; the target becomes temporarily immune to Whispers of Discord for 24 hours.
+Success As critical success, but the target isn't temporarily immune.
+Failure The spell fails to affect the target. The target refuses all aid from that caster for 1 round and doesn't count as the caster's ally.
+Critical Failure As failure, but the duration is 1 minute.
+	Speed
+	30 feet, fly 40 feet
+	Melee
+	(A)
+	claw +35 [+31/+27] (agile, evil, finesse, magical), Damage 3d8+19 slashing plus 1d6 evil
+	Divine Innate Spells
+	DC 44, attack +36; 9th divine decree, dominate, illusory scene (at will); 7th dimension door, scrying, touch of idiocy (at will), veil, warp mind; 4th dimension door (at will); 3rd dream message (at will)
+	Boundless Reach
+	(conjuration, divine, teleportation) Fangrane’s razor-sharp claws can slice through reality, allowing them to make claw Strikes and use spells with a range of touch against any creature they can see directly or via divination magic. A creature targeted this way can retaliate until the start of Fangrane’s next turn; it can target the devil's claws as if the devil were physically present and adjacent to the target, though the claws are concealed.
+	________________
+
+
+
+
+FIENDISH GREEN HAG
+	CREATURE
+	9
+	NE
+	Medium
+	Fiend
+	Hag
+	
+
+	
+
+	
+
+	Perception
+	+18; darkvision
+	Languages
+	Abyssal, Aklo, Celestial, Common, Infernal
+	Skills
+	Arcana +18, Deception +18, Diplomacy +18, Intimidation +14, Occultism +20, Religion +20
+	Coven
+	The green hag adds dominate, nightmare, scrying, and spellwrack to her coven’s spells.
+	STR
+	+5
+	DEX
+	+4
+	CON
+	+6
+	INT
+	+4
+	WIS
+	+5
+	CHA
+	+3
+	AC
+	28
+	Fort
+	+19
+	Ref
+	+17
+	Will
+	+18
+	+2 status to all saves vs. magic, –2 to all saves if the night hag does not have her heartstone
+	HP
+	170; Immunities sleep; Resistances mental 10; Weaknesses cold iron 10
+	Speed
+	25 feet, climb 25 feet
+	Melee
+	(A)
+	jaws +20 [+15/+10] (magical), Damage 2d8+8 piercing plus 1d6 evil and Abyssal plague
+	Melee
+	(A)
+	claw +20 [+16/+12] (agile, magical), Damage 2d10+8 slashing plus 1d6 evil
+	Occult Innate Spells
+	DC 28; 9th bind soul (at will; from heartstone), ethereal jaunt (at will; from heartstone); 8th dream council; 5th nightmare, shadow blast (x2, from heartstone); 3rd dream message (at will), magic missile (at will); 2nd invisibility (at will); 1st ray of enfeeblement (at will), sleep (at will); Constant (3rd) detect magic; (2nd) detect alignment (all alignments simultaneously)
+
+
+	Abyssal Plague
+	(disease) A creature can’t recover from drained until abyssal plague is cured. Saving Throw DC 28 Fortitude; Stage 1 Drained 1 (1 day); Stage 2 Drained increases by 2 (1 day)
+	Change Shape (A)
+	The green hag can take on the appearance of any Medium female humanoid. This doesn’t change her Speed or her attack and damage bonuses with her Strikes, but might change the damage type her Strikes deal (typically to bludgeoning).
+	Spell Ambush
+	A creature flat-footed to the green hag takes a –2 circumstance penalty to checks and DCs to defend against her spells.
+	
+
+
+________________
+
+
+
+GALLOWDEAD
+	CREATURE
+	17
+	CE
+	Medium
+	Undead
+	
+
+	
+
+	
+
+	
+
+	Perception
+	+32; darkvision
+	Skills
+	Athletics +31, Intimidation +32, Occultism +25
+	STR
+	+8
+	DEX
+	+5
+	CON
+	+0
+	INT
+	+2
+	WIS
+	+6
+	CHA
+	+6
+	AC
+	39
+	Fort
+	+25
+	Ref
+	+29
+	Will
+	+32
+	
+
+	HP
+	300
+	Aura of Whispers A gallowdead constantly whispers vile secrets and blasphemous chants. Any creature within 30 feet of a gallowdead must succeed at a DC 38 Will save or be frightened 2. This effect stacks with itself and other gallowdead’s auras, up to a maximum of frightened 8.
+	Speed
+	40 feet
+	Melee
+	(A)
+	spiked chain +32 [+27/+22] (finesse, magical), Damage 3d6+14 piercing plus Improved Grab
+	Chains of the Dead
+	(A)
+	Frequency once per round
+Effect The gallowdead makes one spike chain Strike. On a success, the strike deals an extra 8d10 negative damage (basic Fortitude save DC 38). On a failure, the strike does not count towards the gallowdead’s multiple attack penalty.
+	Masterful Torturer
+	A gallowdead can expertly maneuver a grabbed creature with its spiked chain. It does not need to spend an action to extend the duration for creatures it already has grabbed.
+	________________
+
+
+GREENBRIAR SLAVER
+	CREATURE
+	9
+	LE
+	Medium
+	Humanoid
+	Human
+	
+
+	
+
+	
+
+	Perception
+	+18
+	Skills
+	Acrobatics +16, Athletics +17, Hunting Lore +12, Medicine +14, Nature +14, Society +12, Stealth +20 (moves full speed while Sneaking), Survival +18
+	STR
+	+5
+	DEX
+	+4
+	CON
+	+3
+	INT
+	+0
+	WIS
+	+2
+	CHA
+	+2
+	AC
+	28
+	Fort
+	+19
+	Ref
+	+20
+	Will
+	+16
+	successes on Reflex count as crit successes
+	HP
+	138
+	Attack of Opportunity (R) Can only be triggered by movement actions
+	Speed
+	30 feet
+	Melee
+	(A)
+	+1 striking Scorpion Whip +20 [+115/+110] (disarm, trip, reach), Damage 2d4+8 slashing
+	Melee
+	(A)
+	unarmed strike +20 [+115/+110] (trip), Damage 1d6+8 slashing
+	Get Over Here, Worm!
+	(AA)
+	The slaver makes two Strikes, one with its spiked whip and one unarmed attack, each using your current multiple attack penalty.
+
+If the first strike connects, the slaver may automatically pull the target closer to him before making the second attack against the same target.
+	Bleed for me, slave
+	(A)
+	Requirements The slaver’s last action was Double Slice, and both attacks hit the target Effect The slavers flenses the target, making it bleed and creating a weak spot. The target takes 2d8 persistent bleed damage, becomes flat-footed, and its resistances to any physical damage types are reduced by 5; these two effects last until the beginning of the slaver’s next turn.
+	________________
+
+
+GRUNDLESCORN SISTER
+	CREATURE
+	13
+	NE
+	Medium
+	Fiend
+	Hag
+	Humanoid
+	
+
+	
+
+	Perception
+	+26; darkvision
+	Languages
+	Abyssal, Aklo, Celestial, Common, Infernal
+	Skills
+	Arcana +26, Deception +26, Diplomacy +26, Intimidation +20, Occultism +26, Religion +26
+	STR
+	+5
+	DEX
+	+4
+	CON
+	+6
+	INT
+	+4
+	WIS
+	+5
+	CHA
+	+3
+	AC
+	34
+	Fort
+	+25
+	Ref
+	+17
+	Will
+	+18
+	+2 status to all saves vs. magic
+	HP
+	170; Immunities sleep; Resistances mental 10; Weaknesses cold iron 10
+	Speed
+	50 feet
+	Melee
+	(A)
+	bone needle +20 [+15/+10] (magical), Damage 2d8+8 piercing plus 1d6 evil and Abyssal plague
+	Primal Innate Spells
+	DC 28; 9th bind soul (at will; from heartstone), ethereal jaunt (at will; from heartstone); 8th dream council; 6th chain lightning (x3); 5th lightning storm (x3); 3rd dream message (at will), magic missile (at will); 2nd invisibility (at will); 1st ray of enfeeblement (at will), sleep (at will); Constant (3rd) detect magic; (3rd) detect alignment (all alignments simultaneously)
+	Grundlescorn Coven
+	(R)
+	Frequency: once per day
+Trigger: The Grundlescorn sister cast a spell with the electricity trait
+Effect: For each other sister within 60 feet, the spell is heightened 1 level higher.
+	Your Heart is Mine
+	(AAA)
+	The storm hag stabs a creature in the heart, seemingly penetrating all armor and taking out its heart. This works like the Paralyze spell (DC 36), except the Will saving throw also counts as a basic save against 10d10 piercing damage.
+	________________
+
+
+
+
+HANDMAIDEN DEVIL LIBRARIAN
+	CREATURE
+	15
+	LE
+	Medium
+	Devil
+	Fiend
+	
+
+	
+
+	
+
+	Perception
+	+30; greater darkvision, true seeing
+	Skills
+	Acrobatics +27, Arcana +25, Athletics +28, Deception +30, Diplomacy +28, Religion +26, Stealth +27
+	STR
+	+4
+	DEX
+	+7
+	CON
+	+4
+	INT
+	+5
+	WIS
+	+6
+	CHA
+	+8
+	AC
+	38
+	Fort
+	+24
+	Ref
+	+27
+	Will
+	+30
+	+1 status vs all magic
+	HP
+	270; Immunities fire; Resistances physical 10 (except silver); Weaknesses good 10
+	Reflexive Grab (R)
+	Trigger A creature leaves a square within the gylou's reach using a move action or attempts a melee Strike against the gylou; Effect The gylou lashes out with a tentacle, attempting to Grapple the triggering creature. If the triggering Strike was with a melee weapon, the attacking creature can Release the weapon to cause the gylou to automatically fail the Athletics check.
+	Speed
+	35 feet, climb 35 feet
+	Melee
+	(A)
+	claw +32 [+28/+24] (agile, evil, finesse, magical), Damage 3d8+14 slashing plus 1d6 evil
+	Melee
+	(A)
+	tentacle +32 [+27/+22] (evil, magical, reach 10 feet), Damage 3d12+16 bludgeoning plus Grab
+	Change Shape
+	(A)
+	(concentrate, divine, polymorph, transmutation) The gylou adopts the appearance of any Small or Medium humanoid. This doesn't change their Speed or the attack and damage modifiers of their Strikes, but it might change the damage type their Strikes deal (typically to bludgeoning).
+	Tentacle Encage
+	(A)
+	(attack) Requirements The gylou has a Medium or smaller creature grabbed; Effect The gylou transfers the grabbed creature into their lower body's net of encaging tentacles, freeing their limbs and tentacles to make Strikes. This has the same effects as Swallow Whole (Medium, 2d12+12 bludgeoning, Rupture 60), except the encaged creature is not at risk of suffocation, and the gylou can bring the encaged creature with them when they cast dimension door. A gylou can have only one creature encaged at a time.
+	Indispensable Savvy
+	(R)
+	Frequency once per day; Trigger The gylou attempts a skill check but hasn't rolled yet; Effect The gylou demonstrates a preternatural ability for the task at hand. They use their Deception modifier for the triggering check and for all skill checks using the same skill thereafter until the next time the gylou uses this ability or until 24 hours have passed, whichever happens first.
+	Divine Innate Spells
+	DC 36, attack +28; 7th dispel magic, dominate; 5th black tentacles, dimension door, illusory object (at will); 4th charm (×3), dimension door (at will), enthrall (at will); Constant (7th) true seeing
+	________________
+
+
+
+
+HEI-FEN
+	CREATURE
+	12
+	LE
+	Medium
+	Humanoid
+	Ratfolk
+	
+
+	
+
+	
+
+	Items
+	+2 Greater Striking Shortsword, +2 Greater Resilient Chain Shirt
+	Perception
+	+22; scent (imprecise) 30 ft.
+	Skills
+	Acrobatics +23, Arcana +17, Athletics +13, Crafting +17, Deception +17, Medicine +18, Occultism +17, Performance +15, Religion +18, Society +21, Stealth +18, Thievery +20
+	STR
+	-1
+	DEX
+	+5
+	CON
+	+4
+	INT
+	+3
+	WIS
+	+4
+	CHA
+	+1
+	AC
+	31
+	Fort
+	+21
+	Ref
+	+24
+	Will
+	+21
+	Success on Reflex counts as Cri. Success
+	HP
+	162
+	Clever Gambit (R) Trigger: Hei-Fen critically hits a creature she has identified with Recall Knowledge
+Effect: Hei-Fen Steps or Strides
+	Opportune Backstab (R) Trigger: A creature within Hei Fen’s reach is hit by a melee attack from one of her allies
+Effect: Hei-Fen makes a Strike against the triggering creature.
+	Speed
+	30 feet
+	Melee
+	(A)
+	+2  greating striking shortsword +23 [+19/+15] (magical), Damage 3d6+3
+	Predictable!
+	(A)
+	Hei-Fen rolls Perception against a target’s Deception DC.
+Critical Success, she gains a +2 circumstance bonus to AC and to her next saving throw against the creature. 
+Success As per Critical Success, but the bonus is instead +1.
+	Debilitating Strike
+	(F)
+	Trigger: Hei-Fen’s Strike hits a flat-footed creature and deals damage.
+Effect: Hei-Fen can choose one of the following effects:
+
+-Make the creature enfeebled 1
+-Impose a -10 foot penalty to its Speeds. 
+-The target can’t flank other creatures, and can’t provide flanking
+The target doesn’t gain a bonus to AC for raising a shield, and Taking Cover only grants a +2 bonus instead of +4.
+-The target takes 3d6 persistent bleed damage.
+
+The chosen effect lasts until the end of Hei-Fen’s next turn.
+	Sneak Attack
+	Hei-Fen deals an extra 3d6 points of precision damage against creatures that are flat-footed. On the first round of combat, creatures that haven’t acted are flat-footed to Hei-Fen.
+	Light Step
+	Hei-Fen ignores difficult terrain when Striding or Stepping.
+	Deny Advantage
+	Hei-Fen is not flat-footed to hidden, undetected or flanking creatures of level 12 or lower.
+	________________
+
+
+
+
+HELLGOUILLE
+	CREATURE
+	10
+	CE
+	Large
+	Dream
+	Incorporeal
+	
+
+	
+
+	
+
+	
+
+	Perception
+	+18; darkvision
+	Skills
+	Acrobatics +14, Deception +18, Intimidation +18, Occultism +12, Stealth +18
+	STR
+	-5
+	DEX
+	+4
+	CON
+	+3
+	INT
+	+0
+	WIS
+	+2
+	CHA
+	+6
+	AC
+	28
+	Fort
+	+19
+	Ref
+	+22
+	Will
+	+18
+	+1 vs magic
+	HP
+	170 Immunities disease, paralyzed, poison, precision, sleep; Resistances all 5 (except force, ghost touch, or negative; double resistance vs. non-magical)
+	Attack of Opportunity (R)
+	Speed
+	fly 40 feet
+	Melee
+	(A)
+	nightmare tendril +24 [+20/+16] (agile, finesse), Damage 6d8 negative plus endless nightmare
+	Occult Innate Spells 
+	DC 26; 4th confusion, dimension door (at will), nightmare, phantasmal killer, sleep; 3rd fear
+	Endless Nightmare
+	(curse, emotion, enchantment, fear, mental, occult) An animate dream's touch fills the victim's mind with terrifying visions; Saving Throw DC 26 Fortitude; Stage 1 fatigued (1 day); Stage 2 fatigued and stupefied 1 (1 day); Stage 3 The victim falls asleep and can't be awakened as long as they remain at this stage (1 day).
+	________________
+
+
+
+
+HELLKNIGHT OF THE RACK
+	CREATURE
+	8
+	LE
+	Medium
+	Humanoid
+	Human
+	
+
+	
+
+	
+
+	Perception
+	+16
+	Languages
+	Common
+	Skills
+	Athletics +19, Deception +16, Intimidation +18, Religion +14, Survival +14
+	STR
+	+4
+	DEX
+	+1
+	CON
+	+3
+	INT
+	+0
+	WIS
+	+1
+	CHA
+	+3
+	AC
+	31
+	Fort
+	+20
+	Ref
+	+16
+	Will
+	+17
+	
+
+	HP
+	105
+	Destructive Vengeance (R) (divine, necromancy) Trigger An enemy within 15 feet damages the hellknight; Effect The hellknight increases the amount of damage they take by 2d6 and deals 2d6 damage to the triggering enemy, choosing evil or negative damage. In addition, the hellknight deals 2 extra damage of the chosen type with their Strikes against the triggering creature until the end of the hellknight’s next turn.
+	Speed
+	20 feet
+	Melee
+	(A)
+	greataxe +21 [+16/+11] (sweep), Damage 1d12+16 slashing
+	Ranged
+	(A)
+	javelin +18 [+13/+8] (thrown 30 feet), Damage 1d6+16 piercing
+	Intimidating Strike
+	(AA)
+	 The hellknight makes a melee Strike. If they hit and deal damage, the target is frightened 1, or frightened 2 on a critical hit.
+	Champion Devotion Spells
+	DC 26, 1 Focus Point; 3rd touch of corruption
+	________________
+
+
+
+
+HELL-PRISON
+	CREATURE
+	16
+	Haunt
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	Complexity
+	Complex
+	Stealth
+	+26 (master)
+	Description
+	A squat, miniature replica of a prison stands in the middle of a vacant lot - its walls are made of iron, and have jagged edges and corners.
+	Disable Religion DC 36 (master) to creature a magical circle around the prison which evokes feelings of freedom, Perform or Diplomacy DC 34 (master) to perform a speech that inspires the prisoners inside it to find their way out, Society DC 36 (master) to aid the prisoners with a escape route, or Lore (Hell) DC 25 to describe what the prisoners will encounter on their way out of the hell-prison.
+
+
+Each successful Disable check frees one prisoner from the maze spell (who may still escape with their own Survival checks). Once the hell-prison has no more prisoners left for 1 minute, it slowly burns in infernal flame and melts away.
+	Straight to Nessus (R)  Trigger The hell-prison has successfully trapped nine victims inside its maze spell; Effect The prison sends all nine victims to a prison in Hell immediately.
+	Routine
+	(AAA)
+	The hell-prison immediately senses all living creatures within 100 feet of it, and compels them  to approach it. This acts like an 8th-level Suggestion spell with a range of 100 feet that does not require line of effect nor line of sight.
+	Routine
+	(AAA)
+	Requirement At least one successful check has been made to disable the hell-prison
+Effect The hell-prison summons a Barbed Devil to protect it. The prison can control up to 5 Barbed Devils, and does not need to spend actions to control them
+	Reset
+	The prison ends when it is destroyed, and does not reset.
+	________________
+
+
+
+
+HERECITE OF ASMODEUS
+	CREATURE
+	9
+	LE
+	Large
+	Incorporeal
+	Undead
+	Wraith
+	
+
+	
+
+	Perception
+	+19; darkvision, lifesense 60 feet
+	Skills
+	Acrobatics +19, Intimidation +21, Stealth +19
+	STR
+	-5
+	DEX
+	+6
+	CON
+	+3
+	INT
+	+3
+	WIS
+	+5
+	CHA
+	+6
+	AC
+	28
+	Fort
+	+16
+	Ref
+	+19
+	Will
+	+21
+	+1 vs positive
+	HP
+	130 (negative healing); Immunities death effects, disease, paralyzed, poison, precision, unconscious; Resistances all 10 (except force, ghost touch, or positive
+	Draining Presence (aura, negative) 10 feet. A creature entering the aura must succeed at a DC 26 Fortitude save or become drained 1. It recovers after it has been out of the aura for 1 minute. This drained condition value is cumulative with the drained value caused by drain life, but not with multiple draining presence auras. A creature that succeeds at its save is temporarily immune to draining presence for 24 hours.
+
+
+Sunlight Powerlessness A herecite caught in sunlight is stunned 2 and clumsy 2.
+
+
+Attack of Opportunity (R)
+	Speed
+	fly 60 feet
+	Melee
+	(A)
+	spectral hand +21 [+16/+11] (finesse, reach 10 feet), Damage 2d10+7 negative plus drain life
+	Absorb Wraith
+	(AA)
+	The herecite extends its hand toward another herecite within 100 feet. The target herecite dissolves and streaks toward the herecite in a straight line, dealing 6d10 negative damage to each creature along the line (DC 28 basic Fortitude save). The herecite absorbs the essence of the target wraith, becoming quickened and gaining a +10-foot status bonus to its fly Speed for a number of rounds equal to the level of the absorbed herecite. It can use its extra action only to Fly or Strike. An unwilling target can attempt a DC 28 Will save to resist being absorbed.
+	Drain Life
+	(divine, necromancy) When the herecite damages a living creature with its spectral hand Strike, the herecite gains 10 temporary Hit Points and the target must succeed at a DC 28 Fortitude save or become drained 1. Further damage dealt by the wraith increases the drained condition value by 1 on a failed save, to a maximum of drained 4.
+	Wraith Spawn
+	(divine, necromancy) A living humanoid slain by a herecite’s spectral hand Strike rises as a wraith spawn after 1d4 rounds. This wraith spawn is under the command of the herecite that killed it. It doesn't have drain life or wraith spawn. If the creator of the wraith spawn dies, the wraith spawn becomes a full-fledged, autonomous wraith; it regains its free will and gains drain life and wraith spawn.
+	________________
+
+
+
+
+HORNED DEVIL
+	CREATURE
+	16
+	LE
+	Large
+	Devil
+	Fiend
+	
+
+	
+
+	
+
+	
+
+	
+
+	Perception
+	+28; greater darkvision
+	Languages
+	Celestial, Common, Draconic, Infernal; telepathy 100 feet
+	Skills
+	Acrobatics +28, Athletics +32, Intimidation +30, Religion +28, Stealth +26, Warfare Lore +30
+	STR
+	+8
+	DEX
+	+6
+	CON
+	+7
+	INT
+	+4
+	WIS
+	+6
+	CHA
+	+6
+	AC
+	38
+	Fort
+	+31
+	Ref
+	+26
+	Will
+	+26
+	+1 status vs. magic
+	HP
+	300; Immunities fire; Resistances physical 15 (except silver), poison 15; Weaknesses good 15
+	Circle of Protection (abjuration, aura, divine, evil) 10 feet. A constant circle of protection against good is centered on the cornugon.
+	Commander's Aura (aura, divine, enchantment) 100 feet. Allied evil creatures in the aura of a level lower than the devil's gain a +1 circumstance bonus to attack rolls, damage rolls, AC, saves, and skill checks.
+	Frightful Presence (aura, divine, emotion, enchantment, fear, mental) 10 feet, DC 34
+	Attack of Opportunity (R) 
+	Speed
+	25 feet, fly 50 feet
+	Melee
+	(A)
+	spiked chain +34 [+29/+24] (disarm, evil, finesse, magical, reach 10 feet, trip), Damage 3d8+16 slashing plus 2d6 evil and stunning chain
+	Melee
+	(A)
+	claw +32 [+28/+24] (agile, magical, reach 10 feet), Damage 3d10+14 slashing plus 1d6 evil
+	Melee
+	(A)
+	tail +32 [+27/+22] (magical, reach 10 feet), Damage 3d8+14 slashing plus 1d6 evil and infernal wound
+	Chain of Malebolge
+	(A)
+	Requirements The cornugon's last action was a success with a spiked chain Strike; Effect The devil pulls the creature 5 feet closer and grabs it with the spiked chain (Escape DC 42). The creature is automatically freed if the devil makes another spiked chain attack or moves away.
+	Divine Innate Spells
+	DC 36; 7th dispel magic, fireball (×2), lightning bolt (×2); 5th dimension door; 4th dimension door (at will)
+	Infernal Wound
+	(divine, necromancy) A cornugon's tail Strike deals 4d6 persistent bleed damage. The DC of the flat check to stop the bleeding starts at 20 and is reduced to 15 only if someone successfully assists. The DC to Administer First Aid to a creature with an infernal wound increases by 10. A spellcaster or item using healing magic on an infernally wounded creature must succeed at a DC 34 counteract check or the magic fails to heal the creature.
+	Stunning Chain
+	(incapacitation) If the cornugon critically hits with its spiked chain Strike, the target must succeed at a DC 34 Fortitude save or be stunned for 1 round (1d4 rounds on a critical failure).
+	________________
+
+
+
+
+HOST DEVIL
+	CREATURE
+	8
+	LE
+	Medium
+	Devil
+	Fiend
+	
+
+	
+
+	
+
+	Perception
+	+18; greater darkvision, true seeing
+	Languages
+	Celestial, Common, Draconic, Infernal; telepathy 100 feet
+	Skills
+	Acrobatics +17, Crafting +14, Deception +19, Diplomacy +15, Intimidation +19, Religion +16, Stealth +17
+	STR
+	+5
+	DEX
+	+5
+	CON
+	+5
+	INT
+	+2
+	WIS
+	+4
+	CHA
+	+5
+	AC
+	27
+	Fort
+	+19
+	Ref
+	+17
+	Will
+	+16
+	+1 vs magic
+	HP
+	120 ; Immunities fire; Resistances physical 5 (except silver), poison 10; Weaknesses good 5
+	Speed
+	25 feet, fly 40 feet
+	Melee
+	(A)
+	flaming ranseur +19 [+14/+9] (evil, fire, magical, versatile P), Damage 1d10+8 slashing plus 1d6 evil and 1d6 fire
+	Melee
+	(A)
+	claw+19 [+15/+11] (evil, fire, magical, versatile P), Damage 1d8+8 slashing plus 1d6 evil and 1d6 fire
+	Divine Innate Spells
+	DC 26; 5th dimension door; 4th dimension door (at will), divine wrath, retributive pain; 3rd fear (at will); 2nd illusory disguise (at will), illusory object; Constant (6th) true seeing
+	Noxious Breath
+	(AA)
+	The host devil exhales a breath that reeks of pure corruption in a 30-foot cone. Creatures in the area must make a DC 26 Fortitude save or be sickened 2. Creatures that succeed are immune to this Host Devil’’s Noxious breath for 24 hours.
+	________________
+
+
+HOUND OF OLD KINTARGO
+	CREATURE
+	13
+	LE
+	Large
+	Beast
+	Fiend
+	Fire
+	
+
+	
+
+	Perception
+	+23; darkvision, scent (imprecise) 120 feet
+	Skills
+	Acrobatics +24, Athletics +22, Stealth +24, Survival +26 (+28 to Track)
+	STR
+	+8
+	DEX
+	+6
+	CON
+	+6
+	INT
+	-2
+	WIS
+	+5
+	CHA
+	-2
+	AC
+	34
+	Fort
+	+26
+	Ref
+	+24
+	Will
+	+20
+	+1 vs magic
+	HP
+	230; Immunities fire; Weaknesses cold 15
+	Hellish Revenge (R) Trigger The hound is critically hit by any Strike. Effect The hound’s Breath Weapon recharges. It can immediately use it as part of this reaction.
+
+
+Flames of Anger (R) Trigger The hound deals evil damage to a creature with its Jaws Strike. Effect The hound bites through the target’s resistances. For 1 hour, the target’s resistances are lowered by an amount equal to the evil damage dealt to them. This effect can stack multiple times, and even with other hound’s Flames of Anger.
+	Speed
+	40 feet
+	Melee
+	(A)
+	jaws +27 [+22/+17] (magical), Damage 3d8+10 piercing plus 1d6 evil and 2d6 fire
+	Breath Weapon
+	(A)
+	(divine, evocation, fire) The hound breathes flames that deal 14d6 fire damage to all creatures in a 15-foot cone (DC 33 basic Reflex save.) The hound can’t use Breath Weapon again for 1d4 rounds. If the hound would take fire damage or be targeted by a fire effect, its Breath Weapon recharges.
+	________________
+
+
+
+
+ICE DEVIL
+	CREATURE
+	11
+	LN
+	Large
+	Fiend
+	Devil
+	
+
+	
+
+	
+
+	Perception
+	+26; greater darkvision
+	Languages
+	Celestial, Common, Draconic, Infernal; telepathy 100 feet
+	Skills
+	Acrobatics +22, Athletics +23, Deception +25, Diplomacy +25, Intimidation +23, Religion +26, Society +25, Stealth +22, Warfare Lore +30
+	STR
+	+6
+	DEX
+	+5
+	CON
+	+5
+	INT
+	+8
+	WIS
+	+5
+	CHA
+	+4
+	AC
+	34
+	Fort
+	+24
+	Ref
+	+24
+	Will
+	+26
+	+1 vs magic
+	HP
+	215; Immunities cold, fire; Resistances physical 10 (except silver), poison 10; Weaknesses good 10
+	Frightful Presence (aura, divine, emotion, enchantment, fear, mental) 10 feet, DC 31
+	Attack of Opportunity (R) 
+	Speed
+	35 feet, fly 35 feet
+	Melee
+	(A)
+	frost longspear +28 [+23/+18] (cold, evil, magical, reach 15 feet), Damage 2d8+12 piercing plus 1d6 cold, 1d6 evil, and slowing frost
+	Melee
+	(A)
+	tail +25 [+21/+17] (agile, cold, evil, magical, reach 10 feet), Damage 2d6+12 bludgeoning plus 2d6 cold, 1d6 evil, and slowing frost
+	Ranged
+	(A)
+	frost longspear +27 [+22/+17] (cold, magical, thrown 20 feet), Damage 2d8+12 piercing plus 1d6 cold
+	Tactician of Cocytus
+	(A)
+	An ice devil’s logical mind devises genius tactics from its perfect memory. It can telepathically send a tactical repositioning to its allies, allowing all commanded or allied evil creatures in the range of its telepathy to immediately Stride (or Burrow, Climb, Fly, or Swim, if the creature has the corresponding Speed).
+	Divine Innate Spells
+	DC 33; 7th cone of cold (x2); 6th illusory scene; 5th dimension door, wall of ice (x3); 4th dimension door (at will); Cantrips (7th) ray of frost; Constant (4th) fly Rituals DC 33; 1st infernal pact
+
+
+	Slowing Frost
+	The ice devil channels the extreme cold of its body through its appendages and weapons. A creature hit by an ice devil’s weapon or unarmed attack in melee must attempt a DC 32 Fortitude save or be slowed 1 for 1d4 rounds. A weapon used by an ice devil gains the effects of a frost rune while the gelugon holds it, and the ice devil can throw any such weapon with a 20-foot range increment, trailing motes of frost.
+	
+
+	
+
+	
+
+	
+
+	________________
+
+
+
+
+ICE DEVIL JANITOR
+	CREATURE
+	11
+	LN
+	Large
+	Fiend
+	Devil
+	
+
+	
+
+	
+
+	Perception
+	+28; greater darkvision
+	Languages
+	Celestial, Common, Draconic, Infernal; telepathy 100 feet
+	Skills
+	Acrobatics +24, Athletics +25, Deception +27, Diplomacy +27, Intimidation +25, Religion +28, Society +27, Stealth +24, Warfare Lore +32
+	STR
+	+6
+	DEX
+	+5
+	CON
+	+5
+	INT
+	+8
+	WIS
+	+5
+	CHA
+	+4
+	AC
+	36
+	Fort
+	+26
+	Ref
+	+26
+	Will
+	+28
+	+1 vs magic
+	HP
+	235; Immunities cold, fire; Resistances physical 10 (except silver), poison 10; Weaknesses good 10
+	Frightful Presence (aura, divine, emotion, enchantment, fear, mental) 10 feet, DC 33
+	Attack of Opportunity (R) 
+	Speed
+	35 feet, fly 35 feet
+	Melee
+	(A)
+	frost longspear +28 [+23/+18] (cold, evil, magical, reach 15 feet), Damage 2d8+12 piercing plus 1d6 cold, 1d6 evil, and slowing frost
+	Melee
+	(A)
+	tail +25 [+21/+17] (agile, cold, evil, magical, reach 10 feet), Damage 2d6+12 bludgeoning plus 2d6 cold, 1d6 evil, and slowing frost
+	Ranged
+	(A)
+	frost longspear +27 [+22/+17] (cold, magical, thrown 20 feet), Damage 2d8+12 piercing plus 1d6 cold
+	Janitor of Cocytus
+	(A)
+	An ice devil’s logical mind devises genius tactics from its perfect memory, and when those genius tactics are applied to cleaning, they can be lethal. The ice devil can telepathically move items with his mind, functioning as a 4th-level Telekinetic Assault (DC 35).
+	Divine Innate Spells
+	DC 35; 7th cone of cold, forcecage; 6th illusory scene, feeblemind; 5th dimension door, wall of ice (x3); 4th dimension door (at will); Cantrips (7th) ray of frost; Constant (4th) fly Rituals DC 33; 1st infernal pact
+
+
+	Slowing Frost
+	The ice devil channels the extreme cold of its body through its appendages and weapons. A creature hit by an ice devil’s weapon or unarmed attack in melee must attempt a DC 34 Fortitude save or be slowed 1 for 1d4 rounds. A weapon used by an ice devil gains the effects of a frost rune while the gelugon holds it, and the ice devil can throw any such weapon with a 20-foot range increment, trailing motes of frost.
+	________________
+
+
+
+
+INFERNAL SHINING CHILD
+	CREATURE
+	13
+	CE
+	Medium
+	Astral
+	
+
+	
+
+	
+
+	
+
+	Perception
+	+23; darkvision
+	Skills
+	Arcana +18, Deception +23, Diplomacy +21, Intimidation +21, Occultism +18
+	STR
+	+2
+	DEX
+	+5
+	CON
+	+6
+	INT
+	+2
+	WIS
+	+5
+	CHA
+	+7
+	AC
+	35
+	Fort
+	+24
+	Ref
+	+21
+	Will
+	+21
+	
+
+	HP
+	215; Immunities blinded, dazzled, fire
+	Radiance Dependence The shining child is flat-footed while in areas of darkness.
+	Blinding Aura (arcane, aura, incapacitation, light) 60 feet. The shining child sheds bright light. Any creature that starts its turn in the aura must succeed at a Fortitude DC 31 save. If it fails, it is blinded for 1 minute, and if it critically fails, it’s permanently blinded. A creature that succeeds at its save is temporarily immune to this effect for 24 hours.
+	Overwhelming Light (R) (light) Trigger The shining child enters an area of magical darkness or begins its turn in an area of magical darkness. Effect The shining child attempts to counteract the magical darkness (as a 7th-level spell).
+	Speed
+	30 feet, fly 50 feet
+	Melee
+	(A)
+	fist +25 [+21/+17] (agile, finesse, magical), Damage 3d4+5 bludgeoning plus 4d6 fire and 2d4 persistent fire
+	Ranged
+	(A)
+	fire ray +25 [+20/+15] (arcane, evocation, magical, range 100 feet), Damage 4d10+3 fire
+	Occult Innate Spells 
+	
+
+	DC 33; 7th spell turning, sunburst; 6th dispel magic, vibrant pattern, wall of force; 5th dimension door, false vision, hallucinatory terrain; 4th dimension door (at will; self only); 2nd illusory object (at will); Cantrips (6th) light
+	________________
+
+
+
+
+INVISIBLE STALKER
+	CREATURE
+	6
+	N
+	Medium
+	Air
+	Elemental
+	
+
+	
+
+	
+
+	Perception
+	+14; darkvision
+	Languages
+	Auran
+	Skills
+	Acrobatics +14, Stealth +16, Survival +13 (+17 to Track)
+	STR
+	+3
+	DEX
+	+6
+	CON
+	+3
+	INT
+	-2
+	WIS
+	+2
+	CHA
+	+0
+	AC
+	24
+	Fort
+	+12
+	Ref
+	+16
+	Will
+	+9
+	
+
+	HP
+	55; Immunities bleed, paralyzed, poison, sleep
+	Naturally Invisible The invisible stalker is invisible at all times, though when it takes a hostile action of any kind, it is hidden instead of undetected until the start of its next turn, as the vague outline of its humanoid form is faintly visible for a short period of time.
+	Speed
+	25 feet, fly 25 feet
+	Melee
+	(A)
+	fist +16 [+12/+8] (agile, finesse), Damage 1d10+3 bludgeoning
+	Sneak Attack
+	The invisible stalker deals 2d6 extra precision damage to flat-footed creatures.
+	Swift Tracker
+	The invisible stalker moves at full Speed while Tracking.
+	________________
+
+
+
+
+INQUISITOR TROOP
+	CREATURE
+	10
+	LE
+	Gargantuan
+	Humanoid
+	Human
+	
+
+	
+
+	
+
+	Perception
+	+18
+	Languages
+	Common
+	Skills
+	Athletics +16
+	STR
+	+6
+	DEX
+	+1
+	CON
+	+4
+	INT
+	-5
+	WIS
+	+3
+	CHA
+	-5
+	AC
+	28
+	Fort
+	+19
+	Ref
+	+19
+	Will
+	+14
+	
+
+	HP
+	115 Immunities precision, swarm mind; Resistances bludgeoning 5, piercing 10, slashing 10; Weaknesses area damage 10, splash damage 10
+	Speed
+	25 feet
+	Disarm The Rebel!
+	(A)
+	Each enemy in the troop’s space takes 3d6 bludgeoning damage (DC 26 basic Reflex save), and the troop may try to disarm each target affected. 
+	For The Prince of Darkness!
+	(A)
+	The troop infuses their weapons with unholy fire. Any attacks made during this round deal an extra 2d6 points of fire damage.
+	Our Wounds mean Nothing!
+	(A)
+	The inquisitors heal for 3d8+10 points of damage. This action has the manipulate trait.
+	________________
+
+
+ITHANOTAUR
+	CREATURE
+	15
+	NE
+	Huge
+	Dragon
+	Shadow
+	
+
+	
+
+	
+
+	Perception
+	+29; greater darkvision, scent (imprecise) 60 feet
+	Skills
+	Acrobatics +25, Athletics +31, Deception +28, Intimidation +28, Nature +25, Stealth +27, Survival +28
+	STR
+	+8
+	DEX
+	+4
+	CON
+	+6
+	INT
+	+4
+	WIS
+	+6
+	CHA
+	+5
+	AC
+	39
+	Fort
+	+29
+	Ref
+	+27
+	Will
+	+29
+	+1 status on saves vs magic
+	HP
+	275; Immunities negative, paralyzed, sleep
+	Attack of Opportunity (R)  Jaws only
+	Frightful Presence (aura, emotion, fear, mental) 90 feet, DC 34
+	Speed
+	50 feet, fly 180 feet
+	Melee
+	(A)
+	jaws +32 [+27/+22] (negative, reach 15 feet), Damage 3d10+16 piercing plus 3d6 negative
+	Melee
+	(A)
+	claw +32 [+28/+24] (agile, magical, reach 10 feet), Damage 3d10+16 slashing
+	Melee
+	(A)
+	tail +30 [+25/+20] (magical, reach 20 feet), Damage 3d12+16 slashing
+	Melee
+	(A)
+	wing +30 [+26/+22] (agile, magical, reach 15 feet), Damage 2d10+16 slashing
+	Draconic Frenzy
+	(AA)
+	Ithanotaur makes two claw Strikes and one wing Strike in any order.
+	Breath Weapon
+	(AA)
+	Ithanotaur breathes in one of two ways. They can't use Breath Weapon again for 1d4 rounds.
+Negative (necromancy, negative, primal) The dragon breathes a blast of darkness in a 40-foot cone that deals 18d6 negative damage (DC 40 basic Reflex save). Undead creatures take 21d6 force damage instead of the negative damage.
+
+Shadows (necromancy, primal, shadow) The dragon breathes a blast of shadows in a 40-foot cone. Each creature within the cone must attempt a DC 40 Fortitude save.
+Critical Success The creature is unaffected.
+Success The creature is enfeebled 2 for 1 round.
+Failure The creature is enfeebled 2 for 1 minute.
+Critical Failure The creature is enfeebled 2 for 1 minute and blinded for 1 round.
+	Draconic Momentum
+	Ithanotaur  recharges their Breath Weapon whenever they score a critical hit with a Strike.
+	Ghost Ban
+	Ithanotaur's Strikes affect incorporeal creatures with the effects of a ghost touch property rune, and an umbral dragon's jaws deal an additional 8d6 force damage to undead.
+	Primal Innate Spells
+	DC 38; 7th darkness (at will), shadow walk, vampiric exsanguination; Cantrips (7th) detect magic
+	________________
+
+
+
+
+JOROGUMO
+	CREATURE
+	12
+	CE
+	Medium
+	Fiend
+	Humanoid
+	
+
+	
+
+	
+
+	Perception
+	+24; greater darkvision
+	Languages
+	Common
+	Skills
+	Acrobatics +24, Arcana +23, Athletics +25, Deception +27, Intimidation +27, Nature +24, Stealth +26
+	STR
+	+8
+	DEX
+	+5
+	CON
+	+5
+	INT
+	+4
+	WIS
+	+5
+	CHA
+	+8
+	AC
+	32
+	Fort
+	+19
+	Ref
+	+23
+	Will
+	+21
+	+1 status vs. magic
+	HP
+	200, regeneration 15 (deactivated by cold iron); Immunities poison; 
+Weaknesses cold iron 15
+	Attack of Opportunity (R)
+	Silk Deflection (R) Trigger The jorogumo is targeted by a ranged Strike or spell attack roll that doesn’t deal cold iron damage. Effect The Jorogumo creatures a reflective blockade of spider silk, gaining a +4 circumstance bonus to AC against the triggering attack roll. If the attack misses, the jorogumo redirects the attack to another creature within 20 feet of it. The attacker rerolls the attack roll against the new target.
+	Speed
+	40 feet, fly 40 feet, climb 40 feet
+	Melee
+	(A)
+	bite +25 [+21/+17] (agile, evil, magical, reach 10 feet), Damage 2d8+14 piercing plus 2d6 poison and paralyzing venom
+	Ranged
+	(A)
+	web projectile +23 [+18/+13] (poison, evil, magical, range increment 60 feet), Damage 2d10+10 poison and paralyzing venom
+	Occult Innate Spells
+	DC 31; 7th mask of terror, spirit blast 6th vampiric exsanguination (×3); 4th charm (×3), darkness, gaseous form, solid fog; 2nd invisibility (at will, self only)
+	Paralyzing Venom
+	On a critical hit with a bite or a hit with a web projectile, the target creature must attempt a DC 31 Fortitude save.
+Critical Success The creature is unaffected.
+Success The creature is slowed 1 for 1 round.
+Failure The creature is slowed 2 for 1 round.
+Critical Failure The creature is slowed 3 for 1 round.
+	________________
+
+
+
+
+KYRRE EKODYRE
+	CREATURE
+	12
+	N
+	Medium
+	Humanoid
+	Human
+	
+
+	
+
+	
+
+	Items
+	+2 Greater Striking Axiomatic Longsword, 
++2 Greater Resilient Hellknight Plate
+	Perception
+	+21; +23 on initiative
+	Skills
+	Athletics +19, Crafting +14, Intimidation +18, Performance +14, Religion +17
+	STR
+	+5
+	DEX
+	+5
+	CON
+	+4
+	INT
+	+.
+	WIS
+	+3
+	CHA
+	+0
+	AC
+	34
+	Fort
+	+24
+	Ref
+	+22
+	Will
+	+21
+	-+2 on Reflex vs area eff.
+
+-Resistance 1 to frightened
+
+-Success on Will vs Fear or Illusion counts as Crit Success
+
++1 on saves vs frightened creatures
+
+-Success on Fortitude count as Crit Success
+	HP
+	188; Resistances electricity 10, mental 8, slashing 8; 
+Shield 32 HP; Hardness 8; BT 16
+	Reactive Shield (R) Trigger: Kyrre is hit with a melee Strike
+Effect: Kyrre raises her shield
+	Battle Cry (F) When Kyrre rolls initiative, she may demoralize a creature she can see.
+	Attack of Opportunity (R) 
+
+
+Shield Block (R) 
+	Speed
+	25 feet
+	Melee
+	(A)
+	+2  greating striking shortsword +25 [+20/+15] (magical), Damage 3d8+8 plus 1d6 lawful damage. On a critical success, deal 25 flat.
+	Blade of Law
+	(AA)
+	Kyrre makes a strike against a creature. If the target is chaotic, add 2d8 physical or lawful damage.
+	Exacting Strike
+	(A)
+	(Press) Kyrre makes a Strike which gains the following failure effect:
+Failure This attack does not count toward Kyrre’s MAP
+	Demoralize
+	(A)
+	Kyrre tries to demoralize a creature, ignoring language barriers. If the creature is of a level lower than 12, the target is fleeing for 1 round.
+	
+
+	
+
+	
+
+	________________
+
+
+
+
+MAMMOTH BONE GOLEM
+	CREATURE
+	13
+	N
+	Large
+	Construct
+	Golem
+	Mindless
+	
+
+	
+
+	Perception
+	+21; darkvision
+	Skills
+	Athletics +30
+	STR
+	+8
+	DEX
+	-1
+	CON
+	+4
+	INT
+	-5
+	WIS
+	+0
+	CHA
+	-5
+	AC
+	34
+	Fort
+	+26
+	Ref
+	+21
+	Will
+	+22
+	+1 vs magic
+	HP
+	190 ; Immunities bleed, death effects, disease, doomed, drained, fatigued, fire, healing, magic (see below), mental, necromancy, nonlethal attacks, paralyzed, poison, sickened, unconscious; Resistances physical 15 (except adamantine)
+	Golem Antimagic harmed by fire (6d10, 3d6 from areas or persistent damage); healed by cold (area 2d6 HP); slowed by sonic
+Vulnerable to Casting Bind Undead against the Bone Golem makes it slowed 1.
+Vulnerable to Casting Animate Dead against the Bone Golem deals 8d10 points of force damage as the bones rip apart from its body.
+	Speed
+	25 feet, fly 40 feet
+	Melee
+	(A)
+	fist +28 [+23/+18] (magical, reach 10 feet), Damage 3d10+12 bludgeoning
+	Bone Prison
+	(AA)
+	The Bone Golem throws some of its bones at a creature within 30 feet. The bones magically duplicate and form a cage surrounding the creature and trapping it. The cage has AC 5, Hardness 15, and 70 Hit Points. It's immune to critical hits and precision damage. Disintegrate destroys the sphere instantly. If the target is unwilling, the effects of the cage depend on the target's Reflex save.
+Critical Success The target breaks enough bones, causing the cage to collapse entirely.
+Success The cage functions normally but has only 20 Hit Points instead of 70.
+Failure The cage has its normal effect.
+	________________
+
+
+MANGVHUNE
+	CREATURE
+	17
+	CE
+	Medium
+	Demon
+	Fiend
+	
+
+	
+
+	
+
+	Perception
+	+27; darkvision, see invisibility
+	Skills
+	Acrobatics +34, Deception +32, Diplomacy +32, Society +30, Stealth +34
+	STR
+	+3
+	DEX
+	+9
+	CON
+	+4
+	INT
+	+5
+	WIS
+	+2
+	CHA
+	+7
+	AC
+	40
+	Fort
+	+25
+	Ref
+	+34
+	Will
+	+25
+	
+
+	HP
+	315; Resistances acid 20; Weaknesses cold iron 10, good 10
+	Deny Advantage Mangvhune isn't flat-footed to creatures of 17th level or lower that are hidden, undetected, flanking, or using surprise attack.
+	Mercy Vulnerability When a creature heals from damage that Mangvhune dealt on his last turn with Grievous Strike, sneak attack, or a critical hit, Mangvhune takes 4d6 mental damage. He can take this mental damage only once per round.
+	Reactive Slime (R) Trigger A creature within Magvhune’s reach successfully hits him with a Strike; Effect Mangvhune excretes a gout of acidic, bloodlike slime against the attacker and its weapon. The attacker must attempt a DC 38 Reflex save.
+Critical Success The attacker is unaffected.
+Success The attacker takes 6d6 acid damage.
+Failure The attacker takes 12d6 acid damage.
+Critical Failure As failure, except the weapon used to Strike the babau becomes broken, unless the weapon is made of a material that is immune to acid.
+	Speed
+	35 feet
+	Melee
+	(A)
+	bastard sword +34 [+29/+24] (evil, magical), Damage 3d8+16 piercing plus 1d6 evil and 1d6 acid
+	Melee
+	(A)
+	claw +34 [+30/+26] (evil, magical), Damage 3d6+16 piercing plus 1d6 evil
+	A Cut To the Spine, To Prepare You
+	(AA)
+	(incapacitation) Mangvhune swings his sword, perfectly aiming at the target’s spinal cord at the base of the neck. Mangvhune makes a melee Strike. This counts as two attacks when calculating his multiple attack penalty. If this Strike hits the creature struck is frightened 4 and paralyzed while frightened (paralyzed until healed on a Critical Strike).
+	And A Cut To The Throat, To End You!
+	(AA)
+	(death, incapacitation) Mangvhune makes a Strike against a creature he has paralyzed with Grievous Strike. If he hits, the creature takes an additional 8d6 precision damage, with a basic DC 36 Fortitude save against the damage. On a critical failure, the target dies instantly.
+	Divine Innate Spells
+	DC 24; 5th dimension door; 4th dimension door (at will); 2nd darkness; Constant (5th) see invisibility
+	Sneak Attack 
+	Mangvhune’s Strikes deal an extra 4d6 precision damage to flat-footed creatures.
+	________________
+NASPERIAH
+	CREATURE
+	19
+	LE
+	Medium
+	Incorporeal
+	Spirit
+	Undead
+	
+
+	
+
+	Perception
+	+35; greater darkvision
+	Languages
+	Aklo, Common, Necril
+	Skills
+	Acrobatics +32, Deception +37, Intimidation +37, Religion +35, Occultism +34, Stealth +32
+	STR
+	-5
+	DEX
+	+9
+	CON
+	+0
+	INT
+	+4
+	WIS
+	+5
+	CHA
+	+9
+	AC
+	44
+	Fort
+	+30
+	Ref
+	+35
+	Will
+	+33
+	
+
+	HP
+	300 (negative healing); Immunities death effects, disease, fire, paralyzed, poison, precision, unconscious;; Resistances all 10 (except force, ghost touch, or positive; double resistance vs. non-magical)
+	Opportune Witchflame (R) Trigger A creature makes a melee Strike against or touches Nasperiah; Effect Nasperiah makes a witchflame caress Strike against the triggering creature.
+	Speed
+	fly 40 feet
+	Melee
+	(A)
+	witchflame caress +38 [+34/+30] (agile, evil, finesse, magical), Damage 6d6 fire plus 6d6 negative and witchflame
+	Melee
+	(A)
+	witchflame bolt +38 [+33/+28] (evil, magical, range 100 feet), Damage 6d6 fire plus 6d6 negative and witchflame
+	Witchflame Kindling
+	(AA)
+	(fire, necromancy, occult) Requirements A creature within 60 feet of Nasperiah burns with witchflame; Effect Nasperiah's eyes and mouth glow brightly, and the witchflame on the target creature momentarily burns much hotter, dealing 10d6 fire damage and 10d6 negative damage to that creature (DC 41 basic Fortitude save). Nasperiah can't use Witchflame Kindling for 1d4 rounds.
+	Divine Innate Spells
+	DC 41; 9th summon elemental (Elemental Inferno only); 8th crushing despair, phantom pain; 4th invisibility, phantasmal killer; 2nd illusory disguise (at will); Cantrips (5th) dancing lights, ghost sound
+	Witchflame
+	(curse, fire, necromancy, occult) Any creature that takes negative damage from a witchfire's Strike must attempt a DC 41 Will save.
+
+
+Critical Success The creature is unaffected and is temporarily immune to witchflame for 1 hour.
+Success The creature appears to catch fire with sickly green flames. These flames deal no damage on their own, but as long as the flames burn, the creature can't be concealed (invisible creatures are concealed rather than being undetected) and gains weakness 15 to fire for 1 round.
+Failure As success, but the effect is permanent until removed.
+Critical Failure As failure, but the creature gains weakness 20 to fire.
+	________________
+
+
+NATSIEL
+	CREATURE
+	11
+	LE
+	Medium
+	Humanoid
+	Human
+	
+
+	
+
+	
+
+	Perception
+	+20
+	Languages
+	Common, Infernal
+	Skills
+	Acrobatics +22, Deception +24, Diplomacy +26, Intimidation +24, Religion +21, Society +21, Stealth +20
+	STR
+	+4
+	DEX
+	+2
+	CON
+	+2
+	INT
+	+0
+	WIS
+	+3
+	CHA
+	+7
+	AC
+	30
+	Fort
+	+19
+	Ref
+	+19
+	Will
+	+24
+	
+
+	HP
+	145; weakness cold iron 5, good 5
+	Seductive Presence (aura, charm, emotion, mental) 10 feet. Any creature in the aura that could be sexually attracted to Natsiel takes a –2 circumstance penalty to checks and DCs to oppose her mental spells, Deception, and Diplomacy.
+	Speed
+	25 feet
+	Passionate Kiss
+	(A)
+	Frequency Once per round. Effect The succubus engages a creature they have grabbed in an embrace or other act of passion to drain its vital essence. The kiss makes the creature drained 1 or increases its drained condition by 1, to a maximum of 4. The creature takes 3d6 negative damage and the succubus regains Hit Points equal to the damage dealt. The target must succeed at a DC 26 Will save or be affected by a suggestion to submit to more actions of passion rather than trying to Escape.
+	Embrace
+	(A)
+	Natsiel attempts to Grapple a creature using her Diplomacy bonus instead of Athletics. If the creature is willing, she grapples it automatically.
+	Melee
+	(A)
+	Longsword +21 [+16/+11] (magical, versatile P), Damage 2d6+8 bludgeoning plus 1d6 fire damage
+	Divine Spontaneous Spells
+	DC 30, attack +20; 6th Dominate 5th banishment, command, crushing despair, heal, summon fiend (4 slots); 4th air walk, dimensional anchor, discern lies, suggestion (4 slots); 3rd blindness, crisis of faith, enthrall, fear (4 slots); 2nd darkvision, detect alignment, faerie fire, flaming sphere (4 slots); 1st bane, charm, command, ray of enfeeblement (4 slots); Cantrips (6th) detect magic, forbidding ward, light, produce flame, shield, sigil
+
+
+	________________
+
+
+NEREZA RIGALIO
+	CREATURE
+	15
+	LE
+	Medium
+	Devil
+	Fiend
+	
+
+	
+
+	
+
+	Perception
+	+22; greater darkvision
+	Languages
+	Celestial, Common, Draconic, Infernal; telepathy 100 feet
+	Skills
+	Acrobatics +29, Deception +28, Diplomacy +28, Intimidation +28, Society +26, Stealth +29
+	STR
+	+3
+	DEX
+	+8
+	CON
+	+4
+	INT
+	+5
+	WIS
+	+1
+	CHA
+	+7
+	AC
+	36
+	Fort
+	+23
+	Ref
+	+29
+	Will
+	+22
+	+1 vs magic
+	HP
+	275
+	Speed
+	25 feet,
+	Ranged
+	(A)
+	longbow +28 Damage 3d8+13 piercing
+	Divine Innate Spells
+	DC 37, attack +29; 8th Discern Location, Dream Council; 7th Dimensional Lock, Magnificent Mansion, Project Image; 6th True Seeing, Teleport, Mislead; 5th Tongues, Shadow Walk, Sending; 4th Glibness (x3); 3rd Zone of Truth, Locate, Dream Message; Cantrips (8th) Telekinetic Projectile
+	________________
+
+
+
+
+NEZRAMERRIAN
+	CREATURE
+	11
+	LE
+	Medium
+	Devil
+	Fiend
+	
+
+	
+
+	
+
+	Perception
+	+23; greater darkvision
+	Languages
+	Celestial, Common, Draconic, Infernal; telepathy 100 feet
+	Skills
+	Arcana +21, Deception +25, Diplomacy +23, Intimidation +23, Legal Lore +27, Religion +21, Society +21, Stealth +20
+	STR
+	+3
+	DEX
+	+4
+	CON
+	+4
+	INT
+	+7
+	WIS
+	+5
+	CHA
+	+5
+	AC
+	32
+	Fort
+	+20
+	Ref
+	+20
+	Will
+	+25
+	+1 vs magic
+	HP
+	180; Immunities fire, ward contract; Resistances physical 10 (except silver), poison 10; Weaknesses good 10
+	Speed
+	25 feet,
+	Melee
+	(A)
+	binding contract +25 [+21/+17] (agile, disarm, evil, magical, reach 10 feet, trip), Damage 3d6+15 slashing plus 1d6 evil, Grab, and infernal wound
+	Melee
+	(A)
+	horn +23 [+18/+13] (magical), Damage 3d10+15 piercing and infernal wound
+	Divine Innate Spells
+	DC 33; 10th scrying (at will, see infernal investment); 7th plane shift; 5th dimension door, fireball, illusory scene, lightning bolt, locate (at will), mind probe, sending (at will); 4th dimension door (at will), private sanctum, silence; 3rd mind reading (at will); Cantrips (7th) detect magic; Constant (5th) tongues
+	Infernal Wound (divine, necromancy)
+	A contract devil’s Strikes also deal 3d6 persistent bleed damage that resist attempts to heal it. The flat check to stop the bleeding starts at DC 20. The DC is reduced to 15 only if the bleeding creature or an ally successfully assists with the recovery.
+
+
+The DC to Administer First Aid to a creature with an infernal wound is increased by 5. A spellcaster or item attempting to use healing magic on a creature suffering from an infernal wound must succeed at a DC 29 counteract check or the magic fails to heal the creature
+	________________
+
+
+NIGHTWING
+	CREATURE
+	15
+	CE
+	Huge
+	Undead
+	Shadow
+	
+
+	
+
+	
+
+	Perception
+	+27
+	Skills
+	Acrobatics +25, Athletics +25, Intimidation +30, Nature +30, Stealth +27, Survival +27
+	STR
+	+6
+	DEX
+	+4
+	CON
+	+8
+	INT
+	-2
+	WIS
+	+6
+	CHA
+	+8
+	AC
+	37
+	Fort
+	+29
+	Ref
+	+25
+	Will
+	+27
+	
+
+	HP
+	280; Immunities death effects, disease, paralyzed, poison, precision, unconscious; Resistances all 5 (except force, ghost touch, or positive; double resistance against non-magical); Weaknesses light vulnerability
+	Attack of Opportunity (R)
+	Speed
+	30 feet, fly 30 feet
+	Melee
+	(A)
+	bite +29 [+24/+19], Damage 3d6+14 slashing plus 3d6 cold and magic drain
+	Ranged
+	(A)
+	flame jet +29 [+24/+19] (fire, range increment 40 feet), Damage 6d6 cold and magic drain
+	Arcane Innate Spellcasting
+	DC 36, attack +28; 8th confusion, cone of cold; 7th finger of death, dispel magic, haste, slow; 6th darkness, cone of cold
+	Magic Drain
+	The bite of a nightwing drains magical power and energy. When a nightwing bites a foe, the victim must make a DC 36 Will save or one spell effect currently affecting him immediately ends—determine which spell is drained randomly if the target is under the effects of more than one spell. The nightwing heals damage equal to twice the level of the spell drained—hit points in excess of its maximum are instead gained as temporary hit points that last for 1 hour.
+	________________
+
+
+NIRUKNI
+	CREATURE
+	15
+	CN
+	Medium
+	Humanoid
+	Human
+	Fiend
+	
+
+	
+
+	Perception
+	+22; darkvision
+	Skills
+	Acrobatics +29, Deception +28, Crafting +32 Diplomacy +28, Society +26, Stealth +29
+	Items
+	10 batches of infused reagents
+	STR
+	+3
+	DEX
+	+8
+	CON
+	+2
+	INT
+	+8
+	WIS
+	+2
+	CHA
+	+3
+	AC
+	37
+	Fort
+	+23
+	Ref
+	+29
+	Will
+	+22
+	
+
+	HP
+	275 Immunities Poison
+	Speed
+	25 feet
+	Melee
+	(A)
+	shortsword +29 (agile, finesse, magical, versatile S), Damage 3d6+2 piercing
+	Ranged
+	(A)
+	crossbow +31 (magical, range increment 120 feet, reload 1), Damage 1d6+3 piercing (plus wyvern poison on first four shots)
+	Revitalizing Combination
+	(A) or (AA)  
+	(alchemical, positive, interact); Cost 1 batch of infused reagents. Effect Nirukni whips up a revitalizing elixir, which heals 5d8+40 points of damage. He can drink the elixir during this same action, or spend an additional action to make an adjacent ally drink it.
+	Healing and Invisibility Combo
+	(A) or (AA)  
+	(alchemical, positive, interact); Cost 1 batch of infused reagents. Effect Nirukni whips up a healing elixir combined with an invisibility potion, which heals 3d8+20 points of damage and turns the target invisible, as per invisibility. He can drink the elixir during this same action, or spend an additional action to make an adjacent ally drink it.
+	Shocking bomb
+	(A)
+	(alchemical, electricity, interact); Cost 1 batch of infused reagents. Effect Nirukni whips up an electric bomb  and lobs it up to 30 feet. All
+creatures in a 5-foot burst take 8d6 fire damage (DC 34 basic Reflex save).
+	Sneak Attack
+	
+
+	Nirukni deals an extra 2d6 precision damage to flat-footed creatures.
+	________________
+
+
+
+
+OCHRE JELLY
+	CREATURE
+	7
+	N
+	Large
+	Mindless
+	Ooze
+	
+
+	
+
+	
+
+	Perception
+	+11; motion sense 60 feet, no vision
+	Skills
+	Athletics +17
+	STR
+	+4
+	DEX
+	-5
+	CON
+	+6
+	INT
+	-5
+	WIS
+	+0
+	CHA
+	-5
+	AC
+	16
+	Fort
+	+19
+	Ref
+	+8
+	Will
+	+11
+	+1 vs magic
+	HP
+	180 Immunities acid, critical hits, electricity, mental, piercing, precision, slashing, unconscious, visual
+	Split
+	Whenever an ochre jelly is hit by an attack or effect that would deal slashing, piercing, or electricity damage and the ochre jelly has at least 10 HP, the jelly splits into two identical jellies with half the original’s HP. One jelly is in the same space as the original, and the other appears in an adjacent unoccupied space. If no adjacent space is unoccupied, it automatically pushes creatures and objects out of the way to fill a space (the GM decides if an object or creature is too big or sturdy to push).
+	Speed
+	15 feet, climb 10 feet
+	Melee
+	(A)
+	 pseudopod +19 [+14/+9], Damage 1d8+11 bludgeoning plus 2d4 acid and Grab
+	Constrict
+	(A)
+	1d8+7 bludgeoning plus 1d4 acid, DC 23
+	Ochre Acid
+	
+
+	An ochre jelly's acid damages only flesh—not bone, stone, wood, or other materials.
+	________________
+
+
+
+
+ODEXIDIE
+	CREATURE
+	15
+	LE
+	Medium
+	Devil
+	Fiend
+	
+
+	
+
+	
+
+	Perception
+	+30; greater darkvision
+	Skills
+	Arcana +27, Deception +31, Diplomacy +29, Intimidation +29, Legal Lore +34, Religion +28, Society +28, Stealth +27
+	STR
+	+3
+	DEX
+	+5
+	CON
+	+5
+	INT
+	+8
+	WIS
+	+5
+	CHA
+	+5
+	AC
+	38
+	Fort
+	+26
+	Ref
+	+26
+	Will
+	+31
+	+1 status vs all magic
+	HP
+	260; Immunities fire, ward contract; Resistances physical 10 (except silver), poison 10; Weaknesses good 10
+	Ward Contract
+	A signed contract carried by a living contract devil (including draped over its horns) is immune to damage from all creatures other than that contract devil. A contract devil is immune to mental effects that would make it destroy, nullify, or alter a contract.
+	Speed
+	25 feet
+	Melee
+	(A)
+	binding contract +31 [+27/+23] (agile, disarm, evil, magical, reach 10 feet, trip), Damage 5d6+14 slashing plus 1d6 evil, Grab, and infernal wound
+	Melee
+	(A)
+	horn +29 [+24/+19] (magical), Damage 4d10+15 piercing and infernal wound
+	Draft Contract
+	(AAA)
+	(conjuration, divine, manipulate) The contract devil produces an infernal contract for a single living mortal. This contract can grant a wide range of abilities and effects, akin to the power of a wish spell but fulfilled to the letter by the contract devil. To receive any of those benefits, the mortal must willingly sign its true name to the contract. At that point, the mortal’s soul is bound to the contract devil and Hell.
+While the contract is in effect, the victim can’t be restored to life except by wish or similar magic. If the mortal is restored to life by those means, the contract devil knows which mortal came to life and can locate the creature or creatures who restored the mortal to life for 1 year, gaining the effects of a locate spell with unlimited range. Avoiding the terms of an infernal contract is difficult and often dangerous.
+	Infernal Investment
+	A contract devil can cast a 10th-level innate scrying spell at will, but only to target a creature with which it has a contract. The target automatically critically fails its save.
+	Infernal Wound
+	(divine, necromancy) A contract devil’s Strikes also deal 3d6 persistent bleed damage that resist attempts to heal it. The flat check to stop the bleeding starts at DC 20. The DC is reduced to 15 only if the bleeding creature or an ally successfully assists with the recovery. The DC to Administer First Aid to a creature with an infernal wound is increased by 5. A spellcaster or item attempting to use healing magic on a creature suffering from an infernal wound must succeed at a DC 29 counteract check or the magic fails to heal the creature.
+	Divine Innate Spells
+	DC 40; 10th scrying (at will, see infernal investment); 8th plane shift dimension door, fireball, illusory scene, lightning bolt, locate (at will), mind probe, sending (at will); 4th dimension door (at will), private sanctum, silence; 3rd mind reading (at will); Cantrips (7th) detect magic; Constant (5th) tongues Rituals DC 31; 1st infernal pact
+
+
+	________________
+
+
+
+
+OUGHORTHAN
+	CREATURE
+	21
+	LE
+	Large
+	Devil
+	Fiend
+	
+
+	
+
+	
+
+	Perception
+	+39; greater darkvision, true seeing
+	Languages
+	Celestial, Common, Draconic, Infernal; telepathy 100 feet
+	Skills
+	Acrobatics +36, Arcana +34, Athletics +35, Deception +41, Diplomacy +36, Intimidation +41, Religion +39, Society +38, Stealth +36
+	STR
+	+9
+	DEX
+	+5
+	CON
+	+6
+	INT
+	+5
+	WIS
+	+6
+	CHA
+	+4
+	AC
+	48
+	Fort
+	+39
+	Ref
+	+34
+	Will
+	+37
+	+1 vs magic
+	HP
+	380 (regeneration 30 (deactivated by good)); Immunities fire; Resistances physical 15 (except silver), poison 15; Weaknesses good 15
+	Commander’s Aura (aura, divine, enchantment) 100 feet. Commanded or allied evil creatures in the aura of lower level than the pit fiend gain a +1 circumstance bonus to attack rolls, damage rolls, AC, saves, and skill checks.
+	Frightful Presence (aura, divine, emotion, enchantment, fear, mental) 20 feet, DC 44
+
+
+Attack of Opportunity (R) The pit fiend can make an Attack of Opportunity when a creature within reach uses a concentrate action, in addition to the usual trigger. The devil can disrupt triggering concentrate actions, and they disrupt actions on any hit, not only a critical hit.
+	Speed
+	35 feet, fly 50 feet
+	Melee
+	(A)
+	trident +42 [+37/+32] (evil, magical, poison, reach 10 feet), Damage 4d10+17 piercing plus 2d6 evil and pit fiend venom
+	Melee
+	(A)
+	claw +40 [+36/+32] (agile, evil, magical, reach 10 feet), Damage 4d6+17 slashing plus 2d6 evil
+	Melee
+	(A)
+	tail +38 [+33/+28] (evil, magical, reach 10 feet), Damage 4d10+17 bludgeoning plus 2d6 evil and Improved Grab
+	Melee
+	(A)
+	wing +38 [+33/+28] (evil, magical, reach 15 feet), Damage 4d6+17 slashing plus 2d6 evil
+	Divine Innate Spells
+	DC 44; 10th meteor swarm, miracle (once per year), massacre, weapon of judgement; 9th overwhelming presence (at will); 8th dispel magic (at will), dominate (at will), fireball (at will), scrying, wall of fire (at will); 5th dimension door; 4th dimension door (at will); Constant (8th) true seeing
+	Constrict
+	(A)
+	2d10+17 bludgeoning plus 2d6 evil, DC 47
+	Fast Swoop
+	(A)
+	The pit fiend Flies and makes a wing Strike at any point during its movement.
+	Masterful Quickened Casting
+	(F)
+	(concentrate) Frequency once per round. Effect If the pit fiend's next action is to cast an 8th-level or lower innate spell, reduce the number of actions to cast it by 1 (minimum 1 action).
+	Pit Fiend Venom
+	(poison) Saving Throw DC 43 Fortitude; Maximum Duration 10 rounds; Stage 1 6d6 poison damage and drained 1 (1 round); Stage 2 7d6 poison damage and drained 2 (1 round); Stage 3 8d6 poison damage and drained 3 (1 round)
+
+
+
+
+
+
+
+
+	Devil Shaping
+	(divine, downtime, transmutation) The pit fiend reshapes a large number of lemures within a 600-foot radius into more powerful devils to swell Hell’s legions. The pit fiend must have available the number of lemures listed on the table in the sidebar. The pit fiend can shape 100 lemures per day, to a maximum of 1,100 lemures in 11 days. Devils created in this way are in thrall to the pit fiend and follow its orders, with the exception of created pit fiends or other devils of similar power, which are always independent. As a result, few pit fiends choose to create peers. At the end of the Devil Shaping activity, the pit fiend attempts an incredibly hard Religion check of the desired devil’s level, with results as follows.
+Critical Success The pit fiend shapes two devils from the massed lemures instead of one.
+Success The pit fiend shapes a devil of the desired type and level.
+Failure The devil shaped from the lemures is 2 levels lower than the intended devil.
+Critical Failure The pit fiend fails to shape any devils and draws the ire of an archdevil for its waste of resources.
+
+
+	________________
+
+
+
+
+RIVOZAIR
+	CREATURE
+	14
+	
+
+	LE
+	Huge
+	Dragon
+	Electricity
+	
+
+	
+
+	
+
+	
+
+	
+
+	Perception
+	+26 darkvision, scent (imprecise) 60 feet
+	
+
+	Languages
+	Auran, Common, Draconic, Jotun
+	
+
+	Skills
+	Acrobatics +22, Arcana +25, Deception +26, Diplomacy +26, Intimidation +24, Society +23, Stealth +20, Survival +22
+	
+
+	STR
+	+6
+	DEX
+	+3
+	CON
+	+4
+	INT
+	+4
+	WIS
+	+3
+	CHA
+	+5
+	
+
+	AC
+	34
+	Fort
+	+24
+	Ref
+	+23
+	Will
+	+23
+	+1 vs magic
+	
+
+	HP
+	260; Immunities electricity, paralyzed, sleep
+	
+
+	Frightful Presence (aura, emotion, fear, mental) 90 feet, DC 32
+
+
+Wing Deflection Reaction Trigger Rivozair is targeted with an attack. Effect Rivozair raises his wing, gaining a +2 circumstance bonus to AC against the triggering attack. If Rivozair is Flying, he descends 10 feet after the attack is complete.
+	
+
+	Speed
+	40 feet, burrow 20 feet, fly 150 feet
+	
+
+	Melee
+	(A)
+	jaws +29 [+24/+19] (electricity, magical, reach 15 feet), Damage 3d8+16 piercing plus 1d12 electricity
+	
+
+	Melee
+	(A)
+	claw +29 [+25/+21] (magical, agile, reach 10 feet), Damage 3d8+16 slashing
+	
+
+	Melee
+	(A)
+	tail +27 [+22/+17] (magical, reach 20 feet), Damage 3d8+14 bludgeoning
+	
+
+	Melee
+	(A)
+	horns +27 [+22/+17] (magical, reach 15 feet), Damage 2d8+14 piercing
+	
+
+	Breath Weapon
+	(AA)
+	(arcane, electricity, evocation) Rivozair breathes lightning that deals 9d12 electricity damage in a 100-foot line (DC 35 basic Reflex save). He can't use Breath Weapon again for 1d4 rounds.
+	Draconic Frenzy
+	(AA)
+	Rivozair makes two claw Strikes and one horns Strike in any order.
+	Divine Innate Spells
+	DC 35; 6th spirit blast, vampiric exsanguination; true seeing (at will); 1st create water (at will; see desert thirst); Cantrips (6th) divine lance
+	
+
+	Desert Thirst
+	When casting create water, Rivozair can attempt to destroy liquid instead of creating it, turning an equal amount of liquid into sand. This destroys liquid magic or alchemical items if they're of a lower level than him (a creature can attempt a DC 34 Will save to protect all liquids in its possession). This doesn't affect the liquids in a creature's body.
+	
+
+	Draconic Momentum
+	Rivozair recharges its Breath Weapon whenever it scores a critical hit with a Strike.
+
+
+	
+
+	________________
+
+
+
+
+
+
+RUST DEVIL
+	CREATURE
+	11
+	LN
+	Medium
+	Fiend
+	Devil
+	
+
+	
+
+	
+
+	Perception
+	+24; greater darkvision
+	Languages
+	Celestial, Draconic, Infernal; telepathy 100 feet
+	Skills
+	Acrobatics +23, Arcana +18, Intimidation +21, Religion +20, Stealth +23, Survival +22
+	STR
+	+7
+	DEX
+	+6
+	CON
+	+5
+	INT
+	+1
+	WIS
+	+5
+	CHA
+	+4
+	AC
+	31
+	Fort
+	+23
+	Ref
+	+20
+	Will
+	+20
+	+1 vs magic
+	HP
+	165; Immunities fire, poison; Resistances physical 10 (except silver); Weaknesses good 10
+	Attack of Opportunity (R) 
+	Vainglorious Whispers (R)  (emotion, enchantment, mental) Trigger The rust devil is successfully hit by an attack; Effect The attacking creature must make a DC 27 Will save or become overly confident in its abilities, while in fact becoming less accomplished for 1 minute. While under these effects, it gains a +4 status bonus to saves against fear effects, but takes a  –2 penalty to attack rolls and damage rolls. The target cannot Stride away from the Rust Devil, nor use healing magic on themselves.
+	Speed
+	25 feet, fly 30 feet
+	Melee
+	(A)
+	slam +24 [+19/+14] (evil, magical), Damage 3d8+13 bludgeoning plus 1d6 evil
+	Melee
+	(A)
+	wing +24 [+19/+14] (agile, evil, magical), Damage 2d8+10 bludgeoning plus 1d6 evil
+	Ranged
+	(A)
+	iron feathers +23 [+18/+13] (evil, magical, range increment 60 feet), Damage 2d8+13 piercing plus 1d6 evil
+	Divine Innate Spells
+	DC 27, attack +21; 6th flesh to iron (as flesh to stone), curse of lost time; 5th wall of iron (as wall of stone) 4th dimension door (at will); 
+	Scarlet Tetanus
+	(disease) Saving Throw DC 27 Fortitude; Stage 1 Clumsy 2 (1 day); Stage 2 Clumsy increases by 1 (1 day)
+	Iron Feather Storm
+	(AA)
+	The rust devil rains down its iron feathers on its enemies. It can make up to four iron feather attacks against creatures within its range, without increasing its multiple attack penalty until after all attacks are made.
+	________________
+
+
+SEAWEED SIREN
+	CREATURE
+	14
+	CN
+	Large
+	Magical Beast
+	
+
+	
+
+	
+
+	Perception
+	+26; greater darkvision
+	Skills
+	Acrobatics +23, Arcana +23, Athletics +27, Crafting +25, Deception +27, Intimidation +27, Nature +25
+	STR
+	+8
+	DEX
+	+6
+	CON
+	+6
+	INT
+	+4
+	WIS
+	+6
+	CHA
+	+8
+	AC
+	36
+	Fort
+	+28
+	Ref
+	+26
+	Will
+	+24
+	+1 vs magic
+	HP
+	250 Immunities sonic;
+	Attack of Opportunity (R)
+	Speed
+	40 feet, swim 40 feet
+	Melee
+	(A)
+	bite +30 [+25/+20] (deadly 1d8, magical, reach 10 fee), Damage 4d6+16 piercing
+	Ranged
+	(A)
+	sonic beam +26 [+21/+16] (sonic, magical, range increment 60 feet), Damage 3d10+16 sonic
+	Cacophonous Song
+	(AA)
+	The siren sings a cacophonous song which disrupts spellcasting Each creature within 60 feet of the siren must make a DC 34 Fortitude Save.
+Success The creature is stupefied 1 for 1 round.
+Failure The creature is stupefied 1 for 2 rounds.
+Critical Failure The creature is stupefied 2 for 2 rounds.
+	False Heads
+	The seaweed siren has three false siren heads, who sing and cast spells. A creature can target one of these heads, which have AC 40 and HP 20. Severing a head deals 40 points of damage to the seaweed siren, and a siren without heads cannot cast any spells nor use Cacophonous Song.
+	Occult Innate Spells
+	DC 34; 7th shatter (x3), sound burst (x3), sleep (x3), 
+	
+
+	
+
+	
+
+	________________
+
+
+SERPENT OF DARKNESS
+	CREATURE
+	13
+	N
+	Large
+	Beast
+	
+
+	
+
+	
+
+	
+
+	Perception
+	+24; greater darkvision
+	Skills
+	Acrobatics +20, Athletics +28 (+30 to Swim), Stealth +30
+	Undetectable
+	The serpent automatically tries to counteract any detection, revelation, or scrying divination attempted against it, using its Stealth modifier for its counteract modifier.
+	Split
+	Whenever the serpent of darkness is critically hit by a slashing attack, the serpent splits into two identical serpents with half the original’s HP. 
+	STR
+	+5
+	DEX
+	+5
+	CON
+	+5
+	INT
+	+2
+	WIS
+	+4
+	CHA
+	+5
+	AC
+	35
+	Fort
+	+25
+	Ref
+	+21
+	Will
+	+21
+	
+
+	HP
+	210
+	Speed
+	20 feet, swim 60 feet
+	Melee
+	(A)
+	jaws +29 [+24/+19] (reach 20 feet), Damage 3d10+16 piercing plus Grab
+	Constrict
+	(A)
+	1d10+16 bludgeoning
+	Spine Rake
+	(AA)
+	(attack, move) The sea serpent extends the spines along its back and Swims or Strides. Each creature the serpent is adjacent to at any point during its movement takes 4d6+10 slashing damage (DC 34 basic Reflex save).
+	________________
+
+
+
+
+SHADOW GIANT COMMANDER
+	CREATURE
+	14
+	LE
+	Large
+	Undead
+	Shadow
+	
+
+	
+
+	
+
+	Perception
+	+22; darkvision
+	Skills
+	Athletics +29, Intimidation +24, Stealth +23 (+25 to Hide in dim light)
+	STR
+	+8
+	DEX
+	+2
+	CON
+	+5
+	INT
+	+0
+	WIS
+	+1
+	CHA
+	+3
+	AC
+	35
+	Fort
+	+27
+	Ref
+	+22
+	Will
+	+25
+	
+
+	HP
+	310; Immunities death effects, disease, paralyzed, poison, precision, unconscious; Resistances all 10 (except force, ghost touch, or positive; double resistance against non-magical); Weaknesses light vulnerability
+	Attack of Opportunity (R)
+	Catch Rock (R)
+	Speed
+	35 feet
+	Melee
+	(A)
+	spiked chain +29 [+24/+19] (disarm, reach 10 feet, trip), Damage 3d8+20 slashing plus pall of shadow
+	Melee
+	(A)
+	fist +28 [+24/+20] (agile, reach 10 feet), Damage 3d8+20 bludgeoning plus pall of shadow
+	Ranged
+	(A)
+	rock +28 [+23/+18] (brutal, range increment 120 feet), Damage 2d8+18 bludgeoning
+	Shadow cloak 
+	(A)
+	(divine, illusion, shadow) The shadow giant becomes shrouded in shadows and becomes concealed. As the nature of this effect leaves the giant's location obvious, it can't use this concealment to Hide or Sneak. This effect lasts for 1 minute or until it is exposed to direct sunlight, whichever comes first.
+	Throw Rock
+	(A)
+	
+
+	Pall of Shadow
+	(divine, necromancy, shadow) When a shadow giant hits with a melee Strike, the target must succeed at a DC 32 Fortitude save or become drained 1 and take a –1 status penalty to Perception checks involving sight as long as they remain drained. On a critical failure, this condition doesn't heal naturally and can be removed only with magic.
+	________________
+
+
+SHADOW GOLEM
+	CREATURE
+	15
+	N
+	Large
+	Construct
+	Golem
+	Mindless
+	
+
+	
+
+	Perception
+	 +25; darkvision
+	Skills
+	Athletics +30
+	STR
+	+8
+	DEX
+	-1
+	CON
+	+4
+	INT
+	-5
+	WIS
+	+0
+	CHA
+	-5
+	AC
+	38
+	Fort
+	+30
+	Ref
+	+25
+	Will
+	+24
+	
+
+	HP
+	250; Immunities bleed, death effects, disease, doomed, drained, fatigued, fire, healing, magic (see below), mental, necromancy, nonlethal attacks, paralyzed, poison, sickened, unconscious; Resistances physical 15 (except adamantine)
+	Shadow Aura A shadow golem constantly exudes an aura of eerie shadowy illumination, causing the area surrounding it to a distance of 60 feet to function as if illuminated by dim light, regardless of the ambient lighting (or lack thereof). As long as a shadow golem is in dim light (such as that granted by its own aura), it gains a +2 status bonus to its AC and has a fly speed of 20 ft. 
+
+
+Additionally, whenever a character attempts to cast a spell with the light trait in the aura, the aura attempts to automatically counteract it. (spell level 7th, counteract modifier +28).
+	Golem Antimagic harmed by acid (6d10, 2d8 from areas and persistent damage); healed by fire (area 2d8 HP); slowed by electricity
+	Vulnerable to Light Casting a spell with the light descriptor on a Shadow Golem automatically suppresses its aura for 1 minute.
+	Vulnerable to Searing Light Casting a Searing Light spell on a Shadow Golem deals no damage to it, but makes it slowed 1 for 1 minute. (no save)
+	Speed
+	20 feet, fly 20 feet (see Shadow Aura)
+	Melee
+	(A)
+	fist +32 [+27/+22] (magical, reach 10 feet), Damage 4d10+12 bludgeoning
+	Breath Weapon
+	(AA)
+	(arcane, necromancy, poison) The Shadow Golem frees shadow magic from its core in a 30-foot cone. Any creature in the area must make a DC 37 Fortitude save or be enfeebled 2 and stunned 1.
+	________________
+
+
+
+
+SHADOW OF THE TERAPASILLION
+	CREATURE
+	13
+	LE
+	Large
+	Undead
+	Shadow
+	
+
+	
+
+	
+
+	Perception
+	+20; darkvision
+	Skills
+	Athletics +27, Intimidation +22, Stealth +26 (+29 to Hide in dim light)
+	STR
+	+8
+	DEX
+	+2
+	CON
+	+5
+	INT
+	+0
+	WIS
+	+1
+	CHA
+	+3
+	AC
+	33
+	Fort
+	+25
+	Ref
+	+20
+	Will
+	+23
+	
+
+	HP
+	280; Immunities death effects, disease, paralyzed, poison, precision, unconscious; Resistances all 10 (except force, ghost touch, or positive; double resistance against non-magical); Weaknesses light vulnerability
+	Attack of Opportunity (R)
+	Speed
+	30 feet, fly 30 feet
+	Melee
+	(A)
+	shadow hand +27 [+22/+17] (finesse, magical), Damage 3d8+18 negative
+	Steal Shadow
+	(A)
+	(divine, necromancy) Requirement The shadow hit a living creature with a shadow hand Strike on its previous action. Effect The shadow pulls at the target’s shadow, making the creature enfeebled 1. This is cumulative with other enfeebled conditions from shadows, to a maximum of enfeebled 4. If this increases a creature’s enfeebled value to 3 or more, the target’s shadow is separated from its body (see shadow spawn). Enfeebled from Steal Shadow decreases by 1 every hour.
+	Slink in Shadow
+	The greater shadow can Hide or end its Sneak in a creature’s or object’s shadow.
+	Shadow Spawn
+	When a creature’s shadow is pulled free by Steal Shadow, it becomes a shadow spawn under the command of the greater shadow that created it. This shadow spawn doesn’t have Steal Shadow. If the creature the shadow spawn was pulled from dies, the shadow spawn becomes a full-fledged, autonomous shadow. If the creature recovers from its enfeeblement, its shadow returns to it and the shadow spawn is extinguished.
+	________________
+
+
+
+
+
+
+SKUM RANGER
+	CREATURE
+	11
+	LE
+	Medium
+	Amphibious
+	Humanoid
+	
+
+	
+
+	
+
+	Perception
+	+20;
+	Skills
+	Athletics +20, Intimidation +18, Stealth +22
+	STR
+	+4
+	DEX
+	+4
+	CON
+	+3
+	INT
+	+0
+	WIS
+	+0
+	CHA
+	-2
+	AC
+	32
+	Fort
+	+22
+	Ref
+	+18
+	Will
+	+19
+	successes on Fort count as crit successes
+	HP
+	195
+	Attack of Opportunity (R) Only against prey
+	Speed
+	30 feet, swim 30 feet
+	Melee
+	(A)
+	trident +24 [+19/+14] (magical, thrown 20 ft), Damage 2d8+11 bludgeoning
+	Hunt Prey
+	(A)
+	The first time the skum ranger hits their hunted prey in a round, they also deal 2d8 additional precision damage. This applies to its shark animal companion too.
+	SHARK COMPANION
+	CREATURE
+	11
+	N
+	Large
+	Beast
+	
+
+	
+
+	
+
+	
+
+	Skills
+	Perception +22, Athletics +24
+	STR
+	+4
+	DEX
+	+3
+	CON
+	+3
+	INT
+	-4
+	WIS
+	+3
+	CHA
+	+0
+	AC
+	30
+	Fort
+	+20
+	Ref
+	+22
+	Will
+	+21
+	
+
+	HP
+	95
+	Speed
+	30 feet swim
+	Melee
+	(A)
+	jaws +24 Damage 2d8+11 piercing
+	Fight in my Terrain!
+	(AA)
+	The shark companion attempts to grab a creature that’s adjacent to water. If it succeeds, it may immediately drag it 30 feet into the water and attempt a Strike.
+	________________
+
+
+
+
+SLUUCOROTH, DROWNING DEVIL
+	CREATURE
+	15
+	LE
+	Large
+	Devil
+	Fiend
+	
+
+	
+
+	
+
+	Perception
+	+29; greater darkvision
+	Languages
+	Celestial, Draconic, Infernal; telepathy 100 feet
+	Skills
+	Arcana +30, Deception +31, Intimidation +33, Religion +27, Stealth +32
+	STR
+	+5
+	DEX
+	+5
+	CON
+	+4
+	INT
+	+3
+	WIS
+	+2
+	CHA
+	+4
+	AC
+	40
+	Fort
+	+33
+	Ref
+	+30
+	Will
+	+27
+	+1 to saves vs. magic
+	HP
+	320; Immunities fire; Resistances physical 10 (except silver), poison 10; Weaknesses good 10
+	Speed
+	35 feet, fly 35 feet, swim 40 feet
+	Melee
+	(A)
+	jaws +32, Damage 4d10+15 piercing
+	Melee
+	(A)
+	claw +32 (agile, reach 10 feet), Damage 4d6+15 slashing
+	Occult Innate Spells
+	DC 25; 7th warp mind, mask of terror, visions of danger; 6th dimension door, phantom pain; 5th dimension door (at will), dimensional anchor (x2), discern lies; 2nd invisibility (at will; self only)
+	Drowning Devil Poison
+	Saving Throw DC 37 Fortitude; Maximum Duration 6 rounds; Stage 1 5d6 poison damage, enfeebled 1 (1 round); Stage 2 5d6 poison damage and enfeebled 1 (1 round); Stage 3 5d6 poison damage, enfeebled 2, and the creature takes a –4 status penalty to Will saves against attempts to Coerce it (1 hour)
+	Drown
+	(AAA)
+	Sluucoroth summons murky water into the lungs of a creature within 30 feet of him. At the start of its next turn, the target must succeed at a DC 36 Fortitude save or fall unconscious, drop to 0 hit points and begin dying.
+	Heavy Aura
+	Whenever a creature enters a space within 10 feet of Shurghosot, it must succeed on a DC 38 Will save:
+Success: Unaffected and immune to this effect for 24 hours.
+Failure: The creature’s speeds are reduced by half while in the aura.
+Critical Failure: The creature’s speeds are reduced to 0 while in the aura.
+	________________
+
+
+SOLSMESTRIA
+	CREATURE
+	15
+	CN
+	Medium
+	Humanoid
+	Strix
+	
+
+	
+
+	
+
+	Perception
+	+29
+	Skills
+	Arcana +26, Lore +26, Nature +29
+	STR
+	+3
+	DEX
+	+7
+	CON
+	+4
+	INT
+	+5
+	WIS
+	+8
+	CHA
+	+1
+	AC
+	36
+	Fort
+	+23
+	Ref
+	+26
+	Will
+	+29
+	
+
+	HP
+	260
+	Speed
+	fly 60 feet
+	Melee
+	(A)
+	shortsword +28 Damage 3d6+13+1d6 fire
+	The Wind at Our Backs, We Protect This Land
+	(F)
+	(metamagic) If Solsmestria’s next action is to cast Punishing Winds, she can choose up to six allies within range to protect them from the spell. Affected allies treat their saving throws against the spell as one degree of success better.
+	Overwhelming Energy
+	(A)
+	If the next action Solsmestria uses is to Cast a Spell, the spell ignores 15 of the target’s resistance to acid, cold, electricity, fire, or sonic damage. This applies to all damage the spell deals, including persistent damage and damage caused by an ongoing effect of the spell, such as the wall created by wall of fire. A creature’s immunities are unaffected.
+	Primal Prepared Spells
+	DC 37, attack +29; 8th All is One, One is All, Punishing Winds; 7th energy aegis, regenerate (x2); 6th chain lightning (x3); 5th tree stride, death ward, cone of cold; 4th freedom of movement, hydraulic torrent; Cantrips (8th) electric arc
+	________________
+
+
+
+
+SONDILISA
+	CREATURE
+	10
+	CN
+	Medium
+	Aquatic
+	Fey
+	Water
+	
+
+	
+
+	Perception
+	+20; low-light vision
+	Skills
+	Athletics +12 (+18 to Swim), Deception +20, Diplomacy +22, Stealth +22
+	STR
+	+0
+	DEX
+	+7
+	CON
+	+5
+	INT
+	+3
+	WIS
+	+5
+	CHA
+	+7
+	AC
+	30
+	Fort
+	+16
+	Ref
+	+22
+	Will
+	+18
+	
+
+	HP
+	175; Immunities poison; Weaknesses cold iron 10
+	Watery Transparency (primal, transmutation, water) When underwater, the nereid's body is invisible. The nereid can dismiss or resume this transparency as an action that has the concentrate trait.
+	Speed
+	25 feet, swim 50 feet
+	Melee
+	(A)
+	poisonous touch +23 [+19/+15] (agile, finesse, magical), Damage 6d6 poison
+	Drowning Touch
+	(AA)
+	(conjuration, incapacitation, primal, water) The nereid touches a creature and causes water from its own body to flow into the creature's lungs. If the creature cannot breathe water, it must attempt a DC 29 Fortitude save.
+Success The creature is unaffected and is temporarily immune to Drowning Touch for 24 hours.
+Failure The creature becomes sickened 3 as it chokes on the water.
+Critical Failure The creature chokes on the water and runs out of air. It falls unconscious and starts drowning. If the creature is above water, it recovers from drowning as soon as it succeeds at a saving throw against suffocation.
+	Manifest Shawl
+	(AAA)
+	(conjuration, primal) The nereid divests themself of part of their connection to the First World and imbues this essence into a flowing shawl that enables them to function on land. The nereid can Dismiss this effect as long as they are touching the shawl. As long as the shawl exists, the nereid gains the amphibious trait. A non nereid who carries the shawl also gains the amphibious trait. If a nereid's shawl is destroyed rather than Dismissed, the nereid can't Manifest a Shawl for 24 hours.
+	Primal Innate Spells
+	DC 29; 6th summon elemental (water elementals only); 5th control water, elemental form (×3; water only); 4th suggestion
+	________________
+
+
+
+
+STAINED GLASS GOLEM
+	CREATURE
+	10
+	N
+	Large
+	Construct
+	Golem
+	Mindless
+	
+
+	
+
+	Perception
+	 +18; darkvision
+	Skills
+	 Acrobatics +22, Athletics +19, Stealth +14
+	STR
+	+5
+	DEX
+	+4
+	CON
+	+5
+	INT
+	-5
+	WIS
+	+0
+	CHA
+	-5
+	AC
+	30
+	Fort
+	+21
+	Ref
+	+20
+	Will
+	+18
+	
+
+	HP
+	135; Immunities bleed, death effects, disease, doomed, drained, fatigued, healing, magic (see Golem Antimagic below), mental, necromancy, nonlethal attacks, paralyzed, poison, sickened, unconscious; Resistances physical 10 (except adamantine or bludgeoning)
+	Golem Antimagic harmed by sonic (6d6, 2d6 from areas or persistent damage); healed by fire (area 2d6 HP); slowed by cold
+	Vulnerable to Shatter A glass golem is affected by the shatter spell as though the golem were an unattended object.
+	Spell Reflection (R)  (abjuration, arcane) Trigger The glass golem is targeted by a spell; Effect The glass golem positions its magical, reflective surfaces to turn the spell back on the caster. It tries to counteract the spell by attempting an Acrobatics check for its counteract check. If it successfully counteracts the spell, the effect is turned back on the caster.
+	Speed
+	25 feet
+	Melee
+	(A)
+	bladed limb +24 [+20/+16] (agile, magical, versatile P), Damage 2d6+16 slashing plus 1d6 bleed
+	Dazzling Brilliance
+	(AA)
+	(evocation, light, visual) The glass golem creates waves of scintillating luminosity that cast bright light in a 60-foot emanation (and dim light for the next 60 feet). The light lasts until the start of the glass golem's next turn, after which the glass golem can't use Dazzling Brilliance for 1d4 rounds. A creature within the bright light or that enters the bright light must attempt a DC 27 Will save.
+* Success The creature is unaffected.
+* Failure The creature is dazzled for 1 round.
+* Critical Failure The creature is blinded for 1 round and then dazzled for an additional 4 rounds.
+	________________
+
+
+
+
+STREA VESTORI
+	CREATURE
+	9
+	CN
+	Medium
+	Humanoid
+	Human
+	
+
+	
+
+	
+
+	Perception
+	+18; darkvision
+	Languages
+	Common
+	Skills
+	Acrobatics +17, Athletics +13, Deception +12, Diplomacy +10, Intimidation +10, Medicine +14, Society +12, Stealth +19, Survival +12, Thievery +15, Underworld Lore +14
+	Items
+	+1 striking composite shortbow (20 arrows), +1 rapier, invisibility potion, giant centipede venom (3), leather armor, lesser darkvision elixir, simple injury poison (8 doses, 2d4 poison damage)
+	STR
+	+3
+	DEX
+	+5
+	CON
+	+2
+	INT
+	+2
+	WIS
+	+2
+	CHA
+	+0
+	AC
+	28
+	Fort
+	+14
+	Ref
+	+21
+	Will
+	+16
+	
+
+	HP
+	145
+	Nimble Dodge
+	(R)
+	Trigger The assassin is targeted with a melee or ranged attack by an attacker they can see; Effect The assassin gains a +2 circumstance bonus to AC against the triggering attack.
+	Speed
+	25 feet
+	Melee
+	(A)
+	rapier +20 [+16/+12] (deadly 1d8, disarm, finesse, magical), Damage 1d6+10 piercing
+	Poison Weapon
+	(A)
+	Requirements The assassin is wielding a piercing or slashing weapon and has a free hand; Effect The assassin applies a poison to the weapon.
+	Sneak Attack
+	
+
+	The assassin deals an extra 2d6 precision damage to flat-footed creatures.
+	________________
+
+
+
+
+
+
+STRIX ARCHER
+	CREATURE
+	10
+	CN
+	Medium
+	Humanoid
+	Strix
+	
+
+	
+
+	
+
+	Perception
+	+19; low-light vision
+	Skills
+	Athletics +22,Athletics +24, Intimidation +17, Survival +19
+	STR
+	+3
+	DEX
+	+6
+	CON
+	+5
+	INT
+	+0
+	WIS
+	+3
+	CHA
+	+1
+	AC
+	29
+	Fort
+	+19
+	Ref
+	+17
+	Will
+	+17
+	
+
+	HP
+	175
+	Speed
+	fly 30 feet
+	Melee
+	(A)
+	talons +22, Damage 3d10+9 slashing
+	Ranged
+	(A)
+	longbow +23, Damage 3d8+9 piercing
+	Hunt Prey
+	(A)
+	(concentrate) The strix archer designates a single creature they can see and hear, or one they're Tracking, as their prey. 
+	Quick Like the Wind
+	(A)
+	Frequency once per minute
+Effect The strix archer strides twice.
+	Distracting Shot
+	The sheer power of a strix archer’s shots hinder a defender’s chances to block, and unbalance them greatly. If they critically hit their hunted prey with a ranged weapon, or hit it at least twice on the same turn with a ranged weapon, the target is flat-footed until the start of the strix’s next turn.
+	Precision Edge
+	The first time the strix archer hits their hunted prey in a round, they deal an additional 1d8 precision damage.
+	________________
+
+
+SULKIMY
+	CREATURE
+	17
+	CE
+	Medium
+	Humanoid
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	Perception
+	+25; darkvision, scent (imprecise) 60 feet
+	Languages
+	Common
+	Skills
+	Acrobatics +28, Athletics +30, Deception +33, Intimidation +33, Lore +28 (Kintargo), Occultism +26, Stealth +30
+	STR
+	+7
+	DEX
+	+5
+	CON
+	+5
+	INT
+	+3
+	WIS
+	+4
+	CHA
+	+6
+	AC
+	41
+	Fort
+	+30
+	Ref
+	+28
+	Will
+	+31
+	
+
+	HP
+	270; Immunities disease, sickened, stunned
+	Stench (aura, olfactory) 30 feet. A creature entering the aura or starting its turn in the aura must succeed at a DC 38 Fortitude save or become sickened 1 (plus slowed 1 for as long as it's sickened on a critical failure). While within the aura, affected creatures take a –2 circumstance penalty to saves against disease and to recover from the sickened condition. A creature that succeeds at its save is temporarily immune for 1 minute.
+	Speed
+	30 feet, climb 30 feet, fly 80 feet
+	Melee
+	(A)
+	 jaws +34 [+29/+24], Damage 5d10+15 piercing plus 1d10 mental and shameful loathing
+	Melee
+	(A)
+	talon +34 [+30/+26] (agile), Damage 5d10+15 slashing plus Grab
+	Change Shape
+	(A)
+	(concentrate, occult, polymorph, transmutation) Sulkimy can take on the appearance of a human or a Small or Medium bat. It loses its stench aura while transformed. In human form it also loses its Strikes but can make fist Strikes that deal the same amount of bludgeoning damage as its talon Strike.
+	Feed on Sorrow
+	(A)
+	(concentrate, healing, necromancy, occult, positive) Frequency once per round; Effect Sulkimy draws strength from the suffering of others. It regains 10 Hit Points for each enemy within 30 feet that has one of the following conditions, to a maximum of 40 Hit Points: confused, doomed, dying, enfeebled, fatigued, frightened, sickened, slowed, stunned, stupefied, or wounded.
+	Hallucinatory Haunting
+	(F)
+	Trigger Sulkimy moves an object with mage hand or telekinetic haul, controls a creature with dominate, or casts animated assault; Effect Sulkimy casts ghost sound or ventriloquism, with the sound originating from the target or area of the spell.Shameful Loathing (curse, emotion, enchantment, mental, occult) A creature damaged by Sulkimy’s jaws is overcome with shame and self-hatred and must attempt a DC 36 Will save.
+Success The target is unaffected.
+Failure The target becomes stupefied 1 until the curse is removed.
+Critical Failure As failure, but the target is also doomed 1.
+	Occult Innate Spells
+	DC 40, attack +32; 7th animated assault, dominate; 6th clairaudience (at will), clairvoyance (at will), telekinetic haul, telekinetic maneuver, ventriloquism (at will); Cantrips (7th) ghost sound, mage hand
+	________________
+
+
+
+
+TAVOUL ABRAMOS
+	CREATURE
+	13
+	LE
+	Medium
+	Humanoid
+	
+
+	
+
+	
+
+	
+
+	Items
+	+2 Frost Greater Striking Spiked Chain, +2 Greater Resilient Chain Shirt
+	Perception
+	+24
+	Skills
+	Acrobatics +25, Athletics +15, Crafting +17, Deception +17, Religion +18, Society +21, Stealth +18, Thievery +20
+	STR
+	+1
+	DEX
+	+5
+	CON
+	+4
+	INT
+	+3
+	WIS
+	+4
+	CHA
+	+1
+	AC
+	33
+	Fort
+	+23
+	Ref
+	+26
+	Will
+	+23
+	Success on Reflex counts as Cri. Success
+	HP
+	192
+	Speed
+	40 feet
+	Melee
+	(A)
+	+2 Frost Greater Striking Spiked Chain +25 [+20/+15] (magical), Damage 3d8+6 plus 1d6 cold damage
+On a crit, the target is prone and must make a DC 28 Fortitude save or be slowed 1 too.
+	Debilitating Strike
+	(F)
+	Trigger: Tavoul’s Strike hits a flat-footed creature and deals damage.
+Effect: Tavoul can choose one of the following effects:
+
+-Make the creature enfeebled 1.
+-Impose a -10 foot penalty to its Speeds. 
+-The target can’t flank other creatures, and can’t provide flanking
+-The target takes 3d6 persistent bleed damage.
+
+The chosen effect lasts until the end of Tavoul’s next turn.
+	Sneak Attack
+	Tavoul deals an extra 3d6 points of precision damage against creatures that are flat-footed. On the first round of combat, creatures that haven’t acted are flat-footed to Tavoul.
+	Hit and Run Tactics
+	Tavoul ignores difficult terrain when Striding or Stepping, and does not trigger reactions when moving up to half of his speed.
+	________________
+
+
+
+
+THE GARDENER 
+	CREATURE
+	12
+	LE
+	Medium
+	Humanoid
+	Vishkanya
+	
+
+	
+
+	
+
+	Perception
+	+22
+	Languages
+	Common, Elven, Draconic, Infernal
+	Skills
+	Acrobatics +18, Arcana +23, Diplomacy +16, Intimidation +16, Harrow Lore +23, Medicine +19, Nature +21, Survival +21
+	STR
+	+0
+	DEX
+	+4
+	CON
+	+3
+	INT
+	+5
+	WIS
+	+3
+	CHA
+	+1
+	AC
+	26
+	Fort
+	+17
+	Ref
+	+18
+	Will
+	+19
+	
+
+	HP
+	125
+	Speed
+	20 feet
+	Melee
+	(A)
+	mace+20 [+11/+6] (two-hand d8), Damage 1d6+6 bludgeoning
+	Primal Prepared Spells DC 30, attack +20; 6th summon plant, flesh to stone, tangling creepers; 5th control water, lightning storm, plant form, tree stride; 4th spike stones, stoneskin, fly, freedom of movement; 3rd lightning bolt, wall of thorns, aqueous orb; 2nd resist energy, tree shape, entangle (x2); 1st fleet step, gust of wind, shillelagh; Cantrips (6th) produce flame, tanglefoot
+
+Wizard School Spells 2 Focus Points, DC 30; 6th tempest surge, primal summons
+	Drain Bonded Item
+	(F)
+	Frequency Once per day. Requirements The gardener hasn’t acted yet on this turn. Effect The gardener expends the power stored in its signet ring. This gives her the ability to cast one prepared spell it had already previously cast today, without spending a spell slot. The gardener must still Cast the Spell and meet the spell’s other requirements.
+	Reach Spell
+	(A)
+	If the next action the gardener uses is to Cast a Spell that has a range, increase that spell's range by 30 feet. As is standard for increasing spell ranges, if the spell normally has a range of touch, extend its range to 30 feet.
+
+
+	________________
+
+
+
+
+TIARISE IZONI
+	CREATURE
+	11
+	LE
+	Medium
+	Humanoid
+	Human
+	
+
+	
+
+	
+
+	Gear
+	+1 Resilient Explorer’s Clothing
+	Perception
+	+19; darkvision
+	Languages
+	Common, Draconic, Necril, Infernal, Sylvan, Aklo
+	Skills
+	Acrobatics +16, Arcana +22, Deception +15, Diplomacy +13, Intimidation +13, Medicine +17, Nature +17, Occultism +18
+	STR
+	+0
+	DEX
+	+3
+	CON
+	+3
+	INT
+	+5
+	WIS
+	+4
+	CHA
+	+0
+	AC
+	27
+	Fort
+	+19
+	Ref
+	+19
+	Will
+	+20
+	
+
+	HP
+	118 
+	Counterspell (R)
+	Speed
+	25 feet
+	Hexes
+	Focus Pool: 3 points
+Cackle, Phase Familiar (R), Needle of Vengeance, Curse of Death
+	Arcane Spellcasting
+	DC 30; Spell Attack Roll +20; 6th Disintegrate, Chain Lightning; 5th Black Tentacles, Impaling Strike, Cloudkill; 4th Dimension Door, Spell Immunity, Vampiric Maiden; 3rd Fireball, Lightning Bolt, Slow; 2nd Blood Vendetta (x3); 1st Magic Missile (x2), True Strike
+	KELAXIAX
+	CREATURE
+	-
+	HP
+	55; Resistances fire, acid, poison 5
+	Speed
+	25 feet, fly 25 feet
+	Hexes
+	Needle of Vengeance
+	Familiar Abilities
+	Darkvision, Flier, Manual Dexterity, Resistances x2, Skilled, Speech, Touch Telepathy
+	Infernal Temptation (A)
+	Once per day, Kelaxiax offers Tiarise a boon of good luck. If she dies within the next hour, her soul will travel to Hell where it is bound for eternity. Once during that hour, Tiarise can roll an attack roll or save twice and use the higher result. 
+	
+
+________________
+
+
+
+
+TIARISE IZONI, NEMHAIN
+	CREATURE
+	15
+	LE
+	Medium
+	Incorporeal
+	Undead
+	
+
+	
+
+	
+
+	
+
+	Perception
+	+19; darkvision, true seeing
+	Skills
+	Acrobatics +25, Arcana +32, Deception +26, Occultism +30, Religion +21, Stealth +25
+	STR
+	-3
+	DEX
+	+8
+	CON
+	+0
+	INT
+	+7
+	WIS
+	-2
+	CHA
+	+5
+	AC
+	38
+	Fort
+	+23
+	Ref
+	+27
+	Will
+	+23
+	+1 status to all saves vs. positive
+	HP
+	220 (negative healing); Immunities disease, paralyzed, poison, polymorph, unconscious; Resistances cold 5, electricity 5, fire 5, physical 5 (except bludgeoning)
+	Speed
+	fly 30 feet
+	Melee
+	(A)
+	hand +27 [+22/+17] (reach 0 feet, finesse, magical), Damage 6d6 negative
+	Bound Spirits
+	(F)
+	Frequency once per round
+Effect Tiarise uses the bound spirits around her to aid her spellcasting or reach her enemies. She can either make a hand Strike against a creature within 30 feet of her (ignoring her multiple attack penalty nor counting for it), or she can instead reduce the number of actions to cast her next spell by 1 (minimum 1 action). 
+	Arcane Prepared Spells
+	DC 40, attack +30; 9th massacre (x2)  ; 8th wall of force 7th spell turning (at will), repulsion (at will); 4th blink (at will), dimension door (at will), telekinetic maneuver (at will); Cantrips (8th) mage hand, telekinetic projectile; Constant (6th) true seeing
+	________________
+
+
+
+
+TOMBUS REGREGIOUS
+	CREATURE
+	11
+	LE
+	Medium
+	Humanoid
+	Human
+	
+
+	
+
+	
+
+	Perception
+	+20
+	Languages
+	Common, Infernal
+	Skills
+	Acrobatics +16, Athletics +16, Deception +21, Intimidation +23, Religion +21, Society +16
+	STR
+	+4
+	DEX
+	+2
+	CON
+	+2
+	INT
+	+0
+	WIS
+	+3
+	CHA
+	+5
+	AC
+	30
+	Fort
+	+19
+	Ref
+	+19
+	Will
+	+24
+	
+
+	HP
+	145
+	Speed
+	25 feet
+	Bladed Dash
+	(A)
+	Frequency: once per round
+Tombus Strides and makes a Strike against two adjacent creatures. His multiple attack penalty is only calculated after these attacks resolve.
+	Cleave
+	(R)
+	Trigger: Tombus’ melee Strike kills a creature or knocks it unconscious, and another foe is adjacent to that creature.
+Effect: Tombus swings clear through one foe and into another. He can make a melee Strike against the second foe.
+	For Cheliax!
+	(F)
+	Requirements: Tombus  and his allies are about to roll initiative
+Effect: Tombus and his allies gain a +2 circumstance bonus to their initiative.
+	Melee
+	(A)
+	Scimitar +21 [+16/+11] (magical, versatile P), Damage 2d6+8 bludgeoning plus 1d6 fire damage
+	Divine Spontaneous Spells
+	DC 30, attack +20; 5th banishment, command, crushing despair, heal, summon fiend (4 slots); 4th air walk, dimensional anchor, discern lies, suggestion (4 slots); 3rd blindness, crisis of faith, enthrall, fear (4 slots); 2nd darkvision, detect alignment, faerie fire, flaming sphere (4 slots); 1st bane, charm, command, ray of enfeeblement (4 slots); Cantrips (5th) detect magic, forbidding ward, light, produce flame, shield, sigil
+
+
+	________________
+
+
+
+
+TRIUMPHANT GUARDIAN
+	CREATURE
+	11
+	N
+	Large
+	Construct
+	Golem
+	Mindless
+	
+
+	
+
+	Perception
+	+18; darkvision
+	Skills
+	Athletics +26
+	STR
+	+6
+	DEX
+	-1
+	CON
+	+6
+	INT
+	-5
+	WIS
+	+0
+	CHA
+	-5
+	AC
+	31
+	Fort
+	+25
+	Ref
+	+18
+	Will
+	+19
+	
+
+	HP
+	205; Immunities acid, bleed, death effects, disease, doomed, drained, fatigued, healing, magic (see below), mental, necromancy, nonlethal attacks, paralyzed, poison, sickened, unconscious; Resistances physical 10 (except adamantine)
+	Berserk A severely damaged clay golem has a chance of going berserk. If it has 50 or fewer Hit Points at the start of its turn, the golem must succeed at a DC 5 flat check or go berserk. A berserk golem wildly attacks the nearest living creature, or the nearest object if no creatures are nearby.
+	Golem Antimagic harmed by cold and water (5d10, 2d6 from areas or persistent damage); healed by acid (area 2d6 HP); slowed by earth
+
+
+Vulnerable to Disintegrate A disintegrate spell affects the golem but deals half the normal amount of damage and causes the golem to become slowed 2 for 1 round.
+
+
+Quicken (F) (divine, transmutation) Frequency Once per day. Trigger The clay golem’s turn begins. It can’t trigger this free action on the first turn of combat. Effect The clay golem becomes quickened for 1 minute.
+	Speed
+	20 feet,
+	Melee
+	(A)
+	fist +26 [+21/+16] (magical, reach 10 feet), Damage 2d10+16 bludgeoning plus cursed wound
+	Berserk Slam
+	(A)
+	Requirement The golem is berserk. Effect The clay golem Strikes with its fist at a –1 circumstance penalty. If it hits, it deals an additional 1d8 damage and knocks the target prone.
+	Cursed Wound
+	(divine, curse, necromancy)  A creature hit by the clay golem’s fist must succeed at a DC 31 Fortitude save or be cursed until healed to its maximum HP. The cursed creature can’t regain HP except via magic, and anyone casting a spell to heal the creature must succeed at a DC 31 counteract check or the healing has no effect. The golem’s counteract level is equal to its creature level.
+	________________
+
+
+
+
+VAMPIRIC HOUND
+	CREATURE
+	11
+	LE
+	Medium
+	Devil
+	Fiend
+	
+
+	
+
+	
+
+	Perception
+	+17; greater darkvision
+	Skills
+	Acrobatics +27, Athletics +25,  Stealth +17, Survival +23 (+27 to Track)
+	STR
+	+4
+	DEX
+	+6
+	CON
+	+2
+	INT
+	+2
+	WIS
+	+4
+	CHA
+	+2
+	AC
+	25
+	Fort
+	+13
+	Ref
+	+17
+	Will
+	+15
+	+1 vs magic
+	HP
+	150; Immunities cold; Resistances fire 10
+	Speed
+	25 feet,
+	Melee
+	(A)
+	jaws +25 [+20/+15] (reach 10 feet), Damage 2d12+14 piercing
+	Melee
+	(A)
+	claw +24 [+20/+16] (agile, reach 20 feet), Damage 2d10+14 piercing plus Grab
+	Drink Blood
+	(A)
+	Requirement A grabbed, paralyzed, restrained, unconscious, or willing creature is within the vampire's reach. Effect The hound sinks its fangs into that creature to drink its blood. This requires an Athletics check against the victim's Fortitude DC if the victim is grabbed and is automatic for any of the other conditions. The victim is drained 1 and the hound regains 5 HP, gaining any excess HP as temporary Hit Points.
+	Sneak Attack
+	The vampiric hound deals an extra 2d6 precision damage to flat-footed creatures.
+	
+
+	
+
+	
+
+	________________
+
+
+
+
+VANASSES TREX
+	CREATURE
+	11
+	LE
+	Medium
+	Human
+	Humanoid
+	
+
+	
+
+	
+
+	Perception
+	+21, +4 on initiative
+	Languages
+	Common, Infernal
+	Skills
+	Intimidation +14, Athletics +22
+	STR
+	+5
+	DEX
+	+24
+	CON
+	+4
+	INT
+	+0
+	WIS
+	+3
+	CHA
+	+5
+	AC
+	34
+	Fort
+	+22
+	Ref
+	+20
+	Will
+	+19
+	+2 vs spells
+	HP
+	188
+	Attack of Opportunity (R) 
+Shield Block (R) Trigger: Vanasses is hit by an attack Effect: Reduce the incoming damage by 6 and apply it to both Vanasses and her shield. If the shield accumulates 12 damage, it is broken and Vansses can no longer use this reaction.
+
+Defend Mount (R) Trigger: An enemy attacks Thunderscar Effect: Vanasses uses her own AC against the triggering attack. If the attack hits, Vanasses takes the effects instead of Thunderscar.
+	Speed
+	25 feet
+	Melee
+	(A)
+	Lance +23 [+18/+13] (magical, versatile P), Damage 3d8+7 piercing
+	Ranged
+	(A)
+	Longbow +24 [+19/+14] (magical, versatile P), Damage 2d8+5 piercing
+	Exacting Strike
+	(A)
+	(Press) Vanasses makes a strike. It gains the following failure effect:
+Failure: The attack does not count towards her MAP.
+	Debilitating Shot
+	(AA)
+	(Flourish) Vanasses makes a ranged weapon strike. If it hits and deals damage, the target is slowed 1 until the end of its next turn,
+	Cavalier’s Banner
+	Vanasses and all of her allies within 30 feet of her gains a +1 bonus to Will saves and DCs against fear effects. If the banner is destroyed, removed, or Vanasses falls, allies within 30 feet become frightened 1.
+	THUNDERSCAR
+	CREATURE
+	-
+	LE
+	Medium
+	Human
+	Humanoid
+	
+
+	
+
+	
+
+	AC
+	30
+	Fort
+	+20
+	Ref
+	+20
+	Will
+	+19
+	
+
+	HP
+	128
+	Speed
+	35 feet
+	Melee
+	(A)
+	Hoof +20 [+16/+12] Damage 2d6+9+1d6 lightning
+	Support
+	(A)
+	If Thunderscar has moved at least 10 feet before using this action, Vanasses gains a +6 bonus to her next Lance strike.
+	Gallop
+	(AA)
+	Thunderscar strides 90 feet.
+	________________
+
+
+
+
+WARMONGER GUARDIAN
+	CREATURE
+	16
+	LE
+	Large
+	Construct
+	Devil
+	Fiend
+	
+
+	
+
+	Perception
+	+27; greater darkvision
+	Languages
+	Celestial, Infernal; telepathy 100 feet
+	Skills
+	Acrobatics +28, Athletics +36, Intimidation +28, Religion +28
+	STR
+	+9
+	DEX
+	+5
+	CON
+	+6
+	INT
+	+5
+	WIS
+	+6
+	CHA
+	+4
+	AC
+	39
+	Fort
+	+29
+	Ref
+	+27
+	Will
+	+23
+	+1 vs magic
+	HP
+	280; Immunities death effects, disease, doomed, drained, fatigued, fire, healing, necromancy, nonlethal attacks, paralyzed, poison, sickened, unconscious; Resistances physical 10 (except silver); Weaknesses good 10
+	Hellstrider The guardian ignores the effects of non-magical difficult terrain. They take no damage from caltrops or from damaging terrain that deals physical, acid, or cold damage. The guardian can move through liquids up to 5 feet deep at their full Speed.
+	Phalanx Fighter All devils of equal or lower level adjacent to the guardian gain a +2 circumstance bonus to their AC as the levaloch shields them from harm.
+
+
+Stable Stance The guardian gains a +4 circumstance bonus to their Fortitude DC against being Shoved and to other saving throws to resist being moved against their will.
+	Speed
+	30 feet, climb 30 feet
+	Melee
+	(A)
+	trident +33 [+28/+23] (evil, magical), Damage 3d8+18 piercing plus 3d6 evil and merciless thrust
+	Ranged
+	(A)
+	trident +33 [+28/+23] (evil, magical, thrown 20 feet), Damage 3d8+18 piercing plus 3d6 evil
+	Ranged
+	(A)
+	barbed net +30 [+25/+20] (magical, range increment 20 feet), Effect barbed net
+	Barbed Net
+	When the guardian hits a creature with their barbed net, the net wraps around the target, which becomes clumsy 3 and takes a –20-foot circumstance penalty to its Speeds. If the Strike was a critical success, the target is also immobilized. When a creature Escapes (DC 40), or if the Strike misses, the net crumbles into rust. Each time a creature attempts to Escape, it takes 3d6 slashing damage from the net's barbs, regardless of whether the attempt succeeds.
+	Forge Weapon
+	(A)
+	(manipulate) The  guardian reforges part of their barbed iron substance into a new +3 greater striking trident or barbed net. Their previous trident crumbles to rust. When the guardian
+is destroyed, any tridents or barbed nets they created crumble to rust.
+	Infernal Determination
+	(A)
+	Frequency: Once per day
+Effect: The guardian shrugs off their enemies’ spells and conditions when the need is dire. They choose a single nonpermanent spell or condition affecting them. If the levaloch chooses a condition, its effect on them ends. If it chooses a spell, it can attempt to counteract the spell by making a Will save as the counteract check. The counteract level is 8
+	Merciless Thrust
+	When a guardian hits a creature that has the clumsy, enfeebled, immobilized, or restrained conditions with a melee trident Strike, the Strike deals an additional 4d6 damage.
+	________________
+
+
+
+
+WHISPERING HEAD
+	CREATURE
+	14
+	Haunt
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	Complexity
+	Complex
+	Stealth
+	+22 (master)
+	Description
+	A barely visible spectral head hovers above a person, as faint whispers describing thoughts of suicide echo through the vicinity.
+	Disable Religion DC 32 (master) to utter a prayer with enough devotion to make it go away, as well as Diplomacy DC 30 (master) to give words of encouragement strong enough to overpower the haunt’s whispers.
+	Whispers of Suicide (R)  Trigger  A creature moves within 5 ft. of the whispering head; Effect The whispering head whispers thoughts of suicide into its head, compelling it to ends it life. The target is subjected to a 6th-level Phantasmal Killer spell (DC 30).
+	Routine (A) The whispering head moves 20 feet towards the nearest creature, prioritizing the latest target it has used Whispers of Suicide on.
+	
+
+WHISPERING VORTEX
+	CREATURE
+	16
+	Haunt
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	Complexity
+	Complex
+	Stealth
+	+26 (master)
+	Description
+	A vortex of whispering decapitated heads begins whirling and churling, creating a sickly green vortex of ghostly energy.
+	Disable Religion DC 36 (master) to ritually exorcise the ghosts forming the vortex,, as well as Diplomacy DC 34 (master) or Perform DC 36 (master) to give words of encouragement strong enough to overpower the haunt’s whispers. Three successful checks are needed to reduce the vortex’s size enough for it to disappear completely.
+	Vortex of Despair (R)  Trigger  A target within 30 feet of the vortex notices it; Effect The heads swirling inside the vortex start screaming for help, cursing uncontrollably, and worse, making anyone who hears them crazy. The vortex casts an 8th-level Confusion spell (Will save DC 32).
+	Routine
+	(AAA)
+	The vortex grows in size, as the heads inside harmonize their screams - the resulting sound evokes thoughts of the worst fears of  any living creature within 120 feet of it, as per the Weird spell (Will save DC 33). For each successful check at disabling the haunt, increase the DC by 2.
+	Reset
+	The trap ends when the trap is unable to target any living creatures in its range. It then resets instantly.
+	________________
+
+
+
+
+YOULUBILIS TRAPPER
+	CREATURE
+	13
+	LN
+	Large
+	Aberration
+	
+
+	
+
+	
+
+	
+
+	Perception
+	+25; darkvision
+	Skills
+	Acrobatics +23, Athletics +27, Stealth +27 (+30 in sewers)
+	STR
+	+8
+	DEX
+	+6
+	CON
+	+7
+	INT
+	-4
+	WIS
+	+6
+	CHA
+	+4
+	AC
+	32
+	Fort
+	+26
+	Ref
+	+21
+	Will
+	+23
+	
+
+	HP
+	285
+	Speed
+	20 feet, swim 30 feet
+	Melee
+	(A)
+	jaws +27 [+22/+17] (reach 10 feet), Damage 3d12+14 piercing plus Improved Grab
+	Melee
+	(A)
+	tentacle +27 [+23/+19] (agile, reach 15 feet), Damage 3d8+14 bludgeoning plus Improved Grab
+	Flailing Tentacles
+	(A)
+	The trapper makes up to four tentacle Strikes, each against a different target. These count toward the froghemoth's multiple attack penalty, but the multiple attack penalty doesn't increase until after all the attacks.
+	Greater Constrict
+	(A)
+	3d6+12, DC 33
+	________________
+
+
+
+
+ZELLA ZIDLI
+	CREATURE
+	10
+	LE
+	Medium
+	Humanoid
+	Human
+	
+
+	
+
+	
+
+	Perception
+	+18
+	Languages
+	Common, Elven, Draconic, Infernal
+	Skills
+	Acrobatics +18, Arcana +23, Diplomacy +16, Intimidation +16, Harrow Lore +23, Medicine +19, Nature +21, Survival +21
+	STR
+	+0
+	DEX
+	+4
+	CON
+	+3
+	INT
+	+5
+	WIS
+	+3
+	CHA
+	+1
+	AC
+	26
+	Fort
+	+17
+	Ref
+	+18
+	Will
+	+19
+	
+
+	HP
+	125
+	Speed
+	20 feet
+	Melee
+	(A)
+	bladed scarf +16 [+11/+6] (two-hand d8), Damage 1d4+2 bludgeoning
+	Arcane Prepared Spells DC 30, attack +20; 6th vibrant pattern, mislead, tangling creepers; 5th black tentacles, cloak of colors, wall of stone, chromatic wall; 4th dimension door, fly, freedom of movement, resilient sphere; 3rd paralyze, magical fetters, slow, blindness; 2nd mirror image, false life, obscuring mist, see invisibility; 1st fleet step, gust of wind, unseen servant; Cantrips (6th) produce flame, tanglefoot
+
+Wizard School Spells 2 Focus Points, DC 30; 6th elemental tempest, force bolt
+	Drain Bonded Item
+	(F)
+	Frequency Once per day. Requirements Zella hasn’t acted yet on this turn. Effect Zella expends the power stored in its signet ring. This gives her the ability to cast one prepared spell it had already previously cast today, without spending a spell slot. Zella must still Cast the Spell and meet the spell’s other requirements.
+	Reach Spell
+	(A)
+	If the next action Zella uses is to Cast a Spell that has a range, increase that spell's range by 30 feet. As is standard for increasing spell ranges, if the spell normally has a range of touch, extend its range to 30 feet.
+
+
+	________________
+
+
+
+
+ZEBUB ARCHER
+	CREATURE
+	11
+	LE
+	Small
+	Devil
+	Fiend
+	
+
+	
+
+	
+
+	Perception
+	+24; greater darkvision, true seeing
+	Skills
+	Acrobatics +25, Arcana +16, Deception +18, Intimidate +22, Religion +20, Stealth +24
+	STR
+	+1
+	DEX
+	+5
+	CON
+	+2
+	INT
+	+0
+	WIS
+	+3
+	CHA
+	+1
+	AC
+	31
+	Fort
+	+21
+	Ref
+	+24
+	Will
+	+21
+	+1 status vs all magic
+	HP
+	160 ; Immunities fire; Resistances physical 5 (except silver), poison 5; Weaknesses good 5
+	Speed
+	15 feet, fly 50 feet
+	Ranged
+	(A)
+	longbow +23 [+18/+13] (evil, finesse, magical), Damage 2d8+6 piercing plus 1d6 evil
+	Melee
+	(A)
+	mandibles +23 [+18/+13] (evil, finesse, magical), Damage 2d10+6 piercing plus 1d6 evil and Cocytan filth
+	Infernal Eye
+	(AAA)
+	The zebub records everything they see, and though they don't remember all observations, they can pass them along to another creature. The zebub replays 10 minutes of witnessed events to a touched willing creature, which receives the memories in a flash of information. By remaining in contact, the zebub can spend additional 3-action activities to replay more information. After relaying their visions to another, the zebub can't ever recall those events again.
+	Sneak Attack
+	The zebub's Strikes deal an additional 2d6 precision damage to flat-footed creatures. Additionally, frightened creatures are flat-footed to the Zebub Archer.
+	Divine Innate Spells
+	DC 31; 7th dimension door; 5th dimension door (at will); 2nd invisibility (at will; self only), summon animal (swarm creatures only); Cantrips (2nd) message
+	Cocytan Filth
+	Saving Throw DC 30 Fortitude; Onset 1d4 days; Stage 1 enfeebled 1 (1 day); Stage 2 enfeebled 2 (1 day); Stage 3 enfeebled 3 (1 day)

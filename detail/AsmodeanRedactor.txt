@@ -1,0 +1,51 @@
+	ASMODEAN REDACTOR
+	CREATURE
+	1
+	LE
+	Medium
+	Humanoid
+	
+
+	
+
+	
+
+	
+
+	Perception
+	+6
+	Languages
+	Common, Infernal, Shadowtongue
+	Skills
+	History +7, Religion +7, 
+	STR
+	+2
+	DEX
+	+4
+	CON
+	+2
+	INT
+	+0
+	WIS
+	+1
+	CHA
+	+0
+	AC
+	18
+	Fort
+	+7
+	Ref
+	+9
+	Will
+	+4
+	
+
+	HP
+	18
+	Attack of Opportunity (R)
+	Speed
+	30 feet
+	Melee
+	(A)
+	unarmed attack +6 (agile, finesse, unarmed), Damage 1d6+2 piercing
+	Hamatula Strike

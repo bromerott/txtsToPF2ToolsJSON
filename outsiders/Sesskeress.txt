@@ -1,0 +1,48 @@
+﻿	SESSKERESS
+	CREATURE
+	0
+	N
+	Large
+	Beast
+	
+
+	
+
+	
+
+	
+
+	Skills
+	Perception +11, Athletics +12
+	STR
+	+4
+	DEX
+	+3
+	CON
+	+3
+	INT
+	-4
+	WIS
+	+3
+	CHA
+	+0
+	AC
+	19
+	Fort
+	+12
+	Ref
+	+12
+	Will
+	+12
+	
+
+	HP
+	62
+	Speed
+	30 feet swim
+	Melee
+	(A)
+	jaws +13 Damage 1d8+11
+	Fight in my Terrain!
+	(AA)
+	Sesskeress attempts to grab a creature that’s adjacent to water. If it succeeds, it may immediately drag it 30 feet into the water and attempt a Strike.

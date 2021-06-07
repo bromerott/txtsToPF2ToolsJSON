@@ -1,0 +1,65 @@
+NASPERIAH
+	CREATURE
+	19
+	LE
+	Medium
+	Incorporeal
+	Spirit
+	Undead
+	
+
+	
+
+	Perception
+	+35; greater darkvision
+	Languages
+	Aklo, Common, Necril
+	Skills
+	Acrobatics +32, Deception +37, Intimidation +37, Religion +35, Occultism +34, Stealth +32
+	STR
+	-5
+	DEX
+	+9
+	CON
+	+0
+	INT
+	+4
+	WIS
+	+5
+	CHA
+	+9
+	AC
+	44
+	Fort
+	+30
+	Ref
+	+35
+	Will
+	+33
+	
+
+	HP
+	300 (negative healing); Immunities death effects, disease, fire, paralyzed, poison, precision, unconscious;; Resistances all 10 (except force, ghost touch, or positive; double resistance vs. non-magical)
+	Opportune Witchflame (R) Trigger A creature makes a melee Strike against or touches Nasperiah; Effect Nasperiah makes a witchflame caress Strike against the triggering creature.
+	Speed
+	fly 40 feet
+	Melee
+	(A)
+	witchflame caress +38 [+34/+30] (agile, evil, finesse, magical), Damage 6d6 fire plus 6d6 negative and witchflame
+	Melee
+	(A)
+	witchflame bolt +38 [+33/+28] (evil, magical, range 100 feet), Damage 6d6 fire plus 6d6 negative and witchflame
+	Witchflame Kindling
+	(AA)
+	(fire, necromancy, occult) Requirements A creature within 60 feet of Nasperiah burns with witchflame; Effect Nasperiah's eyes and mouth glow brightly, and the witchflame on the target creature momentarily burns much hotter, dealing 10d6 fire damage and 10d6 negative damage to that creature (DC 41 basic Fortitude save). Nasperiah can't use Witchflame Kindling for 1d4 rounds.
+	Divine Innate Spells
+	DC 41; 9th summon elemental (Elemental Inferno only); 8th crushing despair, phantom pain; 4th invisibility, phantasmal killer; 2nd illusory disguise (at will); Cantrips (5th) dancing lights, ghost sound
+	Witchflame
+	(curse, fire, necromancy, occult) Any creature that takes negative damage from a witchfire's Strike must attempt a DC 41 Will save.
+
+
+Critical Success The creature is unaffected and is temporarily immune to witchflame for 1 hour.
+Success The creature appears to catch fire with sickly green flames. These flames deal no damage on their own, but as long as the flames burn, the creature can't be concealed (invisible creatures are concealed rather than being undetected) and gains weakness 15 to fire for 1 round.
+Failure As success, but the effect is permanent until removed.
+Critical Failure As failure, but the creature gains weakness 20 to fire.
+	________________

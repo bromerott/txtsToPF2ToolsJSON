@@ -1,0 +1,62 @@
+GOREFANGS
+	CREATURE
+	7
+	CE
+	Large
+	Fiend
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	Perception
+	 +16; darkvision, scent (imprecise) 30 feet
+	Skills
+	Acrobatics +15, Athletics +15, Stealth +15, Survival +14
+	STR
+	+6
+	DEX
+	+2
+	CON
+	+4
+	INT
+	+2
+	WIS
+	+2
+	CHA
+	+0
+	AC
+	25
+	Fort
+	+17
+	Ref
+	+15
+	Will
+	+12
+	
+
+	HP
+	HP 105; Resistances fire 10, physical 10 (except magical); Weaknesses good 5, good 5
+	Attack of Opportunity (R)
+	Speed
+	40 feet
+	Melee
+	(A)
+	bite +17, Damage 2d10+6 piercing
+	Melee
+	(A)
+	claw +17 (agile), Damage 2d8+6 slashing
+	New Chew Toy
+	(AA)
+	Gorefangs makes one Strike with its bite. It  can then immediately try to Grapple the creature. If successful, it can Stride twice. 
+	Furious Drag
+	Whenever Gorefangs moves whilst it has a creature grappled, the creature takes 1d6 per 10 feet moved (Reflex DC 21 to halve) as it is dragged through the ground.

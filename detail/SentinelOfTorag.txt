@@ -1,0 +1,54 @@
+SENTINEL OF TORAG
+	CREATURE
+	7
+	N
+	Huge
+	Construct
+	Mindless
+	
+
+	
+
+	
+
+	Perception
+	+13; darkvision
+	Skills
+	Athletics +17
+	STR
+	+6
+	DEX
+	-1
+	CON
+	+6
+	INT
+	-5
+	WIS
+	+0
+	CHA
+	-5
+	AC
+	26
+	Fort
+	+17
+	Ref
+	+10
+	Will
+	+9
+	
+
+	HP
+	100; Hardness 10; Immunities bleed, death effects, disease, doomed, drained, fatigued, healing, mental, necromancy, nonlethal attacks, paralyzed, poison, sickened, unconscious
+	Construct Armor
+	Like normal objects, a sentinel has Hardness. This Hardness reduces any damage it takes by an amount equal to the Hardness. Once a sentinel statue is reduced to less than half its Hit Points, or immediately upon being damaged by a critical hit, its construct armor breaks and its Armor Class is reduced to 22.
+	Speed
+	 30 feet
+	Melee
+	(A)
+	mountain hammer +19 (magical), Damage 2d12+6 bludgeoning plus Grab
+	Ranged
+	(A)
+	spectral anvil +12 (magical, range increment 80 feet), Damage 5d6+6 lawful plus anvil mark
+	Strike the Anvil
+	(A)
+	The sentinel conjures an ethereal hammer to strike a creature that has an anvil mark. The target takes 3d8 lawful damage and loses the mark.

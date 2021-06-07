@@ -1,0 +1,16 @@
+	KELAXIAX
+	CREATURE
+	0
+	HP
+	55; Resistances fire, acid, poison 5
+	Speed
+	25 feet, fly 25 feet
+	Hexes
+	Needle of Vengeance
+	Familiar Abilities
+	Darkvision, Flier, Manual Dexterity, Resistances x2, Skilled, Speech, Touch Telepathy
+	Infernal Temptation (A)
+	Once per day, Kelaxiax offers Tiarise a boon of good luck. If she dies within the next hour, her soul will travel to Hell where it is bound for eternity. Once during that hour, Tiarise can roll an attack roll or save twice and use the higher result. 
+	
+
+________________

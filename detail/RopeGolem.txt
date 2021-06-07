@@ -1,0 +1,57 @@
+ROPE GOLEM
+	CREATURE
+	4
+	N
+	Medium
+	Construct
+	
+
+	
+
+	
+
+	
+
+	Perception
+	+11; low-light vision
+	Skills
+	Athletics +13, Stealth +9 (+14 to pass as rope)
+	STR
+	+5
+	DEX
+	+1
+	CON
+	+3
+	INT
+	+1
+	WIS
+	+3
+	CHA
+	+1
+	Slow
+	The Plague Zombie is permanently Slowed 1.
+	AC
+	20
+	Fort
+	+13
+	Ref
+	+9
+	Will
+	+11
+	
+
+	HP
+	75; Resistances bludgeoning 10, piercing 10; Weaknesses slashing, fire 10
+	Attack of Opportunity (R)
+	Collapse and Coil (R)  Frequency once per day; Trigger The rope golem is hit by an attack Effect The rope golem gains resistance 5 against the triggering attack, and can immediately Stride and make a Grab attack against one creature.
+	Speed
+	25 feet
+	Melee
+	(A)
+	 rope hammer +13 (reach 10 feet), Damage 1d8+10 bludgeoning plus Grab
+	Melee
+	(A)
+	rope burn +13, Damage 1d6+10 fire
+	Grab
+	(A)
+	Damage none

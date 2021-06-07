@@ -1,0 +1,63 @@
+SLUUCOROTH, DROWNING DEVIL
+	CREATURE
+	15
+	LE
+	Large
+	Devil
+	Fiend
+	
+
+	
+
+	
+
+	Perception
+	+29; greater darkvision
+	Languages
+	Celestial, Draconic, Infernal; telepathy 100 feet
+	Skills
+	Arcana +30, Deception +31, Intimidation +33, Religion +27, Stealth +32
+	STR
+	+5
+	DEX
+	+5
+	CON
+	+4
+	INT
+	+3
+	WIS
+	+2
+	CHA
+	+4
+	AC
+	40
+	Fort
+	+33
+	Ref
+	+30
+	Will
+	+27
+	+1 to saves vs. magic
+	HP
+	320; Immunities fire; Resistances physical 10 (except silver), poison 10; Weaknesses good 10
+	Speed
+	35 feet, fly 35 feet, swim 40 feet
+	Melee
+	(A)
+	jaws +32, Damage 4d10+15 piercing
+	Melee
+	(A)
+	claw +32 (agile, reach 10 feet), Damage 4d6+15 slashing
+	Occult Innate Spells
+	DC 25; 7th warp mind, mask of terror, visions of danger; 6th dimension door, phantom pain; 5th dimension door (at will), dimensional anchor (x2), discern lies; 2nd invisibility (at will; self only)
+	Drowning Devil Poison
+	Saving Throw DC 37 Fortitude; Maximum Duration 6 rounds; Stage 1 5d6 poison damage, enfeebled 1 (1 round); Stage 2 5d6 poison damage and enfeebled 1 (1 round); Stage 3 5d6 poison damage, enfeebled 2, and the creature takes a –4 status penalty to Will saves against attempts to Coerce it (1 hour)
+	Drown
+	(AAA)
+	Sluucoroth summons murky water into the lungs of a creature within 30 feet of him. At the start of its next turn, the target must succeed at a DC 36 Fortitude save or fall unconscious, drop to 0 hit points and begin dying.
+	Heavy Aura
+	Whenever a creature enters a space within 10 feet of Shurghosot, it must succeed on a DC 38 Will save:
+Success: Unaffected and immune to this effect for 24 hours.
+Failure: The creature’s speeds are reduced by half while in the aura.
+Critical Failure: The creature’s speeds are reduced to 0 while in the aura.
+	________________

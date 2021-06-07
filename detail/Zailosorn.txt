@@ -1,0 +1,68 @@
+ZAILOSORN
+	CREATURE
+	8
+	NE
+	Large
+	Dragon
+	
+
+	
+
+	
+
+	
+
+	Perception
+	+17; darkvision, scent (imprecise) 30 feet
+	Skills
+	Acrobatics +18, Athletics +19, Stealth +16
+	STR
+	+5
+	DEX
+	+2
+	CON
+	+4
+	INT
+	-2
+	WIS
+	+3
+	CHA
+	+0
+	AC
+	28
+	Fort
+	+20
+	Ref
+	+16
+	Will
+	+17
+	
+
+	HP
+	155; Immunities paralyzed, unconscious
+	Attack of Opportunity (R)
+	Savage (R)
+	A creature grabbed by the wyvern critically fails a skill check to Escape. Effect The wyvern makes a stinger Strike against the triggering creature.
+	Speed
+	20 feet, fly 60 feet
+	Melee
+	(A)
+	Fangs +21, Damage 2d12+9 piercing
+	Melee
+	(A)
+	Claw +21, Damage 2d8+9 slashing plus Grab
+	Melee
+	(A)
+	Stinger +19 (agile, reach 10 feet), Damage 2d6+9 piercing plus wyvern venom
+	Powerful Dive
+
+
+	(A)
+	Zailosorn flies up to its fly Speed and must both move forward at least 20 feet and descend at least 10 feet. If it ends the movement within melee reach of at least one enemy its size or smaller, it can make a claw Strike against that enemy. If the claw hits, as a free action Zailosorn can either automatically Grab the target or knock it prone.
+	Punishing Momentum
+	
+
+	Requirements Zailosorn  grabbed a creature this turn using Powerful Dive. Effect Zailosorn  can Fly at half Speed while holding the creature in its claws, carrying that creature along with it and dropping it at the end of its movement. Alternatively, Zailosorn can Strike the creature with its stinger with a +2 circumstance bonus.
+	Wyvern Poison
+	(poison) Saving Throw Fortitude DC 22; Maximum Duration 6 rounds; Stage 1 5d6 poison damage (1 round); Stage 2 6d6 poison damage (1 round); Stage 3 8d6 poison damage (1 round)
+	________________

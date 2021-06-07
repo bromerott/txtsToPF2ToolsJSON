@@ -1,0 +1,57 @@
+TAYACET TIORA
+	CREATURE
+	6
+	N
+	Medium
+	Humanoid
+	Human
+	
+
+	
+
+	
+
+	Perception
+	+17
+	Languages
+	Common
+	Skills
+	Deception +15, Diplomacy +13, Intimidation +15, Local Court Lore +16, Society +12, Stealth +14, Thievery +12
+	STR
+	+0
+	DEX
+	+4
+	CON
+	+1
+	INT
+	+2
+	WIS
+	+4
+	CHA
+	+4
+	AC
+	23
+	Fort
+	+11
+	Ref
+	+17
+	Will
+	+14
+	
+
+	HP
+	90
+	Speed
+	25 feet
+	Melee
+	(A)
+	rapier +16 (deadly 1d8, disarm, finesse, magical), Damage 1d6+7 piercing
+	Ranged
+	(A)
+	dagger +14 (agile, thrown 10 feet, versatile S), Damage 1d4+6 piercing
+	Hidden Blade
+	(A)
+	Frequency once per round; Effect Tayacet draws a weapon and
+then Strikes with it. The target of the Strike is flat-footed against the attack
+	S.Attack
+	Tayacet deals an extra 2d6 precision damage to flat-footed creatures.

@@ -1,0 +1,49 @@
+	SHARK COMPANION
+	CREATURE
+	11
+	N
+	Large
+	Beast
+	
+
+	
+
+	
+
+	
+
+	Skills
+	Perception +22, Athletics +24
+	STR
+	+4
+	DEX
+	+3
+	CON
+	+3
+	INT
+	-4
+	WIS
+	+3
+	CHA
+	+0
+	AC
+	30
+	Fort
+	+20
+	Ref
+	+22
+	Will
+	+21
+	
+
+	HP
+	95
+	Speed
+	30 feet swim
+	Melee
+	(A)
+	jaws +24 Damage 2d8+11 piercing
+	Fight in my Terrain!
+	(AA)
+	The shark companion attempts to grab a creature that’s adjacent to water. If it succeeds, it may immediately drag it 30 feet into the water and attempt a Strike.
+	________________

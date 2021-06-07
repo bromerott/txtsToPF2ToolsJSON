@@ -1,0 +1,51 @@
+TIARISE IZONI
+	CREATURE
+	11
+	LE
+	Medium
+	Humanoid
+	Human
+	
+
+	
+
+	
+
+	Gear
+	+1 Resilient Explorer’s Clothing
+	Perception
+	+19; darkvision
+	Languages
+	Common, Draconic, Necril, Infernal, Sylvan, Aklo
+	Skills
+	Acrobatics +16, Arcana +22, Deception +15, Diplomacy +13, Intimidation +13, Medicine +17, Nature +17, Occultism +18
+	STR
+	+0
+	DEX
+	+3
+	CON
+	+3
+	INT
+	+5
+	WIS
+	+4
+	CHA
+	+0
+	AC
+	27
+	Fort
+	+19
+	Ref
+	+19
+	Will
+	+20
+	
+
+	HP
+	118 
+	Counterspell (R)
+	Speed
+	25 feet
+	Hexes
+	Focus Pool: 3 points
+Cackle, Phase Familiar (R), Needle of Vengeance, Curse of Death

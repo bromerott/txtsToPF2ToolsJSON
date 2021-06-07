@@ -1,0 +1,69 @@
+ANAGONDUN
+	CREATURE
+	20
+	LE
+	Large
+	Devil
+	Fiend
+	
+
+	
+
+	
+
+	Perception
+	+37; greater darkvision, true seeing
+	Languages
+	Celestial, Common, Draconic, Infernal; telepathy 100 feet
+	Skills
+	Acrobatics +34, Arcana +32, Athletics +39, Deception +39, Diplomacy +34, Intimidation +39, Religion +37, Society +36, Stealth +34
+	STR
+	+9
+	DEX
+	+5
+	CON
+	+6
+	INT
+	+5
+	WIS
+	+6
+	CHA
+	+4
+	AC
+	46
+	Fort
+	+37
+	Ref
+	+32
+	Will
+	+35
+	+1 vs magic
+	HP
+	335 (regeneration 30 (deactivated by good)); Immunities fire; Resistances physical 15 (except silver), poison 15; Weaknesses good 15
+	False Divinity (R) Trigger A creature within 30 ft. of Anagondun damages him. Effect  Mimicking divine power, Anagondun can either cast Enduring Might or Retributive Pain.
+	Speed
+	40 feet, fly 80 feet
+	Melee
+	(A)
+	jaws +40 [+35/+30] (evil, magical, poison, reach 10 feet), Damage 4d10+17 piercing plus 2d6 evil plus Infernal Healing
+	Melee
+	(A)
+	claw +38 [+34/+30] (agile, evil, magical, reach 10 feet), Damage 4d6+17 slashing plus 2d6 evil
+	Melee
+	(A)
+	tail +36 [+31/+26] (evil, magical, reach 10 feet), Damage 4d10+17 bludgeoning plus 2d6 evil and Improved Grab
+	Melee
+	(A)
+	slam +36 [+31/+26] (evil, magical, reach 15 feet), Damage 4d6+17 bludgeoning plus 2d6 evil
+	False Divinity
+	(A)
+	Anagondun mimics divine power and manifests it in the form of a cleric´s domain spell. He may cast Destructive Aura or Fire Ray without needing  to spend a Focus point.
+	Divine Innate Spells
+	DC 42; 9th overwhelming presence (at will); 8th dispel magic (at will), paralyze (at will), heal (at will), harm (at will); 5th dimension door; 4th dimension door (at will); Constant (8th) true seeing
+	Idol Armor
+	Anagondun wears an unholy armor made of fallen idols and ornaments of devotion. Being affected by the spells Weapon of Judgement and Divine Decree, as well as coming into 30 ft. of a creature affected by a Divine Vessel or Avatar spell instantly destroy the armor, lowering Anagondun’s AC by 6.
+	Infernal Healing
+	(divine, necromancy) Anagondun’s jaws Strike also deals 1d6 persistent bleed damage that resists attempts to heal it. The flat check to stop the bleeding starts at DC 20. The DC is reduced to 15 only if the bleeding creature or an ally successfully assists with the recovery.
+
+The DC to Administer First Aid to a creature with an infernal wound is increased by 5. A spellcaster or item attempting to use healing magic on a creature suffering from an infernal wound must succeed at a DC 38 counteract check or the magic fails to heal the creature.
+	________________

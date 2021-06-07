@@ -1,0 +1,57 @@
+GRUNDLESCORN SISTER
+	CREATURE
+	13
+	NE
+	Medium
+	Fiend
+	Hag
+	Humanoid
+	
+
+	
+
+	Perception
+	+26; darkvision
+	Languages
+	Abyssal, Aklo, Celestial, Common, Infernal
+	Skills
+	Arcana +26, Deception +26, Diplomacy +26, Intimidation +20, Occultism +26, Religion +26
+	STR
+	+5
+	DEX
+	+4
+	CON
+	+6
+	INT
+	+4
+	WIS
+	+5
+	CHA
+	+3
+	AC
+	34
+	Fort
+	+25
+	Ref
+	+17
+	Will
+	+18
+	+2 status to all saves vs. magic
+	HP
+	170; Immunities sleep; Resistances mental 10; Weaknesses cold iron 10
+	Speed
+	50 feet
+	Melee
+	(A)
+	bone needle +20 [+15/+10] (magical), Damage 2d8+8 piercing plus 1d6 evil and Abyssal plague
+	Primal Innate Spells
+	DC 28; 9th bind soul (at will; from heartstone), ethereal jaunt (at will; from heartstone); 8th dream council; 6th chain lightning (x3); 5th lightning storm (x3); 3rd dream message (at will), magic missile (at will); 2nd invisibility (at will); 1st ray of enfeeblement (at will), sleep (at will); Constant (3rd) detect magic; (3rd) detect alignment (all alignments simultaneously)
+	Grundlescorn Coven
+	(R)
+	Frequency: once per day
+Trigger: The Grundlescorn sister cast a spell with the electricity trait
+Effect: For each other sister within 60 feet, the spell is heightened 1 level higher.
+	Your Heart is Mine
+	(AAA)
+	The storm hag stabs a creature in the heart, seemingly penetrating all armor and taking out its heart. This works like the Paralyze spell (DC 36), except the Will saving throw also counts as a basic save against 10d10 piercing damage.
+	________________

@@ -1,0 +1,62 @@
+SHRUGHOSOT, DROWNING DEVIL
+	CREATURE
+	9
+	LE
+	Large
+	Devil
+	Fiend
+	
+
+	
+
+	
+
+	Perception
+	+17; greater darkvision
+	Languages
+	Celestial, Draconic, Infernal; telepathy 100 feet
+	Skills
+	Arcana +18, Deception +19, Intimidation +21, Religion +15, Stealth +20
+	STR
+	+5
+	DEX
+	+5
+	CON
+	+4
+	INT
+	+3
+	WIS
+	+2
+	CHA
+	+4
+	AC
+	28
+	Fort
+	+21
+	Ref
+	+18
+	Will
+	+15
+	+1 to saves vs. magic
+	HP
+	146; Immunities fire; Resistances physical 10 (except silver), poison 10; Weaknesses good 10
+	Speed
+	35 feet, fly 35 feet, swim 40 feet
+	Melee
+	(A)
+	jaws +20, Damage 2d10+11 piercing
+	Melee
+	(A)
+	claw +20 (agile, reach 10 feet), Damage 2d6+11 slashing
+	Divine Innate Spells
+	DC 25; 5th dimension door, phantom pain; 4th dimension door (at will), dimensional anchor (x2), discern lies; 2nd invisibility (at will; self only)
+	Drowning Devil Poison
+	Saving Throw DC 25 Fortitude; Maximum Duration 6 rounds; Stage 1 2d6 poison damage, enfeebled 1 (1 round); Stage 2 3d6 poison damage and enfeebled 1 (1 round); Stage 3 3d6 poison damage, enfeebled 2, and the creature takes a –4 status penalty to Will saves against attempts to Coerce it (1 hour)
+	Drown
+	(AAA)
+	Shrughosot summons murky water into the lungs of a creature within 30 feet of him. At the start of its next turn, the target must succeed at a DC 24 Fortitude save or fall unconscious, drop to 0 hit points and begin dying.
+	Heavy Aura
+	Whenever a creature enters a space within 10 feet of Shurghosot, it must succeed on a DC 26 Will save:
+Success: Unaffected and immune to this effect for 24 hours.
+Failure: The creature’s speeds are reduced by half while in the aura.
+Critical Failure: The creature’s speeds are reduced to 0 while in the aura.

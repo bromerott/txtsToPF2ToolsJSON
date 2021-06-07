@@ -1,0 +1,64 @@
+VARL WEX
+	CREATURE
+	8
+	CE
+	Medium
+	Humanoid
+	Human
+	
+
+	
+
+	
+
+	
+
+	
+
+	Perception
+	 +15
+	Languages
+	 Common
+	Skills
+	Acrobatics +16, Athletics +16, Deception +14, Stealth +16
+	STR
+	+4
+	DEX
+	+4
+	CON
+	+3
+	INT
+	+1
+	WIS
+	+1
+	CHA
+	+0
+	AC
+	27
+	Fort
+	+13
+	Ref
+	+18
+	Will
+	+13
+	
+
+	HP
+	104
+	Nimble Dodge (R)  Varl gains +2 to AC against one attack.
+	Evasion When Varl rolls a success on a Reflex save, he gets a critical success instead.
+	Speed
+	30 feet
+	Melee
+	(A)
+	+1 striking kukri +15 Damage 2d6+4
+Success: The target takes an extra 2 points of persistent bleed damage.
+Failure: This attack does not count towards Varl’s multiple attack penalty.
+	Rogue Abilities
+	
+
+	Sneak Attack: Varl deals 2d6 extra damage to flat-footed targets.
+Surprise Attack: In the first round of combat, creatures that haven’t acted yet are flat-footed to Varl.
+	
+
+________________

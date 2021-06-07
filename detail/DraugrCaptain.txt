@@ -1,0 +1,52 @@
+DRAUGR CAPTAIN
+	CREATURE
+	6
+	NE
+	Medium
+	Skeleton
+	Undead
+	
+
+	
+
+	
+
+	Perception
+	+14; darkvision
+	Skills
+	Acrobatics +14, Athletics +14, Intimidation +13
+	STR
+	+7
+	DEX
+	+2
+	CON
+	+4
+	INT
+	-5
+	WIS
+	+2
+	CHA
+	+2
+	AC
+	23
+	Fort
+	+13
+	Ref
+	+13
+	Will
+	+11
+	
+
+	HP
+	85 (negative healing); Immunities death effects, disease, paralyzed, poison, unconscious; Resistances cold 5, electricity 5, fire 5, piercing 5, slashing 5
+	Attack of Opportunity (R)
+	Speed
+	25 feet, 25 feet swim
+	Melee
+	(A)
+	greataxe +18 (versatile P), Damage 1d12+11 slashing plus nausea
+	Lead the Charge!
+	(A)
+	The captain Strides and makes a greataxe Strike with a +4 circumstance bonus to damage. If the strike hits, it automatically Shoves the target 10 feet.
+	Nausea
+	A creature struck by a Draugr must make a DC 18 Fortitude save or become clumsy 1 (multiple Draugr’s Náusea effects stack).

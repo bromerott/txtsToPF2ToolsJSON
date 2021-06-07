@@ -1,0 +1,58 @@
+GREENBRIAR SLAVER
+	CREATURE
+	9
+	LE
+	Medium
+	Humanoid
+	Human
+	
+
+	
+
+	
+
+	Perception
+	+18
+	Skills
+	Acrobatics +16, Athletics +17, Hunting Lore +12, Medicine +14, Nature +14, Society +12, Stealth +20 (moves full speed while Sneaking), Survival +18
+	STR
+	+5
+	DEX
+	+4
+	CON
+	+3
+	INT
+	+0
+	WIS
+	+2
+	CHA
+	+2
+	AC
+	28
+	Fort
+	+19
+	Ref
+	+20
+	Will
+	+16
+	successes on Reflex count as crit successes
+	HP
+	138
+	Attack of Opportunity (R) Can only be triggered by movement actions
+	Speed
+	30 feet
+	Melee
+	(A)
+	+1 striking Scorpion Whip +20 [+115/+110] (disarm, trip, reach), Damage 2d4+8 slashing
+	Melee
+	(A)
+	unarmed strike +20 [+115/+110] (trip), Damage 1d6+8 slashing
+	Get Over Here, Worm!
+	(AA)
+	The slaver makes two Strikes, one with its spiked whip and one unarmed attack, each using your current multiple attack penalty.
+
+If the first strike connects, the slaver may automatically pull the target closer to him before making the second attack against the same target.
+	Bleed for me, slave
+	(A)
+	Requirements The slaver’s last action was Double Slice, and both attacks hit the target Effect The slavers flenses the target, making it bleed and creating a weak spot. The target takes 2d8 persistent bleed damage, becomes flat-footed, and its resistances to any physical damage types are reduced by 5; these two effects last until the beginning of the slaver’s next turn.
+	________________

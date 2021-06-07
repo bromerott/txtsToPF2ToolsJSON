@@ -1,0 +1,58 @@
+ASMODEAN PRIEST
+	CREATURE
+	8
+	LE
+	Medium
+	Humanoid
+	Human
+	
+
+	
+
+	
+
+	Perception
+	+17
+	Languages
+	Common, Infernal
+	Skills
+	Academia Lore +16, Arcana +18, Demon Lore +20, Diplomacy +13 (+15 with devils), Religion +17
+	Infernal Temptation
+	Diabolic study has garnered the attention of at least one devil that is actively trying to possess the priest. When the priest publicly espouses the benefits of diabolic power (whether they believe it a good thing or not), they gain a +1 status bonus to skill checks, AC, and saves for 1 day. These bonuses don't apply against devils. At the end of the day, the priest must attempt a DC 20 Will save, becoming possessed for 1 day on a failure (permanently on a critical failure).
+	STR
+	+3
+	DEX
+	+1
+	CON
+	+2
+	INT
+	+4
+	WIS
+	+4
+	CHA
+	+0
+	AC
+	24
+	Fort
+	+15
+	Ref
+	+14
+	Will
+	+17
+	
+
+	HP
+	130
+	Speed
+	25 feet
+	Melee
+	(A)
+	longspear +19 [+14/+9] (magical, reach), Damage 1d8+11 piercing
+	Infernal Blessing
+	(A)
+	Requirements The priest’s last action was to cast a non-cantrip spell; Effect The priest siphons energy drawn from the Nine Hells into their weapon. Until the end of the turn, the weapon deals an extra 2d6 fire damage.
+	Divine Prepared Spells
+	DC 30, attack +22; 4th divine wrath, spell immunity, anathematic reprisal; 3rd fireball, glyph of warding, slow, vampiric touch; 2nd ghoulish cravings,  blur, darkness, see invisibility; 1st sanctuary (x2), fleet step, mending; Cantrips (4th) acid splash, daze, detect magic, light, read aura
+	Devil Summoning
+	The priest can cast a 5th-level summon fiend divine spell to summon a devil . To do so, they must sacrifice two 4th-level prepared spells and voluntarily take 4d12 mental damage that can't be reduced or prevented. If the priest is unable to Sustain the Spell, including if they're knocked out or killed, the spell continues, but the GM rolls a DC 10 flat check each round, ending the spell on a failure.
+	________________

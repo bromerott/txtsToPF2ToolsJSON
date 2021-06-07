@@ -1,0 +1,53 @@
+TOOTH FAIRY
+	CREATURE
+	-2
+	CE
+	Diminutive
+	Fey
+	
+
+	
+
+	
+
+	
+
+	Perception
+	+4; darkvision
+	Skills
+	Acrobatics +5, Stealth +5, Thievery +5
+	STR
+	-1
+	DEX
+	+3
+	CON
+	+0
+	INT
+	-1
+	WIS
+	+1
+	CHA
+	-1
+	AC
+	15
+	Fort
+	+2
+	Ref
+	+7
+	Will
+	+4
+	
+
+	HP
+	6; Weaknesses Cold Iron 2
+	Plaque Burst When killed, a tooth fairy bursts into sticky, foul-smelling white dust. Each creature with 5 feet must succeed at a DC 14 Fortitude save or become sickened 1 (sickened 2 on a critical failure).
+	Speed
+	10 feet, fly 25 feet
+	Melee
+	(A)
+	pliers +7 [+2/-3] (disarm, finesse), Damage 1d6 bludgeoning plus Tooth Tug
+	Tooth Tug
+	(A)
+	(manipulate) Requirements The tooth fairy's last action was a successful pliers Strike against a creature with teeth; Effect The tooth fairy tugs on the creature's teeth, dealing 2 persistent bleed damage to the creature
+	Primal
+	DC 11; 1st sleep; Cantrips (1st) mage hand

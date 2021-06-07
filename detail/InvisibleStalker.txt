@@ -1,0 +1,54 @@
+INVISIBLE STALKER
+	CREATURE
+	6
+	N
+	Medium
+	Air
+	Elemental
+	
+
+	
+
+	
+
+	Perception
+	+14; darkvision
+	Languages
+	Auran
+	Skills
+	Acrobatics +14, Stealth +16, Survival +13 (+17 to Track)
+	STR
+	+3
+	DEX
+	+6
+	CON
+	+3
+	INT
+	-2
+	WIS
+	+2
+	CHA
+	+0
+	AC
+	24
+	Fort
+	+12
+	Ref
+	+16
+	Will
+	+9
+	
+
+	HP
+	55; Immunities bleed, paralyzed, poison, sleep
+	Naturally Invisible The invisible stalker is invisible at all times, though when it takes a hostile action of any kind, it is hidden instead of undetected until the start of its next turn, as the vague outline of its humanoid form is faintly visible for a short period of time.
+	Speed
+	25 feet, fly 25 feet
+	Melee
+	(A)
+	fist +16 [+12/+8] (agile, finesse), Damage 1d10+3 bludgeoning
+	Sneak Attack
+	The invisible stalker deals 2d6 extra precision damage to flat-footed creatures.
+	Swift Tracker
+	The invisible stalker moves at full Speed while Tracking.
+	________________

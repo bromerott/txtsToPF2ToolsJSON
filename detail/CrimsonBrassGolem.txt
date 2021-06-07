@@ -1,0 +1,59 @@
+CRIMSON BRASS GOLEM
+	CREATURE
+	15
+	N
+	Large
+	Construct
+	Golem
+	Mindless
+	
+
+	
+
+	Perception
+	+28; darkvision
+	Skills
+	Athletics +33
+	STR
+	+9
+	DEX
+	+6
+	CON
+	+5
+	INT
+	-5
+	WIS
+	+0
+	CHA
+	-5
+	AC
+	38
+	Fort
+	+27
+	Ref
+	+22
+	Will
+	+24
+	
+
+	HP
+	200; Immunities bleed, death effects, disease, doomed, drained, fatigued, fire (see below), healing, magic (see below), mental, necromancy, nonlethal attacks, paralyzed, poison, sickened, unconscious; Resistances physical 15 (except adamantine or bludgeoning)
+	Golem Antimagic harmed by sonic (8d10, 2d10 from area or persistent damage); healed by fire (area 2d10 HP); slowed by cold
+	Vulnerable to Shatter Casting a shatter spell on an obsidian golem affects the golem normally, but also causes jagged feathers of brass to flake off its body. The squares on which the golem was standing (or the squares below it, if it was flying) become difficult terrain.
+	Speed
+	25 feet, fly 25 feet
+	Melee
+	(A)
+	trident +31 [+26/+21] (deadly d10, magical, reach 10 feet, versatile S), Damage 4d10+11 piercing
+	Melee
+	(A)
+	wing +29 [+25/+21] (agile, deadly d10, magical, reach 10 feet, versatile S), Damage 3d10+11 piercing
+	Ranged
+	(A)
+	crimson feather +30 [+25/+20] (deadly d8, magical, range increment 30 feet, versatile S), Damage 4d8+11 piercing
+	Cinder Cloud
+	(A)
+	The crimson brass golem exhumes a choking incendiary cloud in a 15-foot cone. Creatures in the area take 4d8+9 fire damage (DC 33 basic Reflex save).
+	Shred Armor
+	A crimson brass golem's body is so sharp that it tears through armor like a knife through butter. Whenever the golem scores a critical hit with a fist Strike against a creature wearing non-adamantine armor, the creature's armor becomes broken.
+	________________

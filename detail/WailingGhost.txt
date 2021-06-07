@@ -1,0 +1,50 @@
+WAILING GHOST
+	CREATURE
+	2
+	CE
+	Medium
+	Ghost
+	Incorporeal
+	Spirit
+	Undead
+	
+
+	Perception
+	+10; darkvision
+	Languages
+	Undercommon
+	Skills
+	Dwelling Lore +10 (applies to the place the ghost is bound to), Stealth +12
+	STR
+	-5
+	DEX
+	+3
+	CON
+	+0
+	INT
+	+0
+	WIS
+	+2
+	CHA
+	+2
+	AC
+	20
+	Fort
+	+8
+	Ref
+	+11
+	Will
+	+8
+	
+
+	HP
+	30 (negative healing, rejuvenation); Immunities death effects, disease, paralyzed, poison, precision, unconscious; Resistances all damage 5 (except force, ghost touch, or positive; double resistance vs. non-magical)
+	Ferocity (R)
+	Speed
+	fly 25 feet
+	Melee
+	(A)
+	ghostly hand +13 (agile, finesse, magical), Damage 2d6+2 negative
+	Wail of Despair
+	(AA)
+	(auditory, divine, emotion, enchantment, fear, mental) The ghost screams in despair, accusing those nearby of being guilty of their death, forcing each living creature within 30 feet to attempt a Will save DC 21. On a failure, a creature becomes frightened 2 (or frightened 3 on a critical failure). On a success, a creature is temporarily immune to this wailing ghost’s frightful moan for 1 minute.

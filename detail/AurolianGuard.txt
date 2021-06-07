@@ -1,0 +1,55 @@
+﻿	AUROLIAN GUARD
+	CREATURE
+	0
+	LN
+	Medium
+	Humanoid
+	
+
+	
+
+	
+
+	
+
+	Perception
+	+5
+	Languages
+	Common
+	Skills
+	Acrobatics +5, Athletics +4 
+	STR
+	+2
+	DEX
+	+3
+	CON
+	+1
+	INT
+	+0
+	WIS
+	+1
+	CHA
+	+1
+	AC
+	15
+	Fort
+	+5
+	Ref
+	+7
+	Will
+	+5
+	
+
+	HP
+	25
+	Speed
+	25 feet
+	Melee
+	(A)
+	 shortsword +6, Damage 1d6+2 piercing
+	They Don’t Pay me Enough!
+	(A)
+	The Aurolian guard strikes a creature and then immediately Steps. During this action, it may complain about its low wage.
+	Ranged
+	(A)
+	hand crossbow +5 (range increment 60 feet, reload 1),Damage 1d6 piercing

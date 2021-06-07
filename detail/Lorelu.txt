@@ -1,0 +1,60 @@
+LORELU
+	CREATURE
+	8
+	CE
+	Small
+	Ghost
+	Incorporeal
+	Spirit
+	Undead
+	
+
+	Perception
+	+13; darkvision 
+	Skills
+	Arcana +18, Intimidation +18, Stealth +17
+	STR
+	-5
+	DEX
+	+3
+	CON
+	+0
+	INT
+	+6
+	WIS
+	+3
+	CHA
+	+6
+	AC
+	23
+	Fort
+	+12
+	Ref
+	+15
+	Will
+	+18
+	
+
+	HP
+	95 (negative healing, rejuvenation); Immunities death effects, disease, paralyzed, poison, precision, unconscious; Resistances all damage 10 (except force, ghost touch, or positive; double resistance vs. non-magical)
+	Your Luck’s Run Out! (R) Trigger: Lorelu would be hit by an attack and the attack was not a Critical Success against her Effect: Lorelu forces the attacker to reroll the attack, possibly changing the outcome.
+	Speed
+	fly 25 feet
+	Melee
+	(A)
+	card slash +17 (agile, finesse, magical), Damage 2d8+8 negative
+	Ranged
+	(A)
+	card throw +17 (agile, range 60 ft.), Damage 2d8+8 negative
+	Lady Luck Smiling
+	(A)
+	The next time Lorelu makes an attack roll before the end of her turn, she can roll twice and use the better result, ignoring circumstance penalties and any flat checks required due to the target being concealed or hidden.
+	Telekinetic Assault
+	(AA)
+	(divine, evocation) 6d6 bludgeoning, DC 25
+	Divine Innate Spells
+	DC 25, attack +19; 4th phantasmal killer, suggestion; 
+3rd blindness, dispel magic, nondetection; 
+2nd telekinetic maneuver (x2); 
+1st ray of enfeeblement (x2); 
+Cantrips (5th) detect magic, ghost sound, mage hand, prestidigitation

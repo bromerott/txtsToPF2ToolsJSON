@@ -1,0 +1,24 @@
+BELLOWS OF TORAG
+	HAZARD
+	9
+	Trap
+	Evocation
+	Magic
+	Sonic
+	
+
+	
+
+	
+
+	Complexity
+	Simple
+	Stealth
+	DC 26 (expert)
+	Description
+	 Runes are carved above the door, while the door itself bears the carved face of a scowling dwarven man.
+	Disable
+	Religion DC 30 (Expert) to offer a convincing prayer to Torag, unlocking the door and disabling the trap. A devout worshipper of Torag automatically succeeds this check.
+	The Bells of Torag (R)  Trigger A creature tries to Force Open the door. Effect The face lets out a sonic blast, dealing 4d10+20 sonic damage to all creatures in the corridor (DC 32 basic Reflex save). On a Critical Failure, the target is also Frightened 2.
+	Reset
+	The Bellows of Torag reset immediately after triggering.

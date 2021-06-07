@@ -1,0 +1,61 @@
+STRIX ARCHER
+	CREATURE
+	10
+	CN
+	Medium
+	Humanoid
+	Strix
+	
+
+	
+
+	
+
+	Perception
+	+19; low-light vision
+	Skills
+	Athletics +22,Athletics +24, Intimidation +17, Survival +19
+	STR
+	+3
+	DEX
+	+6
+	CON
+	+5
+	INT
+	+0
+	WIS
+	+3
+	CHA
+	+1
+	AC
+	29
+	Fort
+	+19
+	Ref
+	+17
+	Will
+	+17
+	
+
+	HP
+	175
+	Speed
+	fly 30 feet
+	Melee
+	(A)
+	talons +22, Damage 3d10+9 slashing
+	Ranged
+	(A)
+	longbow +23, Damage 3d8+9 piercing
+	Hunt Prey
+	(A)
+	(concentrate) The strix archer designates a single creature they can see and hear, or one they're Tracking, as their prey. 
+	Quick Like the Wind
+	(A)
+	Frequency once per minute
+Effect The strix archer strides twice.
+	Distracting Shot
+	The sheer power of a strix archer’s shots hinder a defender’s chances to block, and unbalance them greatly. If they critically hit their hunted prey with a ranged weapon, or hit it at least twice on the same turn with a ranged weapon, the target is flat-footed until the start of the strix’s next turn.
+	Precision Edge
+	The first time the strix archer hits their hunted prey in a round, they deal an additional 1d8 precision damage.
+	________________

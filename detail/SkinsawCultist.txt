@@ -1,0 +1,65 @@
+SKINSAW CULTIST
+	CREATURE
+	7
+	NE
+	Medium
+	Humanoid
+	Human
+	
+
+	
+
+	
+
+	Perception
+	+17
+	Languages
+	Common
+	Skills
+	Deception +15, Diplomacy +13, Intimidation +15, Local Court Lore +16, Society +12, Stealth +14, Thievery +12
+	STR
+	+0
+	DEX
+	+4
+	CON
+	+1
+	INT
+	+2
+	WIS
+	+4
+	CHA
+	+4
+	AC
+	23
+	Fort
+	+11
+	Ref
+	+17
+	Will
+	+14
+	
+
+	HP
+	80
+	Speed
+	25 feet
+	Melee
+	(A)
+	kukri +16 (deadly 1d8, disarm, finesse, magical), Damage 1d6+7 piercing
+	Ranged
+	(A)
+	kukri +14 (agile, thrown 10 feet, versatile S), Damage 1d4+6 piercing
+	Hidden Blade
+	(A)
+	Frequency once per round; Effect The cultist draws a weapon and then Strikes with it. The target of the Strike is flat-footed against the attack
+	Sneak Attack 
+	The cultist deals an extra 1d6 precision damage to flat-footed creatures.
+	Channel Smite
+	(AA)
+	The cultist expends a prepared harm spell and makes a melee Strike. Instead of the normal effect of the spell, its negative damage is added to the Strike’s damage.
+	Divine Innate Spells DC 19; 2nd harm (x3, d10s) 1st illusory disguise (x3)
+	Death’s Call (R)
+	Frequency once per day Trigger A living creature within 20 feet of you dies, or an undead creature within 20 feet of you is destroyed. Effect:  The cultist gains temporary Hit Points equal to the triggering creature's level plus 4. If the triggering creature was undead, double the number of temporary Hit Points they gain.
+	
+
+________________

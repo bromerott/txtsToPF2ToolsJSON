@@ -1,0 +1,45 @@
+HELL-PRISON
+	CREATURE
+	16
+	Haunt
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	Complexity
+	Complex
+	Stealth
+	+26 (master)
+	Description
+	A squat, miniature replica of a prison stands in the middle of a vacant lot - its walls are made of iron, and have jagged edges and corners.
+	Disable Religion DC 36 (master) to creature a magical circle around the prison which evokes feelings of freedom, Perform or Diplomacy DC 34 (master) to perform a speech that inspires the prisoners inside it to find their way out, Society DC 36 (master) to aid the prisoners with a escape route, or Lore (Hell) DC 25 to describe what the prisoners will encounter on their way out of the hell-prison.
+
+
+Each successful Disable check frees one prisoner from the maze spell (who may still escape with their own Survival checks). Once the hell-prison has no more prisoners left for 1 minute, it slowly burns in infernal flame and melts away.
+	Straight to Nessus (R)  Trigger The hell-prison has successfully trapped nine victims inside its maze spell; Effect The prison sends all nine victims to a prison in Hell immediately.
+	Routine
+	(AAA)
+	The hell-prison immediately senses all living creatures within 100 feet of it, and compels them  to approach it. This acts like an 8th-level Suggestion spell with a range of 100 feet that does not require line of effect nor line of sight.
+	Routine
+	(AAA)
+	Requirement At least one successful check has been made to disable the hell-prison
+Effect The hell-prison summons a Barbed Devil to protect it. The prison can control up to 5 Barbed Devils, and does not need to spend actions to control them
+	Reset
+	The prison ends when it is destroyed, and does not reset.
+	________________

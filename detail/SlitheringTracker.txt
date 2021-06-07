@@ -1,0 +1,61 @@
+SLITHERING TRACKER
+	CREATURE
+	6
+	N
+	Small
+	Ooze
+	
+
+	
+
+	
+
+	
+
+	Perception
+	+18; blindsense 60’
+	Languages
+	understands Undercommon
+	Skills
+	Athletics +16, Intimidation +14, Stealth +19, Survival +14
+	STR
+	+5
+	DEX
+	+5
+	CON
+	+6
+	INT
+	+2
+	WIS
+	+2
+	CHA
+	-5
+	AC
+	22
+	Fort
+	+18
+	Ref
+	+15
+	Will
+	+12
+	
+
+	HP
+	100; Immunities mind-affecting effects
+	Speed
+	10 feet
+	Melee
+	(A)
+	slam +18 Damage 2d6+9 plus grab
+	Blood Drain
+	(A)
+	(requirements: target is grappled) The Slithering Tracker drains blood from the grappled target. This deals 2d8 damage and the Tracker gains temporary hit points equal to the damage dealt. A creature that has it's blood drained by a Slithering tracker is drained 1 until it receives healing (of any kind or amount)
+	Anesthetizing Slime
+	(A)
+	Any creature that is hit by a slithering tracker's slam attack must succeed on a DC 23 Fortitude save or suffer the following effects. Critical Success:No effect 
+Success: Slowed 1 
+Failure: Paralyzed (1 round) 
+Critical Failure: Paralyzed for 4 rounds. At the end of each of it's turns the affected creature can make a new Fortitude Save to end the effect.
+	
+
+________________

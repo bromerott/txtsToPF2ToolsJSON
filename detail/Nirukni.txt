@@ -1,0 +1,65 @@
+NIRUKNI
+	CREATURE
+	15
+	CN
+	Medium
+	Humanoid
+	Human
+	Fiend
+	
+
+	
+
+	Perception
+	+22; darkvision
+	Skills
+	Acrobatics +29, Deception +28, Crafting +32 Diplomacy +28, Society +26, Stealth +29
+	Items
+	10 batches of infused reagents
+	STR
+	+3
+	DEX
+	+8
+	CON
+	+2
+	INT
+	+8
+	WIS
+	+2
+	CHA
+	+3
+	AC
+	37
+	Fort
+	+23
+	Ref
+	+29
+	Will
+	+22
+	
+
+	HP
+	275 Immunities Poison
+	Speed
+	25 feet
+	Melee
+	(A)
+	shortsword +29 (agile, finesse, magical, versatile S), Damage 3d6+2 piercing
+	Ranged
+	(A)
+	crossbow +31 (magical, range increment 120 feet, reload 1), Damage 1d6+3 piercing (plus wyvern poison on first four shots)
+	Revitalizing Combination
+	(A) or (AA)  
+	(alchemical, positive, interact); Cost 1 batch of infused reagents. Effect Nirukni whips up a revitalizing elixir, which heals 5d8+40 points of damage. He can drink the elixir during this same action, or spend an additional action to make an adjacent ally drink it.
+	Healing and Invisibility Combo
+	(A) or (AA)  
+	(alchemical, positive, interact); Cost 1 batch of infused reagents. Effect Nirukni whips up a healing elixir combined with an invisibility potion, which heals 3d8+20 points of damage and turns the target invisible, as per invisibility. He can drink the elixir during this same action, or spend an additional action to make an adjacent ally drink it.
+	Shocking bomb
+	(A)
+	(alchemical, electricity, interact); Cost 1 batch of infused reagents. Effect Nirukni whips up an electric bomb  and lobs it up to 30 feet. All
+creatures in a 5-foot burst take 8d6 fire damage (DC 34 basic Reflex save).
+	Sneak Attack
+	
+
+	Nirukni deals an extra 2d6 precision damage to flat-footed creatures.
+	________________

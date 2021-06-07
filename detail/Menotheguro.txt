@@ -1,0 +1,59 @@
+MENOTHEGURO
+	CREATURE
+	9
+	LE
+	Huge
+	Aberration
+	Aquatic
+	
+
+	
+
+	
+
+	
+
+	
+
+	Perception
+	 +21; darkvision
+	Languages
+	 Aklo, Alghollthu, Aquan, Common, Undercommon
+	Skills
+	Athletics +20, Deception +19, Intimidation +19, Occultism +20
+	Mucus Cloud
+	(aura, disease) 5 feet. While underwater, Menotheguro exudes a cloud of transparent slime. An air-breathing creature adjacent to him must succeed at a DC 29 Fortitude save each round or lose the ability to breathe air but gain the ability to breathe water for 3 hours.
+	STR
+	+5
+	DEX
+	+1
+	CON
+	+6
+	INT
+	+3
+	WIS
+	+5
+	CHA
+	+4
+	AC
+	27
+	Fort
+	+19
+	Ref
+	+14
+	Will
+	+20
+	
+
+	HP
+	175
+	Speed
+	10 feet, swim 60 feet
+	Melee
+	(A)
+	tentacle +20 (agile, magical, reach 15 feet), Damage 2d8+14 bludgeoning plus slime
+	Occult Innate Spells
+	DC 29; 7th project image (at will), eclipse burst (x2); 6th dominate (x3), vampiric exsanguination (x2); 5th black tentacles (x2); 4th hallucinatory terrain (at will); 3rd hypnotic pattern (at will)
+	Slime
+	(curse, occult, virulent) Saving Throw Fortitude DC 29; Stage 1 no ill effect (1 round); Stage 2 the victim’s skin softens, inflicting drained 1 (1 round); Stage 3 the victim’s skin transforms into a clear, slimy membrane, inflicting drained 2 until the curse ends; every hour this membrane remains dry, the creature’s drained condition increases by 1 (permanent). A remove disease spell can counteract this curse, but immunity to disease offers no protection against it.
+	________________

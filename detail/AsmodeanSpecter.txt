@@ -1,0 +1,57 @@
+ASMODEAN SPECTER
+	CREATURE
+	8
+	LE
+	Medium
+	Incorporeal
+	Undead
+	
+
+	
+
+	
+
+	Perception
+	+17; darkvision
+	Languages
+	Common, Necril; telepathy 100 feet (with spectral thralls only)
+	Skills
+	Acrobatics +17, Intimidation +15, Stealth +17
+	STR
+	-5
+	DEX
+	+6
+	CON
+	+4
+	INT
+	+0
+	WIS
+	+4
+	CHA
+	+4
+	AC
+	27
+	Fort
+	+15
+	Ref
+	+19
+	Will
+	+17
+	
+
+	HP
+	110 (negative healing); Immunities death effects, disease, paralyzed, poison, precision, unconscious; Resistances all 5 (except force, ghost touch, or positive
+	Frightful Presence (aura, emotion, fear, mental) 30 feet, DC 22
+	Sunlight Powerlessness A specter caught in sunlight is clumsy 2 and slowed 2 for as long as it remains in the sunlight.
+	Speed
+	fly 40 feet
+	Melee
+	(A)
+	vile touch +20 [+15/+10] (finesse), Damage 8d6 negative plus spectral corruption
+	Spectral Corruption
+	(curse, divine, enchantment, incapacitation, mental) When the specter damages a living creature with its vile touch Strike, the specter gains 5 temporary Hit Points and the target creature must attempt a DC 27 Will save to avoid becoming corrupted.
+* Critical Success The creature is unaffected and is temporarily immune to spectral corruption for 1 minute.
+* Success The creature is stupefied 2 for 1 hour.
+* Failure The creature succumbs to the corruption and becomes a spectral thrall. The creature is controlled by the specter, obeying the specter's telepathic or spoken orders, though a spectral thrall does not obey obviously self-destructive orders. It can attempt a new Will save at the end of each of its turns; on a success, it is no longer controlled by the specter but becomes stupefied 2 for 1 hour.
+* Critical Failure As failure, but the creature remains a thrall to the specter until the curse is removed or until the specter succumbs to pain starvation; it can't attempt new Will saves to recover on its own.
+	________________

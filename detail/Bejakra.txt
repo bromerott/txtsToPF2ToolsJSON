@@ -1,0 +1,71 @@
+BEJAKRA
+	CREATURE
+	17
+	NE
+	Medium
+	Humanoid
+	Human
+	
+
+	
+
+	
+
+	Perception
+	+32
+	Skills
+	Acrobatics +31, Deception +32, Diplomacy +32, Intimidation +32, Occultism +27, Stealth +35
+	STR
+	+0
+	DEX
+	+7
+	CON
+	+3
+	INT
+	+2
+	WIS
+	+6
+	CHA
+	+6
+	AC
+	39
+	Fort
+	+25
+	Ref
+	+29
+	Will
+	+32
+	
+
+	HP
+	300
+	Blood for Father Skinsaw (R) Trigger A foe critically hits Bejakra, or Bejakra critically fails her save against a foe’s damaging effect. 
+Effect Bejakra’s own blood crystallizes and forms spikes, which go after the target, dealing 4d10+14 piercing damage (DC 38 basic Reflex save) and applying the effects of terrifying assassin.
+	Speed
+	60 feet, fly 60 feet
+	Melee
+	(A)
+	balgorrah +32 [+27/+22] (finesse, magical), Damage 3d6+14 negative plus terrifying assassin
+	Hail of Blades
+	(AA)
+	Bejakra spins in place and throws phantom daggers around her, as a 40-foot emanation. All creatures in the area except her take 8d10 piercing damage and must make a DC 38 Reflex save.
+
+Critical Success The creature is unaffected.
+Success The creature takes full damage.
+Failure The creature takes full damage and is drained 1d4.
+Critical Failure The creature takes double damage and is drained 4.
+
+The hail of blades continues for 1 round, and any creature that comes within the area during that time must attempt a save against the effect. A creature can’t be affected more than once by the same Hail. Bejakra can’t Hail again for 1d4 rounds.
+	Terrifying Assassin
+	A creature damaged by Balgorrah that isn’t already frightened must attempt a DC 38 Will save (DC 43 if the attack was a critical hit). If the creature fails its save, it’s frightened 2; on a critical failure, the creature also cowers with fear and is stunned 4. If the creature is protected against fear by a spell or magic item, Balgorrah first attempts to counteract the protection effect, with the effect of a 9th-level dispel magic spell.
+	Step of Shadow
+	When Bejakra Strides at least 10 feet, she is concealed by shadows until the start of their next turn. Creatures with greater darkvision can ignore this concealment.
+	Sneak Attack
+	Bejakra deals an additional 3d6 points of precision damage against flat-footed and frightened creatures.
+	
+
+	
+
+	
+
+	________________

@@ -1,0 +1,53 @@
+﻿PLAGUE ZOMBIE
+	CREATURE
+	2
+	NE
+	Medium
+	Mindless
+	Zombie
+	Undead
+	
+
+	
+
+	Perception
+	+3; darkvision
+	Skills
+	Athletics +7
+	STR
+	+4
+	DEX
+	-2
+	CON
+	+3
+	INT
+	-5
+	WIS
+	+0
+	CHA
+	-2
+	Slow
+	The Plague Zombie is permanently Slowed 1.
+	AC
+	13
+	Fort
+	+6
+	Ref
+	+3
+	Will
+	+4
+	
+
+	HP
+	50; negative healing Immunities death effects, disease, mental, paralyzed, poison, unconscious; Weaknesses positive 10, slashing 10
+	Speed
+	25 feet
+	Melee
+	(A)
+	fist +9, Damage 1d8+4 bludgeoning plus Grab and zombie rot
+	Melee
+	(A)
+	(attack); Damage The zombie has a creature grabbed or restrained. Effect The zombie makes a jaws unarmed melee Strike against the grabbed or restrained creature with an attack modifier of +9 that deals 1d12+4 piercing damage.
+	Zombie Rot (disease, necromancy)
+	An infected creature can’t heal damage it takes from zombie rot until it has been cured of the disease. Saving Throw DC 18 Fortitude; Stage 1 carrier with no ill effect (1 day); Stage 2 1d6 negative damage (1 day); Stage 3 1d6 negative damage (1 day); Stage 4 1d6 negative damage (1 day); Stage 5 dead, rising as a plague zombie immediately
+	________________

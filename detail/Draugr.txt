@@ -1,0 +1,52 @@
+DRAUGR
+	CREATURE
+	4
+	NE
+	Medium
+	Skeleton
+	Undead
+	
+
+	
+
+	
+
+	Perception
+	+12; darkvision
+	Skills
+	Acrobatics +12, Athletics +12, Intimidation +11
+	STR
+	+4
+	DEX
+	+4
+	CON
+	+1
+	INT
+	-1
+	WIS
+	+2
+	CHA
+	+1
+	AC
+	23
+	Fort
+	+11
+	Ref
+	+14
+	Will
+	+10
+	
+
+	HP
+	55 (negative healing); Immunities death effects, disease, paralyzed, poison, unconscious; Resistances cold 5, electricity 5, fire 5, piercing 5, slashing 5
+	Attack of Opportunity (R)
+	Speed
+	25 feet, 25 feet swim
+	Melee
+	(A)
+	greataxe +14 (versatile P), Damage 1d12+6 slashing plus nausea
+	Melee
+	(A)
+	claw +14 (agile), Damage 1d6+8 slashing plus nausea
+	Nausea
+	A creature struck by a Draugr must make a DC 18 Fortitude save or become clumsy 1 (multiple Draugr’s Náusea effects stack).

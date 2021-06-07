@@ -1,0 +1,60 @@
+WAR-TRAINED HELLHOUND
+	CREATURE
+	5
+	LE
+	Medium
+	Beast
+	Fiend
+	Fire
+	
+
+	
+
+	
+
+	Perception
+	 +12; darkvision, scent (imprecise) 60 feet
+	Languages
+	  Infernal (can’t speak any language)
+	Skills
+	Acrobatics +10, Athletics +12, Stealth +9, Survival +10 (+12 to Track)
+	STR
+	+5
+	DEX
+	+1
+	CON
+	+3
+	INT
+	-1
+	WIS
+	+3
+	CHA
+	+0
+	AC
+	22
+	Fort
+	+12
+	Ref
+	+10
+	Will
+	+10
+	
+
+	HP
+	75; Immunities fire, paralyzed, unconscious; Weaknesses cold 10
+	Attack of Opportunity (R)
+	Speed
+	40 feet
+	Melee
+	(A)
+	jaws +14 (magical), Damage 1d8+4 piercing plus 1d8 evil and 1d8 fire
+	Ranged
+	(A)
+	firebolt +14 (fire) Damage 6d6 fire damage
+	Firebolt Barrage
+	(AA)
+	The hellhound makes three firebolt Strikes.
+	Breath Weapon
+	(AA)
+	(divine, evocation, fire) The hellhound breathes flames that deal 6d6 fire damage to all creatures in a 15-foot cone (DC 22 basic Reflex save). Mephiry can’t use her Breath Weapon again for 1d6 rounds. If Mephiry would take fire damage or be targeted by a fire effect, its Breath Weapon recharges
+	________________

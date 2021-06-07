@@ -1,0 +1,81 @@
+KYRRE EKODYRE
+	CREATURE
+	12
+	N
+	Medium
+	Humanoid
+	Human
+	
+
+	
+
+	
+
+	Items
+	+2 Greater Striking Axiomatic Longsword, 
++2 Greater Resilient Hellknight Plate
+	Perception
+	+21; +23 on initiative
+	Skills
+	Athletics +19, Crafting +14, Intimidation +18, Performance +14, Religion +17
+	STR
+	+5
+	DEX
+	+5
+	CON
+	+4
+	INT
+	+.
+	WIS
+	+3
+	CHA
+	+0
+	AC
+	34
+	Fort
+	+24
+	Ref
+	+22
+	Will
+	+21
+	-+2 on Reflex vs area eff.
+
+-Resistance 1 to frightened
+
+-Success on Will vs Fear or Illusion counts as Crit Success
+
++1 on saves vs frightened creatures
+
+-Success on Fortitude count as Crit Success
+	HP
+	188; Resistances electricity 10, mental 8, slashing 8; 
+Shield 32 HP; Hardness 8; BT 16
+	Reactive Shield (R) Trigger: Kyrre is hit with a melee Strike
+Effect: Kyrre raises her shield
+	Battle Cry (F) When Kyrre rolls initiative, she may demoralize a creature she can see.
+	Attack of Opportunity (R) 
+
+
+Shield Block (R) 
+	Speed
+	25 feet
+	Melee
+	(A)
+	+2  greating striking shortsword +25 [+20/+15] (magical), Damage 3d8+8 plus 1d6 lawful damage. On a critical success, deal 25 flat.
+	Blade of Law
+	(AA)
+	Kyrre makes a strike against a creature. If the target is chaotic, add 2d8 physical or lawful damage.
+	Exacting Strike
+	(A)
+	(Press) Kyrre makes a Strike which gains the following failure effect:
+Failure This attack does not count toward Kyrre’s MAP
+	Demoralize
+	(A)
+	Kyrre tries to demoralize a creature, ignoring language barriers. If the creature is of a level lower than 12, the target is fleeing for 1 round.
+	
+
+	
+
+	
+
+	________________

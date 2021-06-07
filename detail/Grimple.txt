@@ -1,0 +1,57 @@
+GRIMPLE
+	CREATURE
+	-2
+	CN
+	Tiny
+	Fey
+	
+
+	
+
+	
+
+	
+
+	Perception
+	+4; low-light vision
+	Languages
+	Undercommon
+	Skills
+	Acrobatics +5, Diplomacy +1 (+7 vs. arthropods), Nature +3, Stealth +5, Thievery +5
+	STR
+	-1
+	DEX
+	+3
+	CON
+	+0
+	INT
+	-1
+	WIS
+	+1
+	CHA
+	-1
+	AC
+	15
+	Fort
+	+2
+	Ref
+	+7
+	Will
+	+4
+	
+
+	HP
+	6; Weaknesses Cold Iron 2
+	Speed
+	20 feet, climb 20 feet, fly 20 feet
+	Melee
+	(AA)
+	T.Projectile +4 Damage 1d6+1 bludgeoning
+	Gremlin Lice
+	(A)
+	The Grimple rubs its body on a creature and tries to infect it with Lice. Roll a DC 15 flat check. On a success, the creature is Clumsy 1 for as long as they have lice. Submerging in water or exposing oneself to low temperatures rids one of Gremlin Lice.
+	Vomit Spray
+	(AA)
+	The Grimple spews a 30-foot line of vomit, affecting all creatures along its path. Creatures in the area must make a DC 16 Fort save.
+Failure: The creature is sickened 2.
+Critical Failure: The creature is sickened 4.

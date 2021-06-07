@@ -1,0 +1,57 @@
+ZEBUB ARCHER
+	CREATURE
+	11
+	LE
+	Small
+	Devil
+	Fiend
+	
+
+	
+
+	
+
+	Perception
+	+24; greater darkvision, true seeing
+	Skills
+	Acrobatics +25, Arcana +16, Deception +18, Intimidate +22, Religion +20, Stealth +24
+	STR
+	+1
+	DEX
+	+5
+	CON
+	+2
+	INT
+	+0
+	WIS
+	+3
+	CHA
+	+1
+	AC
+	31
+	Fort
+	+21
+	Ref
+	+24
+	Will
+	+21
+	+1 status vs all magic
+	HP
+	160 ; Immunities fire; Resistances physical 5 (except silver), poison 5; Weaknesses good 5
+	Speed
+	15 feet, fly 50 feet
+	Ranged
+	(A)
+	longbow +23 [+18/+13] (evil, finesse, magical), Damage 2d8+6 piercing plus 1d6 evil
+	Melee
+	(A)
+	mandibles +23 [+18/+13] (evil, finesse, magical), Damage 2d10+6 piercing plus 1d6 evil and Cocytan filth
+	Infernal Eye
+	(AAA)
+	The zebub records everything they see, and though they don't remember all observations, they can pass them along to another creature. The zebub replays 10 minutes of witnessed events to a touched willing creature, which receives the memories in a flash of information. By remaining in contact, the zebub can spend additional 3-action activities to replay more information. After relaying their visions to another, the zebub can't ever recall those events again.
+	Sneak Attack
+	The zebub's Strikes deal an additional 2d6 precision damage to flat-footed creatures. Additionally, frightened creatures are flat-footed to the Zebub Archer.
+	Divine Innate Spells
+	DC 31; 7th dimension door; 5th dimension door (at will); 2nd invisibility (at will; self only), summon animal (swarm creatures only); Cantrips (2nd) message
+	Cocytan Filth
+	Saving Throw DC 30 Fortitude; Onset 1d4 days; Stage 1 enfeebled 1 (1 day); Stage 2 enfeebled 2 (1 day); Stage 3 enfeebled 3 (1 day)

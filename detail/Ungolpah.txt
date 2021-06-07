@@ -1,0 +1,58 @@
+UNGOL-PAH
+	CREATURE
+	7
+	LE
+	Medium
+	Amphibious
+	Humanoid
+	
+
+	
+
+	
+
+	
+
+	
+
+	Perception
+	 +17; darkvision
+	Languages
+	 Aklo, Alghollthu, Aquan, Common, Undercommon
+	Skills
+	Athletics +16, Deception +15, Intimidation +15, Lore +14 (any one subcategory), Occultism +16
+	STR
+	+5
+	DEX
+	+1
+	CON
+	+6
+	INT
+	+5
+	WIS
+	+1
+	CHA
+	+4
+	AC
+	23
+	Fort
+	+15
+	Ref
+	+10
+	Will
+	+16
+	
+
+	HP
+	135
+	Speed
+	30 feet
+	Curse of the Depths
+	(AA)
+	Ungol-Pah conjures a curse against three targets within 60 feet of him. Creatures affected must make a DC 25 Fortitude save or lose the ability to breathe air and gain the ability to breathe water for 1 hour. 
+	Primal Innate Spells
+	DC 26, attack +18; 4th weapon storm, hydraulic torrent, fly; 
+3rd lightning bolt, earthbind, slow, stinking cloud; 
+2nd acid arrow,shrink, summon elemental, remove feat; 
+1st hydraulic push (×2), fear (x2); 
+Cantrips (4th) electric arc, detect magic, Ray of Frost, Acid Splash

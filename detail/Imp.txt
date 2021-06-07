@@ -1,0 +1,54 @@
+IMP
+	CREATURE
+	1
+	LE
+	Tiny
+	Devil
+	Fiend
+	
+
+	
+
+	
+
+	Perception
+	+7; greater darkvision
+	Languages
+	 Common, Infernal; telepathy (touch)
+	Skills
+	Acrobatics +7, Arcana +6, Deception +7, Religion +5
+	STR
+	-1
+	DEX
+	+4
+	CON
+	+0
+	INT
+	+1
+	WIS
+	+1
+	CHA
+	+2
+	AC
+	17
+	Fort
+	+5
+	Ref
+	+9
+	Will
+	+7
+	
+
+	HP
+	15; Immunities fire; Weaknesses good 3; Resistances physical 3 (except silver), poison 5
+	Speed
+	20 feet, fly 30 feet
+	Melee
+	(A)
+	stinger +9 (agile, evil, finesse, magical), Damage 1d4–1 piercing plus 1d4 evil and imp venom
+	Diabolic Healing
+	(A)
+	(concentrate, divine, healing, necromancy); Frequency once per round. Effect The imp regains 1d6 Hit Points
+	Imp Venom
+(poison)
+	Saving Throw DC 16 Fortitude; Maximum Duration 6 rounds; Stage 1 1d6 poison and clumsy 1 (1 round); Stage 2 1d6 poison damage, clumsy 1, and slowed 1 (1 round)

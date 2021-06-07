@@ -1,0 +1,72 @@
+SULKIMY
+	CREATURE
+	17
+	CE
+	Medium
+	Humanoid
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	Perception
+	+25; darkvision, scent (imprecise) 60 feet
+	Languages
+	Common
+	Skills
+	Acrobatics +28, Athletics +30, Deception +33, Intimidation +33, Lore +28 (Kintargo), Occultism +26, Stealth +30
+	STR
+	+7
+	DEX
+	+5
+	CON
+	+5
+	INT
+	+3
+	WIS
+	+4
+	CHA
+	+6
+	AC
+	41
+	Fort
+	+30
+	Ref
+	+28
+	Will
+	+31
+	
+
+	HP
+	270; Immunities disease, sickened, stunned
+	Stench (aura, olfactory) 30 feet. A creature entering the aura or starting its turn in the aura must succeed at a DC 38 Fortitude save or become sickened 1 (plus slowed 1 for as long as it's sickened on a critical failure). While within the aura, affected creatures take a –2 circumstance penalty to saves against disease and to recover from the sickened condition. A creature that succeeds at its save is temporarily immune for 1 minute.
+	Speed
+	30 feet, climb 30 feet, fly 80 feet
+	Melee
+	(A)
+	 jaws +34 [+29/+24], Damage 5d10+15 piercing plus 1d10 mental and shameful loathing
+	Melee
+	(A)
+	talon +34 [+30/+26] (agile), Damage 5d10+15 slashing plus Grab
+	Change Shape
+	(A)
+	(concentrate, occult, polymorph, transmutation) Sulkimy can take on the appearance of a human or a Small or Medium bat. It loses its stench aura while transformed. In human form it also loses its Strikes but can make fist Strikes that deal the same amount of bludgeoning damage as its talon Strike.
+	Feed on Sorrow
+	(A)
+	(concentrate, healing, necromancy, occult, positive) Frequency once per round; Effect Sulkimy draws strength from the suffering of others. It regains 10 Hit Points for each enemy within 30 feet that has one of the following conditions, to a maximum of 40 Hit Points: confused, doomed, dying, enfeebled, fatigued, frightened, sickened, slowed, stunned, stupefied, or wounded.
+	Hallucinatory Haunting
+	(F)
+	Trigger Sulkimy moves an object with mage hand or telekinetic haul, controls a creature with dominate, or casts animated assault; Effect Sulkimy casts ghost sound or ventriloquism, with the sound originating from the target or area of the spell.Shameful Loathing (curse, emotion, enchantment, mental, occult) A creature damaged by Sulkimy’s jaws is overcome with shame and self-hatred and must attempt a DC 36 Will save.
+Success The target is unaffected.
+Failure The target becomes stupefied 1 until the curse is removed.
+Critical Failure As failure, but the target is also doomed 1.
+	Occult Innate Spells
+	DC 40, attack +32; 7th animated assault, dominate; 6th clairaudience (at will), clairvoyance (at will), telekinetic haul, telekinetic maneuver, ventriloquism (at will); Cantrips (7th) ghost sound, mage hand
+	________________

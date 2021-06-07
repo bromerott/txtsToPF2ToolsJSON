@@ -1,0 +1,51 @@
+	NOX (BROKEN)
+	CREATURE
+	10
+	LE
+	Medium
+	Humanoid
+	
+
+	
+
+	
+
+	
+
+	Perception
+	+18; greater darkvision 
+	Skills
+	Athletics +25, Intimidation +23
+	STR
+	+7
+	DEX
+	+2
+	CON
+	+5
+	INT
+	-2
+	WIS
+	+2
+	CHA
+	-5
+	AC
+	31
+	Fort
+	+23
+	Ref
+	+16
+	Will
+	+18
+	
+
+	HP
+	175, regeneration 20 (good); Resistance fire 20; Weaknesses good 10
+	Attack of Opportunity (R)
+	Speed
+	30 feet
+	Melee
+	(A)
+	striking glaive +24 (magical, reach 10 feet, versatile P), Damage 3d8+13 slashing
+	Swipe
+	(AA)
+	Nox makes a wide, arcing swing. She makes a melee Strike and compares the attack roll to the AC of up to three foes; each within her reach and adjacent to each other. She rolls damage once and applies it to each creature hit. This strike deals an additional 1d6 evil damage and counts as one attack for Nox’s multiple attack penalty.

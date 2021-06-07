@@ -1,0 +1,57 @@
+THE WATCHER IN THE WALLS
+	CREATURE
+	8
+	N
+	Medium
+	Earth
+	Elemental
+	
+
+	
+
+	
+
+	Perception
+	+17; darkvision, tremorsense (imprecise) 60 feet
+	Languages
+	Common, Terran
+	Skills
+	Athletics +19, Geology Lore +17, Stealth +13, Survival +17
+	STR
+	+6
+	DEX
+	+0
+	CON
+	+5
+	INT
+	+0
+	WIS
+	+2
+	CHA
+	+0
+	AC
+	27
+	Fort
+	+20
+	Ref
+	+13
+	Will
+	+15
+	
+
+	(All-around Vision)
+	HP
+	135; Immunities bleed, paralyzed, poison, sleep; Resistances cold 5, electricity 5, fire 5; Weaknesses bludgeoning 5
+	Speed
+	20 feet, burrow 20 feet; earth glide
+	Melee
+	(A)
+	jaw +20 (deadly 1d10), Damage 2d10+10 piercing
+	Melee
+	(A)
+	claw +20 (agile), Damage 2d6+10 slashing
+	Claw Frenzy
+	(AA)
+	The watcher makes three claw Strikes; no more than two can be against the same target. These attacks count toward the watcher’s multiple attack penalty, but the penalty doesn’t increase until after all the attacks have been made.
+	Earth Glide
+	The watcher can Burrow through any earthen matter, including rock. When it does so, the watcher moves at its full burrow Speed, leaving no tunnels or signs of its passing.

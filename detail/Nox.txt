@@ -1,0 +1,53 @@
+NOX
+	CREATURE
+	5
+	LE
+	Medium
+	Humanoid
+	
+
+	
+
+	
+
+	
+
+	Perception
+	+11; greater darkvision 
+	Skills
+	Athletics +12, Intimidation +12
+	STR
+	+5
+	DEX
+	+2
+	CON
+	+6
+	INT
+	-2
+	WIS
+	+0
+	CHA
+	+3
+	AC
+	20
+	Fort
+	+17
+	Ref
+	+11
+	Will
+	+7
+	
+
+	HP
+	115, regeneration 20 (good); 
+Resistance fire 20; Weaknesses good 10
+	Attack of Opportunity (R)
+	Speed
+	30 feet
+	Melee
+	(A)
+	striking glaive +14 (deadly d8, forceful, reach 15 feet), Damage 2d8+5
+	Swipe
+	(AA)
+	Nox makes a wide, arcing swing. She makes a melee Strike and compares the attack roll to the AC of up to two foes; each within her reach and adjacent to each other. She rolls damage once and applies it to each creature hit.
+	Divine Spells

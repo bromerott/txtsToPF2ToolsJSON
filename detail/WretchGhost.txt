@@ -1,0 +1,49 @@
+WRETCH GHOST
+	CREATURE
+	5
+	CE
+	Medium
+	Ghost
+	Incorporeal
+	Spirit
+	Undead
+	
+
+	Perception
+	 +12; darkvision
+	Languages
+	 Common
+	Skills
+	Dwelling Lore +12 (applies to the place the ghost is bound to), Stealth +14
+	STR
+	-5
+	DEX
+	+3
+	CON
+	+0
+	INT
+	+0
+	WIS
+	+2
+	CHA
+	+2
+	AC
+	22
+	Fort
+	+10
+	Ref
+	+13
+	Will
+	+10
+	
+
+	HP
+	45 (negative healing, rejuvenation); Immunities death effects, disease, paralyzed, poison, precision, unconscious; Resistances all damage 5 (except force, ghost touch, or positive; double resistance vs. non-magical)
+	Speed
+	fly 25 feet
+	Melee
+	(A)
+	ghostly hand +13 (agile, finesse, magical), Damage 2d6+4 negative
+	Frightful Moan
+	(AA)
+	(auditory, divine, emotion, enchantment, fear, mental) The wretch ghost laments its fate, forcing each living creature within 30 feet to attempt a DC 23 Will save. On a failure, a creature becomes frightened 2 (or frightened 3 on a critical failure). On a success, a creature is temporarily immune to this ghost’s frightful moan for 1 minute.

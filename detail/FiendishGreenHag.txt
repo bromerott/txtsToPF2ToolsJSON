@@ -1,0 +1,66 @@
+FIENDISH GREEN HAG
+	CREATURE
+	9
+	NE
+	Medium
+	Fiend
+	Hag
+	
+
+	
+
+	
+
+	Perception
+	+18; darkvision
+	Languages
+	Abyssal, Aklo, Celestial, Common, Infernal
+	Skills
+	Arcana +18, Deception +18, Diplomacy +18, Intimidation +14, Occultism +20, Religion +20
+	Coven
+	The green hag adds dominate, nightmare, scrying, and spellwrack to her coven’s spells.
+	STR
+	+5
+	DEX
+	+4
+	CON
+	+6
+	INT
+	+4
+	WIS
+	+5
+	CHA
+	+3
+	AC
+	28
+	Fort
+	+19
+	Ref
+	+17
+	Will
+	+18
+	+2 status to all saves vs. magic, –2 to all saves if the night hag does not have her heartstone
+	HP
+	170; Immunities sleep; Resistances mental 10; Weaknesses cold iron 10
+	Speed
+	25 feet, climb 25 feet
+	Melee
+	(A)
+	jaws +20 [+15/+10] (magical), Damage 2d8+8 piercing plus 1d6 evil and Abyssal plague
+	Melee
+	(A)
+	claw +20 [+16/+12] (agile, magical), Damage 2d10+8 slashing plus 1d6 evil
+	Occult Innate Spells
+	DC 28; 9th bind soul (at will; from heartstone), ethereal jaunt (at will; from heartstone); 8th dream council; 5th nightmare, shadow blast (x2, from heartstone); 3rd dream message (at will), magic missile (at will); 2nd invisibility (at will); 1st ray of enfeeblement (at will), sleep (at will); Constant (3rd) detect magic; (2nd) detect alignment (all alignments simultaneously)
+
+
+	Abyssal Plague
+	(disease) A creature can’t recover from drained until abyssal plague is cured. Saving Throw DC 28 Fortitude; Stage 1 Drained 1 (1 day); Stage 2 Drained increases by 2 (1 day)
+	Change Shape (A)
+	The green hag can take on the appearance of any Medium female humanoid. This doesn’t change her Speed or her attack and damage bonuses with her Strikes, but might change the damage type her Strikes deal (typically to bludgeoning).
+	Spell Ambush
+	A creature flat-footed to the green hag takes a –2 circumstance penalty to checks and DCs to defend against her spells.
+	
+
+
+________________

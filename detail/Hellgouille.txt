@@ -1,0 +1,53 @@
+HELLGOUILLE
+	CREATURE
+	10
+	CE
+	Large
+	Dream
+	Incorporeal
+	
+
+	
+
+	
+
+	
+
+	Perception
+	+18; darkvision
+	Skills
+	Acrobatics +14, Deception +18, Intimidation +18, Occultism +12, Stealth +18
+	STR
+	-5
+	DEX
+	+4
+	CON
+	+3
+	INT
+	+0
+	WIS
+	+2
+	CHA
+	+6
+	AC
+	28
+	Fort
+	+19
+	Ref
+	+22
+	Will
+	+18
+	+1 vs magic
+	HP
+	170 Immunities disease, paralyzed, poison, precision, sleep; Resistances all 5 (except force, ghost touch, or negative; double resistance vs. non-magical)
+	Attack of Opportunity (R)
+	Speed
+	fly 40 feet
+	Melee
+	(A)
+	nightmare tendril +24 [+20/+16] (agile, finesse), Damage 6d8 negative plus endless nightmare
+	Occult Innate Spells 
+	DC 26; 4th confusion, dimension door (at will), nightmare, phantasmal killer, sleep; 3rd fear
+	Endless Nightmare
+	(curse, emotion, enchantment, fear, mental, occult) An animate dream's touch fills the victim's mind with terrifying visions; Saving Throw DC 26 Fortitude; Stage 1 fatigued (1 day); Stage 2 fatigued and stupefied 1 (1 day); Stage 3 The victim falls asleep and can't be awakened as long as they remain at this stage (1 day).
+	________________

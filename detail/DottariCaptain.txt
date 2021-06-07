@@ -1,0 +1,57 @@
+DOTTARI CAPTAIN
+	CREATURE
+	8
+	LE
+	Medium
+	Humanoid
+	Human
+	
+
+	
+
+	
+
+	Perception
+	+16
+	Languages
+	Common
+	Skills
+	Architecture Lore +25, Athletics +13, Bureaucracy Lore +19, Crafting +25, Diplomacy +24, Intimidation +22, Society +21
+	STR
+	+3
+	DEX
+	+1
+	CON
+	+1
+	INT
+	+4
+	WIS
+	+2
+	CHA
+	+3
+	AC
+	26
+	Fort
+	+14
+	Ref
+	+14
+	Will
+	+17
+	
+
+	HP
+	135
+	Speed
+	25 feet
+	Melee
+	(A)
+	light hammer +16 [+12/+8] (agile), Damage 2d6+5 bludgeoning
+	Ranged
+	(A)
+	light hammer +14 [+10/+6] (agile, magical, thrown 20 feet), Damage 2d6+5 bludgeoning
+	Call To Action
+	(A)
+	The captain gives a speech to inspire themself and all allies within 60 feet, granting them a +1 status bonus to attack and damage rolls until the start of the guildmaster's next turn.
+	Sworn Duty
+	While within a barracks or presiding over Dottari business, the captain gains a +2 circumstance bonus to weapon attack rolls and deals an additional 2d6 damage on a successful weapon attack.
+	________________

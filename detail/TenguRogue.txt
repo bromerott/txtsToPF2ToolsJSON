@@ -1,0 +1,55 @@
+TENGU ROGUE
+	CREATURE
+	1
+	CN
+	Medium
+	Humanoid
+	Tengu
+	
+
+	
+
+	
+
+	Perception
+	+5; low-light vision
+	Languages
+	Common, Tengu
+	Skills
+	Acrobatics +6, Athletics +4, Stealth +6, Thievery +6
+	STR
+	+3
+	DEX
+	+3
+	CON
+	+2
+	INT
+	-1
+	WIS
+	+0
+	CHA
+	+1
+	Items
+	Rapier, Shortbow (20 arrows), leather armor
+	AC
+	17
+	Fort
+	+7
+	Ref
+	+8
+	Will
+	+4
+	
+
+	HP
+	18
+	Speed
+	25 feet
+	Melee
+	(A)
+	Rapier +8 (deadly 1d8, disarm, finesse) Damage 1d6+2 piercing
+	Ranged
+	(A)
+	Shortbow +10 (deadly 1d10, range increment 60 feet, reload 0) Damage 1d6 piercing
+	Surprise Attacker
+	On the first round of combat, creatures that haven’t acted yet are flat-footed to the Rogue.

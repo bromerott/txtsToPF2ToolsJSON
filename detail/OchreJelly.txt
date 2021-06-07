@@ -1,0 +1,55 @@
+OCHRE JELLY
+	CREATURE
+	7
+	N
+	Large
+	Mindless
+	Ooze
+	
+
+	
+
+	
+
+	Perception
+	+11; motion sense 60 feet, no vision
+	Skills
+	Athletics +17
+	STR
+	+4
+	DEX
+	-5
+	CON
+	+6
+	INT
+	-5
+	WIS
+	+0
+	CHA
+	-5
+	AC
+	16
+	Fort
+	+19
+	Ref
+	+8
+	Will
+	+11
+	+1 vs magic
+	HP
+	180 Immunities acid, critical hits, electricity, mental, piercing, precision, slashing, unconscious, visual
+	Split
+	Whenever an ochre jelly is hit by an attack or effect that would deal slashing, piercing, or electricity damage and the ochre jelly has at least 10 HP, the jelly splits into two identical jellies with half the original’s HP. One jelly is in the same space as the original, and the other appears in an adjacent unoccupied space. If no adjacent space is unoccupied, it automatically pushes creatures and objects out of the way to fill a space (the GM decides if an object or creature is too big or sturdy to push).
+	Speed
+	15 feet, climb 10 feet
+	Melee
+	(A)
+	 pseudopod +19 [+14/+9], Damage 1d8+11 bludgeoning plus 2d4 acid and Grab
+	Constrict
+	(A)
+	1d8+7 bludgeoning plus 1d4 acid, DC 23
+	Ochre Acid
+	
+
+	An ochre jelly's acid damages only flesh—not bone, stone, wood, or other materials.
+	________________

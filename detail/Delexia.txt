@@ -1,0 +1,59 @@
+DELEXIA
+	CREATURE
+	12
+	LE
+	Medium
+	Humanoid
+	Orc
+	
+
+	
+
+	
+
+	Perception
+	+26; darkvision, low-light vision
+	Skills
+	Acrobatics +22, Athletics +21, Intimidation +17, Medicine +21, Nature +20, Religion +22, Survival +24
+	STR
+	+4
+	DEX
+	+5
+	CON
+	+4
+	INT
+	+0
+	WIS
+	+4
+	CHA
+	+0
+	AC
+	31
+	Fort
+	+22
+	Ref
+	+25
+	Will
+	+21
+	successes on Reflex count as crit successes
+	HP
+	215
+	Attack of Opportunity (R) Can only be triggered by movement actions
+	Speed
+	50 feet
+	Melee
+	(A)
+	hamatula strike +23 [+19/+15] (agile), Damage 3d8+12 piercing
+	Melee
+	(A)
+	unarmed strike +23 [+19/+15] (agile), Damage 3d6+12 piercing
+	Flurry of Blows
+	(A)
+	Delexia makes two strikes - either hamatula or unarmed strikes.
+	Hamatula Stance
+	(A)
+	Delexia enters her stance and can make hamatula strikes, as well as use the Hamatulatsu activity.
+	Hamatulatsu
+	(AA)
+	Delexia makes one hamatula strike, which deals 5d10+12 points of damage. This counts as two attacks towards her multiple attack penalty.
+	________________

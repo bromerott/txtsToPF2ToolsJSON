@@ -1,0 +1,56 @@
+MENADOR SOLDIER
+	CREATURE
+	4
+	LE
+	Medium
+	Humanoid
+	Human
+	
+
+	
+
+	
+
+	Perception
+	+10
+	Languages
+	Common
+	Skills
+	Athletics +13, Diplomacy +8, Intimidation +11, Legal Warfare +9, Society +7
+	STR
+	+4
+	DEX
+	+1
+	CON
+	+3
+	INT
+	+0
+	WIS
+	+1
+	CHA
+	+1
+	AC
+	22
+	Fort
+	+12
+	Ref
+	+8
+	Will
+	+10
+	
+
+	HP
+	60
+	Unbreakable Formation
+	When adjacent to another Menador Soldier, a soldier may Raise his Shield without spending a Reaction.
+	Attack of Opportunity (R)
+Raise Shield (R)
+	Speed
+	25 feet
+	Melee
+	(A)
+	warhammer +15 (shove), Damage 1d8+9 bludgeoning
+	Shield Bash
+	(A)
+	Frequency once per round; Effect The Menador Soldier makes an Athletics check vs the target’s Fortitude DC. If it succeeds, the creature is treated as flat-footed against attacks made by Menador Soldiers.
+	________________

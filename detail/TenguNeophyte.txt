@@ -1,0 +1,55 @@
+TENGU NEOPHYTE
+	CREATURE
+	-1
+	CN
+	Medium
+	Humanoid
+	Tengu
+	
+
+	
+
+	
+
+	Perception
+	+2; low-light vision
+	Languages
+	Common, Tengu
+	Skills
+	Acrobatics +5, Athletics +2, Stealth +5, Thievery +2
+	STR
+	+0
+	DEX
+	+3
+	CON
+	+1
+	INT
+	+0
+	WIS
+	-1
+	CHA
+	+1
+	Items
+	Rapier, Shortbow (20 arrows), leather armor
+	AC
+	16
+	Fort
+	+5
+	Ref
+	+7
+	Will
+	+3
+	
+
+	HP
+	6
+	Speed
+	25 feet
+	Melee
+	(A)
+	Rapier +8 (deadly 1d8, disarm, finesse) Damage 1d6+2 piercing
+	Ranged
+	(A)
+	Shortbow +10 (deadly 1d10, range increment 60 feet, reload 0) Damage 1d6 piercing
+	Surprise Attacker
+	On the first round of combat, creatures that haven’t acted yet are flat-footed to the Neophyte.

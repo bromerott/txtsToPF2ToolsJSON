@@ -1,0 +1,54 @@
+TIARISE IZONI, NEMHAIN
+	CREATURE
+	15
+	LE
+	Medium
+	Incorporeal
+	Undead
+	
+
+	
+
+	
+
+	
+
+	Perception
+	+19; darkvision, true seeing
+	Skills
+	Acrobatics +25, Arcana +32, Deception +26, Occultism +30, Religion +21, Stealth +25
+	STR
+	-3
+	DEX
+	+8
+	CON
+	+0
+	INT
+	+7
+	WIS
+	-2
+	CHA
+	+5
+	AC
+	38
+	Fort
+	+23
+	Ref
+	+27
+	Will
+	+23
+	+1 status to all saves vs. positive
+	HP
+	220 (negative healing); Immunities disease, paralyzed, poison, polymorph, unconscious; Resistances cold 5, electricity 5, fire 5, physical 5 (except bludgeoning)
+	Speed
+	fly 30 feet
+	Melee
+	(A)
+	hand +27 [+22/+17] (reach 0 feet, finesse, magical), Damage 6d6 negative
+	Bound Spirits
+	(F)
+	Frequency once per round
+Effect Tiarise uses the bound spirits around her to aid her spellcasting or reach her enemies. She can either make a hand Strike against a creature within 30 feet of her (ignoring her multiple attack penalty nor counting for it), or she can instead reduce the number of actions to cast her next spell by 1 (minimum 1 action). 
+	Arcane Prepared Spells
+	DC 40, attack +30; 9th massacre (x2)  ; 8th wall of force 7th spell turning (at will), repulsion (at will); 4th blink (at will), dimension door (at will), telekinetic maneuver (at will); Cantrips (8th) mage hand, telekinetic projectile; Constant (6th) true seeing
+	________________

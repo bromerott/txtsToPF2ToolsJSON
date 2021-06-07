@@ -1,0 +1,58 @@
+SERPENT OF DARKNESS
+	CREATURE
+	13
+	N
+	Large
+	Beast
+	
+
+	
+
+	
+
+	
+
+	Perception
+	+24; greater darkvision
+	Skills
+	Acrobatics +20, Athletics +28 (+30 to Swim), Stealth +30
+	Undetectable
+	The serpent automatically tries to counteract any detection, revelation, or scrying divination attempted against it, using its Stealth modifier for its counteract modifier.
+	Split
+	Whenever the serpent of darkness is critically hit by a slashing attack, the serpent splits into two identical serpents with half the original’s HP. 
+	STR
+	+5
+	DEX
+	+5
+	CON
+	+5
+	INT
+	+2
+	WIS
+	+4
+	CHA
+	+5
+	AC
+	35
+	Fort
+	+25
+	Ref
+	+21
+	Will
+	+21
+	
+
+	HP
+	210
+	Speed
+	20 feet, swim 60 feet
+	Melee
+	(A)
+	jaws +29 [+24/+19] (reach 20 feet), Damage 3d10+16 piercing plus Grab
+	Constrict
+	(A)
+	1d10+16 bludgeoning
+	Spine Rake
+	(AA)
+	(attack, move) The sea serpent extends the spines along its back and Swims or Strides. Each creature the serpent is adjacent to at any point during its movement takes 4d6+10 slashing damage (DC 34 basic Reflex save).
+	________________

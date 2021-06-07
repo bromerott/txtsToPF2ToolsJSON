@@ -1,0 +1,55 @@
+GALLOWDEAD
+	CREATURE
+	17
+	CE
+	Medium
+	Undead
+	
+
+	
+
+	
+
+	
+
+	Perception
+	+32; darkvision
+	Skills
+	Athletics +31, Intimidation +32, Occultism +25
+	STR
+	+8
+	DEX
+	+5
+	CON
+	+0
+	INT
+	+2
+	WIS
+	+6
+	CHA
+	+6
+	AC
+	39
+	Fort
+	+25
+	Ref
+	+29
+	Will
+	+32
+	
+
+	HP
+	300
+	Aura of Whispers A gallowdead constantly whispers vile secrets and blasphemous chants. Any creature within 30 feet of a gallowdead must succeed at a DC 38 Will save or be frightened 2. This effect stacks with itself and other gallowdead’s auras, up to a maximum of frightened 8.
+	Speed
+	40 feet
+	Melee
+	(A)
+	spiked chain +32 [+27/+22] (finesse, magical), Damage 3d6+14 piercing plus Improved Grab
+	Chains of the Dead
+	(A)
+	Frequency once per round
+Effect The gallowdead makes one spike chain Strike. On a success, the strike deals an extra 8d10 negative damage (basic Fortitude save DC 38). On a failure, the strike does not count towards the gallowdead’s multiple attack penalty.
+	Masterful Torturer
+	A gallowdead can expertly maneuver a grabbed creature with its spiked chain. It does not need to spend an action to extend the duration for creatures it already has grabbed.
+	________________

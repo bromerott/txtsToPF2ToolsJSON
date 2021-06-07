@@ -1,0 +1,58 @@
+CASSIUS SARGAETA
+	CREATURE
+	6
+	LE
+	Medium
+	Humanoid
+	Human
+	
+
+	
+
+	
+
+	Perception
+	+12
+	Languages
+	Common
+	Skills
+	Acrobatics +10, Athletics +12, Diplomacy +11, Intimidation +13, Sailing Lore +17, Survival +10
+	STR
+	+4
+	DEX
+	+2
+	CON
+	+0
+	INT
+	+1
+	WIS
+	+2
+	CHA
+	+3
+	AC
+	23
+	Fort
+	+12
+	Ref
+	+12
+	Will
+	+14
+	
+
+	HP
+	90
+	Bravery
+	When Cassius rolls a success on a Will save against a fear
+effect, he gets a critical success instead. In addition, anytime he
+gains the frightened condition, reduce its value by 1.
+	Speed
+	25 feet
+	Melee
+	(A)
+	rapier +17 (deadly 1d8, disarm, magical), Damage 1d6+10 piercing
+	Ranged
+	(A)
+	main-gauche +16 (agile, disarm, parry, versatile S), Damage 1d4+10 piercing
+	Chelish Duel Expert
+	(A)
+	Cassius makes two Strikes, one with his rapier and one with his main-gauche (in either order). If both Strikes hit, he can attempt to Disarm the target. His multiple attack penalty increases only after all the attacks are made.

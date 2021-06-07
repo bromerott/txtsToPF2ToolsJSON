@@ -1,0 +1,58 @@
+NEZRAMERRIAN
+	CREATURE
+	11
+	LE
+	Medium
+	Devil
+	Fiend
+	
+
+	
+
+	
+
+	Perception
+	+23; greater darkvision
+	Languages
+	Celestial, Common, Draconic, Infernal; telepathy 100 feet
+	Skills
+	Arcana +21, Deception +25, Diplomacy +23, Intimidation +23, Legal Lore +27, Religion +21, Society +21, Stealth +20
+	STR
+	+3
+	DEX
+	+4
+	CON
+	+4
+	INT
+	+7
+	WIS
+	+5
+	CHA
+	+5
+	AC
+	32
+	Fort
+	+20
+	Ref
+	+20
+	Will
+	+25
+	+1 vs magic
+	HP
+	180; Immunities fire, ward contract; Resistances physical 10 (except silver), poison 10; Weaknesses good 10
+	Speed
+	25 feet,
+	Melee
+	(A)
+	binding contract +25 [+21/+17] (agile, disarm, evil, magical, reach 10 feet, trip), Damage 3d6+15 slashing plus 1d6 evil, Grab, and infernal wound
+	Melee
+	(A)
+	horn +23 [+18/+13] (magical), Damage 3d10+15 piercing and infernal wound
+	Divine Innate Spells
+	DC 33; 10th scrying (at will, see infernal investment); 7th plane shift; 5th dimension door, fireball, illusory scene, lightning bolt, locate (at will), mind probe, sending (at will); 4th dimension door (at will), private sanctum, silence; 3rd mind reading (at will); Cantrips (7th) detect magic; Constant (5th) tongues
+	Infernal Wound (divine, necromancy)
+	A contract devil’s Strikes also deal 3d6 persistent bleed damage that resist attempts to heal it. The flat check to stop the bleeding starts at DC 20. The DC is reduced to 15 only if the bleeding creature or an ally successfully assists with the recovery.
+
+
+The DC to Administer First Aid to a creature with an infernal wound is increased by 5. A spellcaster or item attempting to use healing magic on a creature suffering from an infernal wound must succeed at a DC 29 counteract check or the magic fails to heal the creature
+	________________

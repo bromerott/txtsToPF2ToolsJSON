@@ -1,0 +1,58 @@
+DISCIPLE OF SHAX
+	CREATURE
+	11
+	LE
+	Medium
+	Humanoid
+	Fiend
+	
+
+	
+
+	
+
+	Perception
+	+21; see invisibility
+	Languages
+	Common, Infernal
+	Skills
+	Acrobatics +22, Athletics +17, Deception +21, Religion +23, Shax Lore +19, Thievery +22
+	STR
+	+1
+	DEX
+	+5
+	CON
+	+4
+	INT
+	+4
+	WIS
+	+2
+	CHA
+	+3
+	AC
+	30
+	Fort
+	+19
+	Ref
+	+23
+	Will
+	+20
+	
+
+	HP
+	175
+	Speed
+	25 feet
+	Melee
+	(A)
+	dagger +23 [+19/+5] (agile), Damage 3d4+5 slashing and piercing
+	Ranged
+	(A)
+	light hammer +14 [+10/+6] (agile, magical, thrown 20 feet), Damage 2d6+5 bludgeoning
+	Shax’s Teachings
+	The disciples of Shax may make Religion checks instead of Deception checks when Feinting. Additionally, whenever they succeed at a Feint, their targets are flat-footed to all attacks made by the disciple until its next turn.
+	Sneak Attack
+	Whenever the disciple of Shax deals damage to a flat-footed creature, it deals an extra 3d6 precision damage.
+	Divine Spellcasting
+	DC 30; 6th blinding fury (x2), harm (×4); 5th flame strike (x2), see invisibility (already cast); 4th freedom of movement, silence, enervation 3rd blindness, dispel magic; Cantrips (6th) divine lance
+	________________

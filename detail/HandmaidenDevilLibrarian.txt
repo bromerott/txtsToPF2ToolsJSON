@@ -1,0 +1,62 @@
+HANDMAIDEN DEVIL LIBRARIAN
+	CREATURE
+	15
+	LE
+	Medium
+	Devil
+	Fiend
+	
+
+	
+
+	
+
+	Perception
+	+30; greater darkvision, true seeing
+	Skills
+	Acrobatics +27, Arcana +25, Athletics +28, Deception +30, Diplomacy +28, Religion +26, Stealth +27
+	STR
+	+4
+	DEX
+	+7
+	CON
+	+4
+	INT
+	+5
+	WIS
+	+6
+	CHA
+	+8
+	AC
+	38
+	Fort
+	+24
+	Ref
+	+27
+	Will
+	+30
+	+1 status vs all magic
+	HP
+	270; Immunities fire; Resistances physical 10 (except silver); Weaknesses good 10
+	Reflexive Grab (R)
+	Trigger A creature leaves a square within the gylou's reach using a move action or attempts a melee Strike against the gylou; Effect The gylou lashes out with a tentacle, attempting to Grapple the triggering creature. If the triggering Strike was with a melee weapon, the attacking creature can Release the weapon to cause the gylou to automatically fail the Athletics check.
+	Speed
+	35 feet, climb 35 feet
+	Melee
+	(A)
+	claw +32 [+28/+24] (agile, evil, finesse, magical), Damage 3d8+14 slashing plus 1d6 evil
+	Melee
+	(A)
+	tentacle +32 [+27/+22] (evil, magical, reach 10 feet), Damage 3d12+16 bludgeoning plus Grab
+	Change Shape
+	(A)
+	(concentrate, divine, polymorph, transmutation) The gylou adopts the appearance of any Small or Medium humanoid. This doesn't change their Speed or the attack and damage modifiers of their Strikes, but it might change the damage type their Strikes deal (typically to bludgeoning).
+	Tentacle Encage
+	(A)
+	(attack) Requirements The gylou has a Medium or smaller creature grabbed; Effect The gylou transfers the grabbed creature into their lower body's net of encaging tentacles, freeing their limbs and tentacles to make Strikes. This has the same effects as Swallow Whole (Medium, 2d12+12 bludgeoning, Rupture 60), except the encaged creature is not at risk of suffocation, and the gylou can bring the encaged creature with them when they cast dimension door. A gylou can have only one creature encaged at a time.
+	Indispensable Savvy
+	(R)
+	Frequency once per day; Trigger The gylou attempts a skill check but hasn't rolled yet; Effect The gylou demonstrates a preternatural ability for the task at hand. They use their Deception modifier for the triggering check and for all skill checks using the same skill thereafter until the next time the gylou uses this ability or until 24 hours have passed, whichever happens first.
+	Divine Innate Spells
+	DC 36, attack +28; 7th dispel magic, dominate; 5th black tentacles, dimension door, illusory object (at will); 4th charm (×3), dimension door (at will), enthrall (at will); Constant (7th) true seeing
+	________________

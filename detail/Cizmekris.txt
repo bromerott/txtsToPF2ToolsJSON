@@ -1,0 +1,70 @@
+CIZMEKRIS
+	CREATURE
+	11
+	LE
+	Large
+	Fiend
+	Devil
+	
+
+	
+
+	
+
+	Perception
+	+19; greater darkvision
+	Skills
+	Arcana +18, Deception +19, Intimidation +21, Religion +15, Stealth +20
+	STR
+	+5
+	DEX
+	+5
+	CON
+	+4
+	INT
+	+3
+	WIS
+	+2
+	CHA
+	+4
+	AC
+	30
+	Fort
+	+23
+	Ref
+	+20
+	Will
+	+17
+	+1 vs magic
+	HP
+	176; Immunities fire; Resistances physical 10 (except silver), poison 10; Weaknesses good 10
+	Speed
+	35 feet, fly 30 feet
+	Melee
+	(A)
+	 greater striking mace +22, Damage 3d8+11 piercing
+	Melee
+	(A)
+	claw +22 (agile, reach 10 feet), Damage 2d6+13 slashing
+	Melee
+	(A)
+	stinger +23 (reach 15 feet), Damage 1d10+13 piercing plus bone devil venom
+	Ranged
+	(A)
+	bone shard +22 (range increment 30 feet), Damage 2d6+10 piercing
+	Tail Sweep
+	(A)
+	Cizmekris sweeps its tail in a 15-foot cone. Each creature in the cone must succeed at a DC 28 Reflex save or be knocked prone.
+	Domain Spells
+(F.Pool: 2)
+	Domain: Tyranny. Cizmekris can cast Commanding Lash or Touch of Obedience by spending 1 Focus Point.
+	Divine Innate Spells
+	DC 27; 5th dimension door, phantom pain; 4th dimension door (at will), dimensional anchor (x2), discern lies; 2nd invisibility (at will; self only)
+Divine Rituals DC 25; 1st infernal pact
+	Bone Devil Venom
+	 (poison) Saving Throw DC 27 Fortitude; Maximum Duration 6 rounds; Stage 1 2d6 poison damage, enfeebled 1 (1 round); Stage 2 3d6 poison damage and enfeebled 1 (1 round); Stage 3 3d6 poison damage, enfeebled 2, and the creature takes a –4 status penalty to Will saves against attempts to Coerce it (1 hour)
+	Quick Invisibility
+	Cizmekris can cast invisibility on himself using only 1 action.
+	Sadistic Strike
+	Cizmekris deals an extra 2d6 damage whenever it hits an creature that has the enfeebled, frightened, or prone condition with any of his Strikes.
+	________________

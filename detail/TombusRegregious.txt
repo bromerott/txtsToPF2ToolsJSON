@@ -1,0 +1,65 @@
+TOMBUS REGREGIOUS
+	CREATURE
+	11
+	LE
+	Medium
+	Humanoid
+	Human
+	
+
+	
+
+	
+
+	Perception
+	+20
+	Languages
+	Common, Infernal
+	Skills
+	Acrobatics +16, Athletics +16, Deception +21, Intimidation +23, Religion +21, Society +16
+	STR
+	+4
+	DEX
+	+2
+	CON
+	+2
+	INT
+	+0
+	WIS
+	+3
+	CHA
+	+5
+	AC
+	30
+	Fort
+	+19
+	Ref
+	+19
+	Will
+	+24
+	
+
+	HP
+	145
+	Speed
+	25 feet
+	Bladed Dash
+	(A)
+	Frequency: once per round
+Tombus Strides and makes a Strike against two adjacent creatures. His multiple attack penalty is only calculated after these attacks resolve.
+	Cleave
+	(R)
+	Trigger: Tombus’ melee Strike kills a creature or knocks it unconscious, and another foe is adjacent to that creature.
+Effect: Tombus swings clear through one foe and into another. He can make a melee Strike against the second foe.
+	For Cheliax!
+	(F)
+	Requirements: Tombus  and his allies are about to roll initiative
+Effect: Tombus and his allies gain a +2 circumstance bonus to their initiative.
+	Melee
+	(A)
+	Scimitar +21 [+16/+11] (magical, versatile P), Damage 2d6+8 bludgeoning plus 1d6 fire damage
+	Divine Spontaneous Spells
+	DC 30, attack +20; 5th banishment, command, crushing despair, heal, summon fiend (4 slots); 4th air walk, dimensional anchor, discern lies, suggestion (4 slots); 3rd blindness, crisis of faith, enthrall, fear (4 slots); 2nd darkvision, detect alignment, faerie fire, flaming sphere (4 slots); 1st bane, charm, command, ray of enfeeblement (4 slots); Cantrips (5th) detect magic, forbidding ward, light, produce flame, shield, sigil
+
+
+	________________

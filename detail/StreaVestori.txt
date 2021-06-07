@@ -1,0 +1,61 @@
+STREA VESTORI
+	CREATURE
+	9
+	CN
+	Medium
+	Humanoid
+	Human
+	
+
+	
+
+	
+
+	Perception
+	+18; darkvision
+	Languages
+	Common
+	Skills
+	Acrobatics +17, Athletics +13, Deception +12, Diplomacy +10, Intimidation +10, Medicine +14, Society +12, Stealth +19, Survival +12, Thievery +15, Underworld Lore +14
+	Items
+	+1 striking composite shortbow (20 arrows), +1 rapier, invisibility potion, giant centipede venom (3), leather armor, lesser darkvision elixir, simple injury poison (8 doses, 2d4 poison damage)
+	STR
+	+3
+	DEX
+	+5
+	CON
+	+2
+	INT
+	+2
+	WIS
+	+2
+	CHA
+	+0
+	AC
+	28
+	Fort
+	+14
+	Ref
+	+21
+	Will
+	+16
+	
+
+	HP
+	145
+	Nimble Dodge
+	(R)
+	Trigger The assassin is targeted with a melee or ranged attack by an attacker they can see; Effect The assassin gains a +2 circumstance bonus to AC against the triggering attack.
+	Speed
+	25 feet
+	Melee
+	(A)
+	rapier +20 [+16/+12] (deadly 1d8, disarm, finesse, magical), Damage 1d6+10 piercing
+	Poison Weapon
+	(A)
+	Requirements The assassin is wielding a piercing or slashing weapon and has a free hand; Effect The assassin applies a poison to the weapon.
+	Sneak Attack
+	
+
+	The assassin deals an extra 2d6 precision damage to flat-footed creatures.
+	________________

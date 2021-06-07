@@ -1,0 +1,68 @@
+CAINAN VIPER VINE
+	CREATURE
+	15
+	LE
+	Large
+	Plant
+	
+
+	
+
+	
+
+	
+
+	Perception
+	+26; low-light vision, tremorsense (imprecise) 60 feet
+	Skills
+	Athletics +31, Stealth +28
+	STR
+	+8
+	DEX
+	+5
+	CON
+	+7
+	INT
+	-4
+	WIS
+	+5
+	CHA
+	-3
+	AC
+	37
+	Fort
+	+30
+	Ref
+	+28
+	Will
+	+26
+	+1 vs magic
+	HP
+	300; Resistances poison 15, physical 10 (except silver) Weaknesses good 10
+	Cold Vulnerability When exposed to a cold effect, the viper vine is overwhelmed by lethargy, becoming slowed 1 for 1d4 rounds.
+	Speed
+	35 feet, fly 50 feet
+	Melee
+	(A)
+	jaws +31 [+26/+21] (reach 10 feet), Damage 3d6+19 piercing plus 3d6 poison
+	Melee
+	(A)
+	vine +31 [+27/+23] (agile, reach 15 feet), Damage 3d10+19 bludgeoning plus Grab
+	Smite Good
+	(A)
+	The vine selects one enemy it can see - until the start of its next turn, the vine’s Strikes deal an extra 6 evil damage.
+
+
+If the chosen enemy attacks the vine before the start of his next turn, the duration extends to the end of that enemy's next turn. If the enemy continues to attack it each turn, the duration continues to extend.
+	Grab
+	(A)
+	3d8+16 bludgeoning, DC 37
+	Captivating Pollen
+	(A)
+	(enchantment, incapacitation, mental, poison) The viper vine releases a 60-foot emanation of invisible pollen that stays in the air for 5 rounds unless dispersed by a moderate or stronger wind. Each creature that enters or starts its turn in the area must attempt a DC 37 Will save or be captivated. The viper vine can't use Captivating Pollen for 1d4 rounds.
+
+Critical Success The creature is unaffected and is temporarily immune to Captivating Pollen for 24 hours.
+Success The creature is sickened 1.
+Failure The creature is fascinated, and it must spend each of its actions to move closer to the viper vine as expediently as possible while avoiding obvious dangers. If a captivated creature is adjacent to the viper vine, it stays still and doesn't act. It ceases to be fascinated if it's no longer in the pollen aura at the end of its turn.
+Critical Failure As failure, plus the creature is stupefied 2 for 24 hours.
+	________________

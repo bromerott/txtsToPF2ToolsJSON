@@ -1,0 +1,63 @@
+RUST DEVIL
+	CREATURE
+	11
+	LN
+	Medium
+	Fiend
+	Devil
+	
+
+	
+
+	
+
+	Perception
+	+24; greater darkvision
+	Languages
+	Celestial, Draconic, Infernal; telepathy 100 feet
+	Skills
+	Acrobatics +23, Arcana +18, Intimidation +21, Religion +20, Stealth +23, Survival +22
+	STR
+	+7
+	DEX
+	+6
+	CON
+	+5
+	INT
+	+1
+	WIS
+	+5
+	CHA
+	+4
+	AC
+	31
+	Fort
+	+23
+	Ref
+	+20
+	Will
+	+20
+	+1 vs magic
+	HP
+	165; Immunities fire, poison; Resistances physical 10 (except silver); Weaknesses good 10
+	Attack of Opportunity (R) 
+	Vainglorious Whispers (R)  (emotion, enchantment, mental) Trigger The rust devil is successfully hit by an attack; Effect The attacking creature must make a DC 27 Will save or become overly confident in its abilities, while in fact becoming less accomplished for 1 minute. While under these effects, it gains a +4 status bonus to saves against fear effects, but takes a  –2 penalty to attack rolls and damage rolls. The target cannot Stride away from the Rust Devil, nor use healing magic on themselves.
+	Speed
+	25 feet, fly 30 feet
+	Melee
+	(A)
+	slam +24 [+19/+14] (evil, magical), Damage 3d8+13 bludgeoning plus 1d6 evil
+	Melee
+	(A)
+	wing +24 [+19/+14] (agile, evil, magical), Damage 2d8+10 bludgeoning plus 1d6 evil
+	Ranged
+	(A)
+	iron feathers +23 [+18/+13] (evil, magical, range increment 60 feet), Damage 2d8+13 piercing plus 1d6 evil
+	Divine Innate Spells
+	DC 27, attack +21; 6th flesh to iron (as flesh to stone), curse of lost time; 5th wall of iron (as wall of stone) 4th dimension door (at will); 
+	Scarlet Tetanus
+	(disease) Saving Throw DC 27 Fortitude; Stage 1 Clumsy 2 (1 day); Stage 2 Clumsy increases by 1 (1 day)
+	Iron Feather Storm
+	(AA)
+	The rust devil rains down its iron feathers on its enemies. It can make up to four iron feather attacks against creatures within its range, without increasing its multiple attack penalty until after all attacks are made.
+	________________

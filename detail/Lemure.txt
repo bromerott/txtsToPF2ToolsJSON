@@ -1,0 +1,46 @@
+LEMURE
+	CREATURE
+	0
+	LE
+	Medium
+	Devil
+	Fiend
+	Mindless
+	
+
+	
+
+	Perception
+	+0; greater darkvision
+	Skills
+	Athletics +5
+	STR
+	+2
+	DEX
+	+0
+	CON
+	+3
+	INT
+	-5
+	WIS
+	+0
+	CHA
+	-3
+	AC
+	13
+	Fort
+	+10
+	Ref
+	+5
+	Will
+	+3
+	
+
+	HP
+	20 Immunities fire, mental; Weaknesses good 3; 
+Resistances physical 3 (except silver), poison 5
+	Speed
+	20 feet
+	Melee
+	(A)
+	Claws +7 (evil, magical) Damage 1d4+2 slashing plus 1 evil

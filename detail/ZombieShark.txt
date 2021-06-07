@@ -1,0 +1,50 @@
+ZOMBIE SHARK
+	CREATURE
+	8
+	N
+	Huge
+	Animal
+	Aquatic
+	
+
+	
+
+	
+
+	Perception
+	+18;
+	Skills
+	Athletics +19, Stealth +17, Survival +14
+	STR
+	+8
+	DEX
+	+2
+	CON
+	+5
+	INT
+	-4
+	WIS
+	+3
+	CHA
+	-2
+	AC
+	25
+	Fort
+	+19
+	Ref
+	+14
+	Will
+	+15
+	
+
+	HP
+	220 (negative healing); Immunities death effects, disease, mental, paralyzed, poison, unconscious; Weaknesses positive 10, slashing 10
+	Speed
+	swim 60 feet
+	Melee
+	(A)
+	jaws +20 (reach 10 feet), Damage 2d12+8 piercing plus Improved Grab
+	Melee
+	(A)
+	tail +20 (agile, reach 15 feet), Damage 2d8+8 piercing plus Push 15 feet
+	________________

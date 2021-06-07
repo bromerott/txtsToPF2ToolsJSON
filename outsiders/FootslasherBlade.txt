@@ -1,0 +1,31 @@
+FOOTSLASHER BLADE
+	HAZARD
+	8
+	Trap
+	Mechanical
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	Complexity
+	Simple
+	Stealth
+	DC 28 (expert)
+	Description
+	Anyone who attempts to open the chest or damage it without the proper key causes a razor-sharp scimitar blade slathered in wyvern poison to scythe out at foot level from the bottom of the chest.
+	Disable
+	Thievery DC 28 (Expert) on the spring mechanism
+	Trigger A creature tries to Force Open the chest or Pick the Lock. 
+Effect A scimitar slashes out from the chest at ankle-level.
+Melee scimitar +23, Damage 1d10+7 slashing plus wyvern poison
+Wyvern Poison (poison); Saving Throw DC 26 Fortitude; Maximum Duration 6 rounds; Stage 1 5d6 poison damage (1 round); Stage 2 6d6 poison damage (1 round); Stage 3 8d6 poison damage (1 round)
+	Reset
+	The trap resets 1 hour after being triggered.

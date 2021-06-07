@@ -1,0 +1,65 @@
+SEAWEED SIREN
+	CREATURE
+	14
+	CN
+	Large
+	Magical Beast
+	
+
+	
+
+	
+
+	Perception
+	+26; greater darkvision
+	Skills
+	Acrobatics +23, Arcana +23, Athletics +27, Crafting +25, Deception +27, Intimidation +27, Nature +25
+	STR
+	+8
+	DEX
+	+6
+	CON
+	+6
+	INT
+	+4
+	WIS
+	+6
+	CHA
+	+8
+	AC
+	36
+	Fort
+	+28
+	Ref
+	+26
+	Will
+	+24
+	+1 vs magic
+	HP
+	250 Immunities sonic;
+	Attack of Opportunity (R)
+	Speed
+	40 feet, swim 40 feet
+	Melee
+	(A)
+	bite +30 [+25/+20] (deadly 1d8, magical, reach 10 fee), Damage 4d6+16 piercing
+	Ranged
+	(A)
+	sonic beam +26 [+21/+16] (sonic, magical, range increment 60 feet), Damage 3d10+16 sonic
+	Cacophonous Song
+	(AA)
+	The siren sings a cacophonous song which disrupts spellcasting Each creature within 60 feet of the siren must make a DC 34 Fortitude Save.
+Success The creature is stupefied 1 for 1 round.
+Failure The creature is stupefied 1 for 2 rounds.
+Critical Failure The creature is stupefied 2 for 2 rounds.
+	False Heads
+	The seaweed siren has three false siren heads, who sing and cast spells. A creature can target one of these heads, which have AC 40 and HP 20. Severing a head deals 40 points of damage to the seaweed siren, and a siren without heads cannot cast any spells nor use Cacophonous Song.
+	Occult Innate Spells
+	DC 34; 7th shatter (x3), sound burst (x3), sleep (x3), 
+	
+
+	
+
+	
+
+	________________

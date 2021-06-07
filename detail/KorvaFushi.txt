@@ -1,0 +1,66 @@
+KORVA FUSHI
+	CREATURE
+	2
+	CN
+	Medium
+	Humanoid
+	Tengu
+	
+
+	
+
+	
+
+	Perception
+	+6; low-light vision
+	Languages
+	Common, Tengu, Undercommon, Halfling
+	Skills
+	Acrobatics +8, Athletics +6, Deception +7, Diplomacy +5, Society +5, Stealth +8, Thievery +8
+	STR
+	+2
+	DEX
+	+4
+	CON
+	+1
+	INT
+	+1
+	WIS
+	+0
+	CHA
+	+1
+	Items
+	Rapier, Shortbow (20 arrows), studded leather armor
+	AC
+	19
+	Fort
+	+8
+	Ref
+	+10
+	Will
+	+4
+	
+
+	HP
+	27
+	Speed
+	25 feet
+	Melee
+	(A)
+	Rapier +10 (deadly 1d8, disarm, finesse) Damage 1d6+2 piercing
+	Melee
+	(A)
+	Beak +10 (finesse) Damage 1d4+2 piercing
+	Ranged
+	(A)
+	Shortbow +10 (deadly 1d10, range increment 60 feet, reload 0) Damage 1d6 piercing
+	Go for the Eyes!
+	(R)
+	Trigger Korva critically hits with a beak Strike Effect Korva attempts to peck out its victim’s eyes. The target must attempt a DC 17 Fortitude save.
+Success Unaffected
+Failure Blinded for 1 round
+Critical Failure Blinded until healed to maximum HP
+	Sneak Attack
+	Korva deals 1d6 extra precision damage to flat-footed creatures
+	Surprise Attacker
+	On the first round of combat, creatures that haven’t acted yet are flat-footed to Korva.

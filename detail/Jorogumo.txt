@@ -1,0 +1,62 @@
+JOROGUMO
+	CREATURE
+	12
+	CE
+	Medium
+	Fiend
+	Humanoid
+	
+
+	
+
+	
+
+	Perception
+	+24; greater darkvision
+	Languages
+	Common
+	Skills
+	Acrobatics +24, Arcana +23, Athletics +25, Deception +27, Intimidation +27, Nature +24, Stealth +26
+	STR
+	+8
+	DEX
+	+5
+	CON
+	+5
+	INT
+	+4
+	WIS
+	+5
+	CHA
+	+8
+	AC
+	32
+	Fort
+	+19
+	Ref
+	+23
+	Will
+	+21
+	+1 status vs. magic
+	HP
+	200, regeneration 15 (deactivated by cold iron); Immunities poison; 
+Weaknesses cold iron 15
+	Attack of Opportunity (R)
+	Silk Deflection (R) Trigger The jorogumo is targeted by a ranged Strike or spell attack roll that doesn’t deal cold iron damage. Effect The Jorogumo creatures a reflective blockade of spider silk, gaining a +4 circumstance bonus to AC against the triggering attack roll. If the attack misses, the jorogumo redirects the attack to another creature within 20 feet of it. The attacker rerolls the attack roll against the new target.
+	Speed
+	40 feet, fly 40 feet, climb 40 feet
+	Melee
+	(A)
+	bite +25 [+21/+17] (agile, evil, magical, reach 10 feet), Damage 2d8+14 piercing plus 2d6 poison and paralyzing venom
+	Ranged
+	(A)
+	web projectile +23 [+18/+13] (poison, evil, magical, range increment 60 feet), Damage 2d10+10 poison and paralyzing venom
+	Occult Innate Spells
+	DC 31; 7th mask of terror, spirit blast 6th vampiric exsanguination (×3); 4th charm (×3), darkness, gaseous form, solid fog; 2nd invisibility (at will, self only)
+	Paralyzing Venom
+	On a critical hit with a bite or a hit with a web projectile, the target creature must attempt a DC 31 Fortitude save.
+Critical Success The creature is unaffected.
+Success The creature is slowed 1 for 1 round.
+Failure The creature is slowed 2 for 1 round.
+Critical Failure The creature is slowed 3 for 1 round.
+	________________

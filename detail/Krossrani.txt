@@ -1,0 +1,67 @@
+KROSSRANI
+	CREATURE
+	4
+	NE
+	Medium
+	Humanoid
+	Dwarf
+	
+
+	
+
+	
+
+	Perception
+	+10; darkvision
+	Languages
+	Common, Dwarf
+	Skills
+	Athletics +12, Survival +8, Intimidate +5
+	STR
+	+4
+	DEX
+	+1
+	CON
+	+3
+	INT
+	+0
+	WIS
+	+2
+	CHA
+	-1
+	Items
+	Dwarven Battleaxe, Plate Armor, Shield
+	AC
+	22
+	Fort
+	+11
+	Ref
+	+11
+	Will
+	+10
+	
+
+	HP
+	64
+	Attack of Opportunity (R)
+	Speed
+	20 feet
+	Melee
+	(A)
+	Dwarven Waraxe +12 (sweep, dwarf) Damage 1d8+4 slashing
+	Exacting Strike
+	(A)
+	Requirements Krossrani has a Multiple Attack Penalty 
+Effect Krossrani can make a Strike. If it misses, it does not count towards Multiple Attack Penalties this turn.
+	Intimidating Strike
+	(AA)
+	Krossrani makes a Strike. If it hits, the target is Frightened 1. If it’s a critical success, it is instead Frightened 2.
+	Shielded Stride
+	(A)
+	Requirements Krossrani has Raised his shield this turn
+Effect Krossrani Strides 10 feet without provoking reactions.
+	Raise Shield
+	(A)
+	Krossrani gains a +2 circumstance bonus to AC until the start of his next turn.
+	Bravery
+	When Krossrani rolls a success at a Will save against a fear effect, he gets a critical success instead. In addition, anytime he gains the frightened condition, reduce its value by 1.

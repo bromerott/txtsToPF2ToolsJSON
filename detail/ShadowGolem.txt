@@ -1,0 +1,56 @@
+SHADOW GOLEM
+	CREATURE
+	15
+	N
+	Large
+	Construct
+	Golem
+	Mindless
+	
+
+	
+
+	Perception
+	 +25; darkvision
+	Skills
+	Athletics +30
+	STR
+	+8
+	DEX
+	-1
+	CON
+	+4
+	INT
+	-5
+	WIS
+	+0
+	CHA
+	-5
+	AC
+	38
+	Fort
+	+30
+	Ref
+	+25
+	Will
+	+24
+	
+
+	HP
+	250; Immunities bleed, death effects, disease, doomed, drained, fatigued, fire, healing, magic (see below), mental, necromancy, nonlethal attacks, paralyzed, poison, sickened, unconscious; Resistances physical 15 (except adamantine)
+	Shadow Aura A shadow golem constantly exudes an aura of eerie shadowy illumination, causing the area surrounding it to a distance of 60 feet to function as if illuminated by dim light, regardless of the ambient lighting (or lack thereof). As long as a shadow golem is in dim light (such as that granted by its own aura), it gains a +2 status bonus to its AC and has a fly speed of 20 ft. 
+
+
+Additionally, whenever a character attempts to cast a spell with the light trait in the aura, the aura attempts to automatically counteract it. (spell level 7th, counteract modifier +28).
+	Golem Antimagic harmed by acid (6d10, 2d8 from areas and persistent damage); healed by fire (area 2d8 HP); slowed by electricity
+	Vulnerable to Light Casting a spell with the light descriptor on a Shadow Golem automatically suppresses its aura for 1 minute.
+	Vulnerable to Searing Light Casting a Searing Light spell on a Shadow Golem deals no damage to it, but makes it slowed 1 for 1 minute. (no save)
+	Speed
+	20 feet, fly 20 feet (see Shadow Aura)
+	Melee
+	(A)
+	fist +32 [+27/+22] (magical, reach 10 feet), Damage 4d10+12 bludgeoning
+	Breath Weapon
+	(AA)
+	(arcane, necromancy, poison) The Shadow Golem frees shadow magic from its core in a 30-foot cone. Any creature in the area must make a DC 37 Fortitude save or be enfeebled 2 and stunned 1.
+	________________

@@ -1,0 +1,56 @@
+LICTOR OCTAVIO SABINUS
+	CREATURE
+	7
+	LG
+	Medium
+	Humanoid
+	Human
+	
+
+	
+
+	
+
+	
+
+	
+
+	Perception
+	 +15
+	Languages
+	 Common
+	Skills
+	Athletics +17, Intimidation +17, Stealth +12
+	STR
+	+4
+	DEX
+	+3
+	CON
+	+2
+	INT
+	+0
+	WIS
+	+1
+	CHA
+	+2
+	AC
+	28
+	Fort
+	+18
+	Ref
+	+12
+	Will
+	+15
+	
+
+	HP
+	115
+	Attack of Opportunity (R)
+	Speed
+	20 feet
+	Melee
+	(A)
+	striking halberd +18 (magical), Damage 2d10+9 piercing plus 2d6 lawful
+	Divine Prepared Spelcasting
+	(A)
+	DC 24; 5th Locate 3rd zone of truth (x3) 1st detect alignment (at will); 

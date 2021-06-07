@@ -1,0 +1,59 @@
+ERUBDIYA
+	CREATURE
+	9
+	N
+	Large
+	Ooze
+	
+
+	
+
+	
+
+	
+
+	Perception
+	+18; darkvision
+	Languages
+	Common, Infernal
+	Skills
+	Acrobatics +18, Athletics +16, Deception +17, Intimidation +19, Occultism +20, Stealth +20
+	STR
+	+3
+	DEX
+	+4
+	CON
+	+3
+	INT
+	+1
+	WIS
+	+3
+	CHA
+	+5
+	AC
+	28
+	Fort
+	+15
+	Ref
+	+20
+	Will
+	+18
+	
+
+	HP
+	160
+	Speed
+	25 feet, climb 25 feet
+	Melee
+	(A)
+	fangs +19 [+15/+11] (agile, finesse), Damage 2d8+9 piercing plus spirit naga venom
+	Spit
+	(A)
+	Erubdiya makes an attack with a +20 bonus against a creature within 30 feet of it in order to entangle them. A target struck with the goo has its Speed reduced by 15 feet. A creature can end the effect by spending a total of 3 Interact actions to carefully remove the sticky substance.
+	Occult Spontaneous Spells
+	DC 28, attack +20; 5th black tentacles, sending, subconscious suggestion (3 slots); 4th clairvoyance, confusion, fly, modify memory (4 slots); 3rd dream message, mind reading, paralyze, vampiric touch (4 slots); 2nd blur, humanoid form, mirror image, telekinetic maneuver (4 slots); 1st charm, command, grim tendrils, unseen servant (4 slots); Cantrips (5th) daze, detect magic, mage hand, read aura, sigil
+
+
+	Slime Naga Venom
+	(poison) Saving Throw DC 28; Maximum Duration 6 rounds; Stage 1 2d6 poison damage and stupefied 1 (1 round); Stage 2 2d6 poison damage and stupefied 2 (1 round)
+	________________

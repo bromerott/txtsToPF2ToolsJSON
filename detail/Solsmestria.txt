@@ -1,0 +1,55 @@
+SOLSMESTRIA
+	CREATURE
+	15
+	CN
+	Medium
+	Humanoid
+	Strix
+	
+
+	
+
+	
+
+	Perception
+	+29
+	Skills
+	Arcana +26, Lore +26, Nature +29
+	STR
+	+3
+	DEX
+	+7
+	CON
+	+4
+	INT
+	+5
+	WIS
+	+8
+	CHA
+	+1
+	AC
+	36
+	Fort
+	+23
+	Ref
+	+26
+	Will
+	+29
+	
+
+	HP
+	260
+	Speed
+	fly 60 feet
+	Melee
+	(A)
+	shortsword +28 Damage 3d6+13+1d6 fire
+	The Wind at Our Backs, We Protect This Land
+	(F)
+	(metamagic) If Solsmestria’s next action is to cast Punishing Winds, she can choose up to six allies within range to protect them from the spell. Affected allies treat their saving throws against the spell as one degree of success better.
+	Overwhelming Energy
+	(A)
+	If the next action Solsmestria uses is to Cast a Spell, the spell ignores 15 of the target’s resistance to acid, cold, electricity, fire, or sonic damage. This applies to all damage the spell deals, including persistent damage and damage caused by an ongoing effect of the spell, such as the wall created by wall of fire. A creature’s immunities are unaffected.
+	Primal Prepared Spells
+	DC 37, attack +29; 8th All is One, One is All, Punishing Winds; 7th energy aegis, regenerate (x2); 6th chain lightning (x3); 5th tree stride, death ward, cone of cold; 4th freedom of movement, hydraulic torrent; Cantrips (8th) electric arc
+	________________

@@ -1,0 +1,57 @@
+YOULUBILIS TRAPPER
+	CREATURE
+	13
+	LN
+	Large
+	Aberration
+	
+
+	
+
+	
+
+	
+
+	Perception
+	+25; darkvision
+	Skills
+	Acrobatics +23, Athletics +27, Stealth +27 (+30 in sewers)
+	STR
+	+8
+	DEX
+	+6
+	CON
+	+7
+	INT
+	-4
+	WIS
+	+6
+	CHA
+	+4
+	AC
+	32
+	Fort
+	+26
+	Ref
+	+21
+	Will
+	+23
+	
+
+	HP
+	285
+	Speed
+	20 feet, swim 30 feet
+	Melee
+	(A)
+	jaws +27 [+22/+17] (reach 10 feet), Damage 3d12+14 piercing plus Improved Grab
+	Melee
+	(A)
+	tentacle +27 [+23/+19] (agile, reach 15 feet), Damage 3d8+14 bludgeoning plus Improved Grab
+	Flailing Tentacles
+	(A)
+	The trapper makes up to four tentacle Strikes, each against a different target. These count toward the froghemoth's multiple attack penalty, but the multiple attack penalty doesn't increase until after all the attacks.
+	Greater Constrict
+	(A)
+	3d6+12, DC 33
+	________________

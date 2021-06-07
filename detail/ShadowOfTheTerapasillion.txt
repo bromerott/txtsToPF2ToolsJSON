@@ -1,0 +1,55 @@
+SHADOW OF THE TERAPASILLION
+	CREATURE
+	13
+	LE
+	Large
+	Undead
+	Shadow
+	
+
+	
+
+	
+
+	Perception
+	+20; darkvision
+	Skills
+	Athletics +27, Intimidation +22, Stealth +26 (+29 to Hide in dim light)
+	STR
+	+8
+	DEX
+	+2
+	CON
+	+5
+	INT
+	+0
+	WIS
+	+1
+	CHA
+	+3
+	AC
+	33
+	Fort
+	+25
+	Ref
+	+20
+	Will
+	+23
+	
+
+	HP
+	280; Immunities death effects, disease, paralyzed, poison, precision, unconscious; Resistances all 10 (except force, ghost touch, or positive; double resistance against non-magical); Weaknesses light vulnerability
+	Attack of Opportunity (R)
+	Speed
+	30 feet, fly 30 feet
+	Melee
+	(A)
+	shadow hand +27 [+22/+17] (finesse, magical), Damage 3d8+18 negative
+	Steal Shadow
+	(A)
+	(divine, necromancy) Requirement The shadow hit a living creature with a shadow hand Strike on its previous action. Effect The shadow pulls at the target’s shadow, making the creature enfeebled 1. This is cumulative with other enfeebled conditions from shadows, to a maximum of enfeebled 4. If this increases a creature’s enfeebled value to 3 or more, the target’s shadow is separated from its body (see shadow spawn). Enfeebled from Steal Shadow decreases by 1 every hour.
+	Slink in Shadow
+	The greater shadow can Hide or end its Sneak in a creature’s or object’s shadow.
+	Shadow Spawn
+	When a creature’s shadow is pulled free by Steal Shadow, it becomes a shadow spawn under the command of the greater shadow that created it. This shadow spawn doesn’t have Steal Shadow. If the creature the shadow spawn was pulled from dies, the shadow spawn becomes a full-fledged, autonomous shadow. If the creature recovers from its enfeeblement, its shadow returns to it and the shadow spawn is extinguished.
+	________________

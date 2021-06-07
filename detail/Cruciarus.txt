@@ -1,0 +1,57 @@
+CRUCIARUS
+	CREATURE
+	9
+	LE
+	Medium
+	Incorporeal
+	Undead
+	
+
+	
+
+	
+
+	
+
+	Perception
+	+22; darkvision
+	Skills
+	Arcana +21, Deception +21, Intimidation +23, Occultism +23, Stealth +19
+	STR
+	+7
+	DEX
+	+3
+	CON
+	+5
+	INT
+	+4
+	WIS
+	+5
+	CHA
+	+5
+	AC
+	31
+	Fort
+	+20
+	Ref
+	+18
+	Will
+	+24
+	
+
+	HP
+	175 (negative healing); Immunities death effects, disease, paralyzed, poison, spell deflection, unconscious
+	Speed
+	fly 30 feet
+	Melee
+	(A)
+	pain touch +24 [+20/+16] (agile), Damage 6d6 negative plus pain touch
+	Tortured Gaze
+	(A)
+	(visual) The cruciarus can channel the excruciating pain it felt as it died of doghousing against a target within 30 feet of it. The target must make a basic DC 31 Fortitude save against 6d4 points of mental damage. On a failure, the target is also fatigued.
+	Pain Touch
+	A cruciarus’ attacks cause wracking, agonizing pains to tear through a victim’s body. It ignores all kinds of resistances, but does not harm undead. Creatures affected by pain touch make a DC 31 Fortitude save or become stunned 1 from the pain.
+
+
+The stunned condition from a cruciarus can stack with itself or other cruciaruses’.
+	________________

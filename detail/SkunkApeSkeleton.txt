@@ -1,0 +1,56 @@
+SKUNK APE SKELETON
+	CREATURE
+	3
+	NE
+	Large
+	Mindless
+	Skeleton
+	Undead
+	
+
+	
+
+	Perception
+	+7; darkvision
+	Skills
+	Athletics +12, Intimidation +9
+	STR
+	+5
+	DEX
+	+1
+	CON
+	+3
+	INT
+	-5
+	WIS
+	+0
+	CHA
+	+2
+	AC
+	17
+	Fort
+	+10
+	Ref
+	+8
+	Will
+	+7
+	
+
+	HP
+	50; negative healing Immunities death effects, disease, mental, paralyzed, poison, unconscious; Resistances cold 5, electricity 5, fire 5, piercing 5, slashing 5
+	Speed
+	30 feet
+	Melee
+	(A)
+	Claws +12 (deadly d8, forceful, reach 15 feet), Damage 1d8+7 slashing
+	Melee
+	(A)
+	Bite +12 (agile), Damage 1d10+5 piercing
+	Broad Swipe
+	(AA)
+	The skeleton makes two Strikes against two adjacent foes, both of whom are within its reach. The multiple attack penalty does not increase until after both attacks are resolved.
+	Fetid Smell
+	Creatures that enter a space 5 feet within the Skunk Ape Skeleton must make a DC 15 Fortitude save
+Success Unaffected
+Failure Sickened 1
+Critical Failure Sickened 3

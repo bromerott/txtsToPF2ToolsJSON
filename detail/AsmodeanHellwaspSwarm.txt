@@ -1,0 +1,50 @@
+ASMODEAN HELLWASP SWARM
+	CREATURE
+	10
+	N
+	Large
+	Animal
+	Fiend
+	Swarm
+	
+
+	
+
+	Perception
+	+120 greater darkvision
+	Skills
+	 Athletics +18, Stealth +21
+	STR
+	+1
+	DEX
+	+6
+	CON
+	+4
+	INT
+	-5
+	WIS
+	+3
+	CHA
+	-5
+	AC
+	28
+	Fort
+	+19
+	Ref
+	+19
+	Will
+	+14
+	
+
+	HP
+	130; Immunities precision, swarm mind; Resistances bludgeoning 5, piercing 10, slashing 10; Weaknesses area damage 10, splash damage 10
+	Trigger A creature leaves the swarm's space; Effect The swarm takes 1d6 damage as ticks cling to the creature and continue biting, dealing 3d6 persistent piercing damage. Immersion in water reduces the DC of the flat check to end this persistent damage to 5, and any area damage dealt to the creature destroys these clinging ticks.
+	Speed
+	25 feet, fly 25 feet
+	Swarming Stings
+	(A)
+	Each enemy in the swarm's space takes 4d6 piercing damage (DC 30 basic Reflex save) plus Cling and exposure to hellwasp venom
+	Hellwasp Venom
+	(A)
+	Saving Throw DC 29 Fortitude; Onset 1 day; Stage 1 enfeebled (1 day); Stage 2 enfeebled 2 (1 day).
+	________________

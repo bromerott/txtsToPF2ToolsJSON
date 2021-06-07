@@ -1,0 +1,54 @@
+REEFCLAW
+	CREATURE
+	2
+	N
+	Medium
+	Animal
+	
+
+	
+
+	
+
+	
+
+	Perception
+	+7; low-light vision
+	Skills
+	Athletics +8, Stealth +7 (+11 in water)
+	STR
+	+4
+	DEX
+	+1
+	CON
+	+3
+	INT
+	-5
+	WIS
+	+1
+	CHA
+	-4
+	Items
+	Rapier, Shortbow (20 arrows), leather armor
+	AC
+	18
+	Fort
+	+9
+	Ref
+	+7
+	Will
+	+5
+	
+
+	HP
+	30
+	Speed
+	20 feet, swim 25 feet
+	Melee
+	(A)
+	jaws +10, Damage 1d10+6 piercing plus Grab
+	Aquatic Ambush
+	(A)
+	35 feet
+	Surprise Attacker
+	On the first round of combat, creatures that haven’t acted yet are flat-footed to the Reefclaw.

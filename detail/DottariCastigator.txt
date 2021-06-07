@@ -1,0 +1,56 @@
+DOTTARI CASTIGATOR
+	CREATURE
+	3
+	LE
+	Medium
+	Humanoid
+	Human
+	
+
+	
+
+	
+
+	Perception
+	+8
+	Languages
+	Common
+	Skills
+	Athletics +11, Diplomacy +6, Intimidation +9, Legal Lore +7, Society +5
+	STR
+	+4
+	DEX
+	+1
+	CON
+	+3
+	INT
+	+0
+	WIS
+	+1
+	CHA
+	+1
+	AC
+	20
+	Fort
+	+10
+	Ref
+	+6
+	Will
+	+8
+	
+
+	HP
+	45
+	Air of Authority
+	(aura, emotion, mental) 10 feet. Creatures in the aura who are the same or
+lower level than the castigator take a –2 status penalty to their Will DC against the castigator’s attempts to Coerce or Demoralize them.
+	Attack of Opportunity (R)
+Raise Shield (R)
+	Speed
+	25 feet
+	Melee
+	(A)
+	warhammer +13 (shove), Damage 1d8+7 bludgeoning
+	The First To Strike
+	(AA)
+	The castigator Strides twice. If they end their movement within melee reach of at least one enemy, they can make a melee Strike against that enemy

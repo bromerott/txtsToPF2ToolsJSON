@@ -1,0 +1,59 @@
+GLOBSTER
+	CREATURE
+	7
+	N
+	Huge
+	Mindless
+	Huge
+	
+
+	
+
+	
+
+	Perception
+	+9; motionsense 60 feet, no vision
+	Skills
+	Athletics +18
+	STR
+	+7
+	DEX
+	-5
+	CON
+	+7
+	INT
+	-5
+	WIS
+	+0
+	CHA
+	-5
+	Motion
+sense
+	A globster can sense nearby motion through vibration and air movement.
+	AC
+	14
+	Fort
+	+18
+	Ref
+	+6
+	Will
+	+11
+	
+
+	HP
+	165 Immunities acid, critical hits, mental, piercing, precision, slashing, unconscious, visual
+	Corrosive Mass
+	A creature that hits the globster with a metal or wooden weapon must succeed at a DC 22 Reflex save or the weapon takes 2d6 acid damage (after dealing damage to the globster as normal). Thrown weapons and ammunition take this damage automatically with no save.
+	Speed
+	20 feet; climb 20 feet; suction
+	Melee
+	(A)
+	pseudopod +18 (reach 10 feet), Damage 2d8+7 bludgeoning plus 2d6 acid, Nausea, and Grab
+	Constrict
+	(A)
+	1d8+7 bludgeoning plus 1d6 acid, DC 26
+	Nausea
+	Creatures hit by a Globster’s pseudopod must succeed on a DC 26 Fortitude save or be sickened 3.
+	Suction
+	The Globster can climb on ceilings and other inverted surfaces, though such surfaces are difficult terrain for it.
+	________________

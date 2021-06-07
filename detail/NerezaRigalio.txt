@@ -1,0 +1,50 @@
+NEREZA RIGALIO
+	CREATURE
+	15
+	LE
+	Medium
+	Devil
+	Fiend
+	
+
+	
+
+	
+
+	Perception
+	+22; greater darkvision
+	Languages
+	Celestial, Common, Draconic, Infernal; telepathy 100 feet
+	Skills
+	Acrobatics +29, Deception +28, Diplomacy +28, Intimidation +28, Society +26, Stealth +29
+	STR
+	+3
+	DEX
+	+8
+	CON
+	+4
+	INT
+	+5
+	WIS
+	+1
+	CHA
+	+7
+	AC
+	36
+	Fort
+	+23
+	Ref
+	+29
+	Will
+	+22
+	+1 vs magic
+	HP
+	275
+	Speed
+	25 feet,
+	Ranged
+	(A)
+	longbow +28 Damage 3d8+13 piercing
+	Divine Innate Spells
+	DC 37, attack +29; 8th Discern Location, Dream Council; 7th Dimensional Lock, Magnificent Mansion, Project Image; 6th True Seeing, Teleport, Mislead; 5th Tongues, Shadow Walk, Sending; 4th Glibness (x3); 3rd Zone of Truth, Locate, Dream Message; Cantrips (8th) Telekinetic Projectile
+	________________

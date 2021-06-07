@@ -1,0 +1,60 @@
+THE GARDENER 
+	CREATURE
+	12
+	LE
+	Medium
+	Humanoid
+	Vishkanya
+	
+
+	
+
+	
+
+	Perception
+	+22
+	Languages
+	Common, Elven, Draconic, Infernal
+	Skills
+	Acrobatics +18, Arcana +23, Diplomacy +16, Intimidation +16, Harrow Lore +23, Medicine +19, Nature +21, Survival +21
+	STR
+	+0
+	DEX
+	+4
+	CON
+	+3
+	INT
+	+5
+	WIS
+	+3
+	CHA
+	+1
+	AC
+	26
+	Fort
+	+17
+	Ref
+	+18
+	Will
+	+19
+	
+
+	HP
+	125
+	Speed
+	20 feet
+	Melee
+	(A)
+	mace+20 [+11/+6] (two-hand d8), Damage 1d6+6 bludgeoning
+	Primal Prepared Spells DC 30, attack +20; 6th summon plant, flesh to stone, tangling creepers; 5th control water, lightning storm, plant form, tree stride; 4th spike stones, stoneskin, fly, freedom of movement; 3rd lightning bolt, wall of thorns, aqueous orb; 2nd resist energy, tree shape, entangle (x2); 1st fleet step, gust of wind, shillelagh; Cantrips (6th) produce flame, tanglefoot
+
+Wizard School Spells 2 Focus Points, DC 30; 6th tempest surge, primal summons
+	Drain Bonded Item
+	(F)
+	Frequency Once per day. Requirements The gardener hasn’t acted yet on this turn. Effect The gardener expends the power stored in its signet ring. This gives her the ability to cast one prepared spell it had already previously cast today, without spending a spell slot. The gardener must still Cast the Spell and meet the spell’s other requirements.
+	Reach Spell
+	(A)
+	If the next action the gardener uses is to Cast a Spell that has a range, increase that spell's range by 30 feet. As is standard for increasing spell ranges, if the spell normally has a range of touch, extend its range to 30 feet.
+
+
+	________________

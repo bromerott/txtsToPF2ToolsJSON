@@ -1,0 +1,71 @@
+ALUCEDA ZHOL
+	CREATURE
+	12
+	CE
+	Medium
+	Undead
+	Vampire
+	
+
+	
+
+	
+
+	Perception
+	+26; darkvision
+	Languages
+	Common, Necril
+	Skills
+	Acrobatics +23, Arcana +27, Athletics +22, Deception +24, Diplomacy +26, Intimidation +28, Society +25, Stealth +25
+	STR
+	+6
+	DEX
+	+4
+	CON
+	+1
+	INT
+	+6
+	WIS
+	+4
+	CHA
+	+5
+	Children of the Night (divine, enchantment, mental)
+	AC
+	33
+	Fort
+	+21
+	Ref
+	+24
+	Will
+	+26
+	+1 status to saves vs. magic
+	HP
+	185 (coffin restoration, fast healing 10, negative healing); Immunities death effects, disease, paralyze, poison, sleep; Resistances physical 10 (except magical silver); Weaknesses vampire weaknesses
+	Mist Escape (F)
+	Speed
+	25 feet, climb 25 feet
+	Melee
+	(A)
+	claw +24 (agile), Damage 2d8+15 slashing plus Grab
+	Change Shape
+	(A)
+	(concentrate, divine, polymorph, transmutation) Giant bat with fangs +23 for 2d8+15 piercing.
+	Divine Innate Spells DC 35; attack +25; 5th Shadow Blast, Abyssal Plague 4th harm, phantasmal killer, vampiric maiden, enervation; 3rd vampiric touch, chilling darkness (x3); 2nd Death Knell, Ghoulish Cravings, See Invisibility, Sudden Blight; 1st harm (x4); Cantrips (4th) chill touch, divine lance
+	Infernal Wound
+(A)
+	If a creature dies after being reduced to 0 HP by Drink Blood, Aluceda can turn this victim into a vampire by donating some of its own blood to the victim and burying the victim in earth for 3 nights. If the new vampire is lower level than its creator, it is under the creator’s control. If a vampire controls too many spawn at once (as determined by the GM), strong-willed spawn can free themselves by succeeding at a Will saving throw against the vampire’s Will DC.
+	Dominate
+	(A)
+	(divine, enchantment, incapacitation, mental, visual) DC 32
+	Drain Bonded Item
+	(F)
+	Frequency Once per day. Requirements Aluceda
+ hasn’t acted yet on this turn. Effect Aluceda expends the power stored in its signet ring. This gives her the ability to cast one prepared spell it had already previously cast today, without spending a spell slot. Aluceda must still Cast the Spell and meet the spell’s other requirements.
+	Drink Blood
+	(A)
+	 (divine, necromancy) When Drinking Blood, Aluceda regains 10 HP.
+	Steady Spellcasting
+	If another creature’s reaction would disrupt Aluceda’s spellcasting action, she attempts a DC 15 flat check. If she succeeds, her action isn’t disrupted.
+	Turn to Mist
+	(A)
+	(concentrate, divine, transmutation) Aluceda turns into a cloud of vapor, as the gaseous form spell, or back to its normal form. Aluceda loses fast healing while in gaseous form. Aluceda can remain in this form indefinitely.

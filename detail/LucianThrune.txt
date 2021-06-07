@@ -1,0 +1,65 @@
+LUCIAN THRUNE
+	CREATURE
+	10
+	LE
+	Medium
+	Humanoid
+	Human
+	
+
+	
+
+	
+
+	
+
+	
+
+	Perception
+	 +20
+	Languages
+	 Common
+	Skills
+	Diplomacy +22, Intimidation +22, Nature +22
+	STR
+	+6
+	DEX
+	+4
+	CON
+	+6
+	INT
+	+3
+	WIS
+	+3
+	CHA
+	+4
+	Lion’s Call
+	Lucian gains the ability to rally his allies. As an action, he can give an encouraging speech which grants all allies within 60 feet a 4 competence bonus on their saving throws against fear  and a +2 competence bonus on attack rolls for 10 rounds.. If an ally within range is under the effect of a spell or ability that causes him to be frightened or panicked, he can immediately make another saving throw to resist the effect (if allowed).
+	AC
+	30
+	Fort
+	+23
+	Ref
+	+17
+	Will
+	+20
+	
+
+	HP
+	175
+	Attack of Opportunity (R)
+	Speed
+	25 feet
+	Melee
+	(A)
+	flaming longsword +23 (fire), Damage 2d8+13 slashing plus 1d6 firel
+	Cavalier’s Charge
+	(AA)
+	With a quick sprint, Lucian Strides twice. If he ends his movement within melee reach of at least one enemy, he can make a melee Strike against that enemy with a +2 to hit. He may do so when riding a mount, using any of the mount’s movements.
+	Challenge
+	(A)
+	Lucian’s melee attacks deal +7 extra damage whenever the attacks are made against the target of his challenge. He also gets a +2 circumstance bonus to AC against attacks from the challenged target.
+	Follow me!
+	(A)
+	Lucian grants all allies within 30' the Distracting Charge ability for 7 rounds. Distracting Charge: When an ally takes the cavalier’s charge action you get +1 to attack the target of the charge.
+	________________

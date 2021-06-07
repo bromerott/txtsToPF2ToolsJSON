@@ -1,0 +1,60 @@
+VAMPIRIC HOUND
+	CREATURE
+	11
+	LE
+	Medium
+	Devil
+	Fiend
+	
+
+	
+
+	
+
+	Perception
+	+17; greater darkvision
+	Skills
+	Acrobatics +27, Athletics +25,  Stealth +17, Survival +23 (+27 to Track)
+	STR
+	+4
+	DEX
+	+6
+	CON
+	+2
+	INT
+	+2
+	WIS
+	+4
+	CHA
+	+2
+	AC
+	25
+	Fort
+	+13
+	Ref
+	+17
+	Will
+	+15
+	+1 vs magic
+	HP
+	150; Immunities cold; Resistances fire 10
+	Speed
+	25 feet,
+	Melee
+	(A)
+	jaws +25 [+20/+15] (reach 10 feet), Damage 2d12+14 piercing
+	Melee
+	(A)
+	claw +24 [+20/+16] (agile, reach 20 feet), Damage 2d10+14 piercing plus Grab
+	Drink Blood
+	(A)
+	Requirement A grabbed, paralyzed, restrained, unconscious, or willing creature is within the vampire's reach. Effect The hound sinks its fangs into that creature to drink its blood. This requires an Athletics check against the victim's Fortitude DC if the victim is grabbed and is automatic for any of the other conditions. The victim is drained 1 and the hound regains 5 HP, gaining any excess HP as temporary Hit Points.
+	Sneak Attack
+	The vampiric hound deals an extra 2d6 precision damage to flat-footed creatures.
+	
+
+	
+
+	
+
+	________________

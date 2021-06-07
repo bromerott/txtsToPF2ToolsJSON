@@ -1,0 +1,56 @@
+GREATER LEMURE
+	CREATURE
+	2
+	LE
+	Medium
+	Devil
+	Fiend
+	Mindless
+	
+
+	
+
+	Perception
+	+4; greater darkvision
+	Skills
+	Athletics +10
+	STR
+	+4
+	DEX
+	+0
+	CON
+	+4
+	INT
+	-5
+	WIS
+	+0
+	CHA
+	-3
+	AC
+	16
+	Fort
+	+10
+	Ref
+	+6
+	Will
+	+6
+	
+
+	HP
+	30 Immunities fire, mental; Weaknesses good 3; 
+Resistances physical 3 (except silver), poison 5
+	Attack of Opportunity (R)
+	Speed
+	20 feet
+	Melee
+	(A)
+	Claws +10 (evil, magical) Damage 1d8+4 slashing plus 1 evil
+	Melee
+	(A)
+	Bite +10 (evil, magical, agile) Damage 1d6+4 slashing plus 1 evil
+	Disgusting Horror
+	When a creature is bitten by a Greater Lemure, the devil engulfs its head for a brief period of time, sickening it by the feel of the writhing mass inside it. The creature must make a DC 18 Fortitude save.
+Success: Sickened 1. 
+Critical Success: Unaffected. 
+Failure: Sickened 2.
+Critical Failure: Sickened 4.

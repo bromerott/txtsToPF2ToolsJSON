@@ -1,0 +1,91 @@
+OUGHORTHAN
+	CREATURE
+	21
+	LE
+	Large
+	Devil
+	Fiend
+	
+
+	
+
+	
+
+	Perception
+	+39; greater darkvision, true seeing
+	Languages
+	Celestial, Common, Draconic, Infernal; telepathy 100 feet
+	Skills
+	Acrobatics +36, Arcana +34, Athletics +35, Deception +41, Diplomacy +36, Intimidation +41, Religion +39, Society +38, Stealth +36
+	STR
+	+9
+	DEX
+	+5
+	CON
+	+6
+	INT
+	+5
+	WIS
+	+6
+	CHA
+	+4
+	AC
+	48
+	Fort
+	+39
+	Ref
+	+34
+	Will
+	+37
+	+1 vs magic
+	HP
+	380 (regeneration 30 (deactivated by good)); Immunities fire; Resistances physical 15 (except silver), poison 15; Weaknesses good 15
+	Commander’s Aura (aura, divine, enchantment) 100 feet. Commanded or allied evil creatures in the aura of lower level than the pit fiend gain a +1 circumstance bonus to attack rolls, damage rolls, AC, saves, and skill checks.
+	Frightful Presence (aura, divine, emotion, enchantment, fear, mental) 20 feet, DC 44
+
+
+Attack of Opportunity (R) The pit fiend can make an Attack of Opportunity when a creature within reach uses a concentrate action, in addition to the usual trigger. The devil can disrupt triggering concentrate actions, and they disrupt actions on any hit, not only a critical hit.
+	Speed
+	35 feet, fly 50 feet
+	Melee
+	(A)
+	trident +42 [+37/+32] (evil, magical, poison, reach 10 feet), Damage 4d10+17 piercing plus 2d6 evil and pit fiend venom
+	Melee
+	(A)
+	claw +40 [+36/+32] (agile, evil, magical, reach 10 feet), Damage 4d6+17 slashing plus 2d6 evil
+	Melee
+	(A)
+	tail +38 [+33/+28] (evil, magical, reach 10 feet), Damage 4d10+17 bludgeoning plus 2d6 evil and Improved Grab
+	Melee
+	(A)
+	wing +38 [+33/+28] (evil, magical, reach 15 feet), Damage 4d6+17 slashing plus 2d6 evil
+	Divine Innate Spells
+	DC 44; 10th meteor swarm, miracle (once per year), massacre, weapon of judgement; 9th overwhelming presence (at will); 8th dispel magic (at will), dominate (at will), fireball (at will), scrying, wall of fire (at will); 5th dimension door; 4th dimension door (at will); Constant (8th) true seeing
+	Constrict
+	(A)
+	2d10+17 bludgeoning plus 2d6 evil, DC 47
+	Fast Swoop
+	(A)
+	The pit fiend Flies and makes a wing Strike at any point during its movement.
+	Masterful Quickened Casting
+	(F)
+	(concentrate) Frequency once per round. Effect If the pit fiend's next action is to cast an 8th-level or lower innate spell, reduce the number of actions to cast it by 1 (minimum 1 action).
+	Pit Fiend Venom
+	(poison) Saving Throw DC 43 Fortitude; Maximum Duration 10 rounds; Stage 1 6d6 poison damage and drained 1 (1 round); Stage 2 7d6 poison damage and drained 2 (1 round); Stage 3 8d6 poison damage and drained 3 (1 round)
+
+
+
+
+
+
+
+
+	Devil Shaping
+	(divine, downtime, transmutation) The pit fiend reshapes a large number of lemures within a 600-foot radius into more powerful devils to swell Hell’s legions. The pit fiend must have available the number of lemures listed on the table in the sidebar. The pit fiend can shape 100 lemures per day, to a maximum of 1,100 lemures in 11 days. Devils created in this way are in thrall to the pit fiend and follow its orders, with the exception of created pit fiends or other devils of similar power, which are always independent. As a result, few pit fiends choose to create peers. At the end of the Devil Shaping activity, the pit fiend attempts an incredibly hard Religion check of the desired devil’s level, with results as follows.
+Critical Success The pit fiend shapes two devils from the massed lemures instead of one.
+Success The pit fiend shapes a devil of the desired type and level.
+Failure The devil shaped from the lemures is 2 levels lower than the intended devil.
+Critical Failure The pit fiend fails to shape any devils and draws the ire of an archdevil for its waste of resources.
+
+
+	________________

@@ -1,0 +1,70 @@
+JILIA BAINILUS (VAMPIRE)
+	CREATURE
+	10
+	CE
+	Medium
+	Undead
+	Vampire
+	
+
+	
+
+	
+
+	Perception
+	+22; darkvision
+	Languages
+	Common, Necril
+	Skills
+	Acrobatics +19, Arcana +23, Athletics +18, Deception +22, Diplomacy +22, Intimidation +24, Society +21, Stealth +21
+	STR
+	+6
+	DEX
+	+4
+	CON
+	+1
+	INT
+	+6
+	WIS
+	+4
+	CHA
+	+5
+	Children of the Night (divine, enchantment, mental)
+	AC
+	29
+	Fort
+	+17
+	Ref
+	+20
+	Will
+	+22
+	+1 status to saves vs. magic
+	HP
+	145 (coffin restoration, fast healing 10, negative healing); Immunities death effects, disease, paralyze, poison, sleep; Resistances physical 10 (except magical silver); Weaknesses vampire weaknesses
+	Mist Escape (F)
+	Speed
+	25 feet, climb 25 feet
+	Melee
+	(A)
+	claw +20 (agile), Damage 2d8+11 slashing plus Grab
+	Change Shape
+	(A)
+	(concentrate, divine, polymorph, transmutation) Giant bat with fangs +19 for 2d8+11 piercing.
+	Arcane Innate Spells DC 31; attack +19; 4th fire shield, phantasmal killer, veil, wall of fire; 3rd dispel magic, fireball, haste, lightning bolt; 2nd flaming sphere, invisibility, mirror image, touch of idiocy; 1st color spray (x2), fleet step, ray of enfeeblement; Cantrips (4th) detect magic, mage hand, message, ray of frost, sigil
+	Infernal Wound
+(A)
+	If a creature dies after being reduced to 0 HP by Drink Blood, Jilia can turn this victim into a vampire by donating some of its own blood to the victim and burying the victim in earth for 3 nights. If the new vampire is lower level than its creator, it is under the creator’s control. If Jilia controls too many spawn at once (as determined by the GM), strong-willed spawn can free themselves by succeeding at a Will saving throw against the vampire’s Will DC.
+	Dominate
+	(A)
+	(divine, enchantment, incapacitation, mental, visual) DC 28
+	Drain Bonded Item
+	(F)
+	Frequency Once per day. Requirements Jilia hasn’t acted yet on this turn. Effect Jilia expends the power stored in its signet ring. This gives her the ability to cast one prepared spell it had already previously cast today, without spending a spell slot. She must still Cast the Spell and meet the spell’s other requirements.
+	Drink Blood
+	(A)
+	 (divine, necromancy) When Drinking Blood, Jilia regains 10 HP.
+	Steady Spellcasting
+	If another creature’s reaction would disrupt Jilia’s spellcasting action, she attempts a DC 15 flat check. If she succeeds, its action isn’t disrupted.
+	Turn to Mist
+	(A)
+	(concentrate, divine, transmutation) Jilia turns into a cloud of vapor, as the gaseous form spell, or back to its normal form. Jilia loses fast healing while in gaseous form. She can remain in this form indefinitely.

@@ -1,0 +1,55 @@
+SKUM RAIDER
+	CREATURE
+	3
+	LE
+	Medium
+	Amphibious
+	Humanoid
+	
+
+	
+
+	
+
+	Perception
+	+8; darkvision
+	Languages
+	Alghollthu, Undercommon
+	Skills
+	Athletics +10, Intimidation +6, Stealth +9
+	STR
+	+4
+	DEX
+	+1
+	CON
+	+3
+	INT
+	+0
+	WIS
+	+0
+	CHA
+	-2
+	AC
+	18
+	Fort
+	+9
+	Ref
+	+9
+	Will
+	+6
+	
+
+	HP
+	55; Resistances cold 5
+	Speed
+	20 feet, swim 40 feet
+	Melee
+	(A)
+	trident +12, Damage 1d8+6 piercing
+	Ranged
+	(A)
+	trident +9 (thrown 20 feet), Damage 1d8+5 piercing
+	From the Depths We Come!
+	(A)
+	Requirements: The skum is in the water.
+Effect: The skum can jump to a space adjacent to an enemy within 30 feet of them and make a Strike.

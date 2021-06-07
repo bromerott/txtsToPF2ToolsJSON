@@ -1,0 +1,52 @@
+DOTTARI TROOP
+	CREATURE
+	8
+	LE
+	Gargantuan
+	Humanoid
+	Human
+	
+
+	
+
+	
+
+	Perception
+	+18
+	Languages
+	Common
+	Skills
+	Athletics +16
+	STR
+	+6
+	DEX
+	+1
+	CON
+	+4
+	INT
+	-5
+	WIS
+	+3
+	CHA
+	-5
+	AC
+	28
+	Fort
+	+19
+	Ref
+	+19
+	Will
+	+14
+	
+
+	HP
+	115 Immunities precision, swarm mind; Resistances bludgeoning 5, piercing 10, slashing 10; Weaknesses area damage 10, splash damage 10
+	Speed
+	25 feet
+	Disarm The Rebel!
+	(A)
+	Each enemy in the troop’s space takes 3d6 bludgeoning damage (DC 26 basic Reflex save), and the troop may try to disarm each target affected. 
+	Get this Rebel On The Ground!
+	(A)
+	Each enemy in the troop’s space takes 3d6 bludgeoning damage (DC 26 basic Reflex save), and the troop may try to trip each target affected. 
+	________________

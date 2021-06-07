@@ -1,0 +1,69 @@
+RIPTIDE GHAST
+	CREATURE
+	3
+	CE
+	Medium
+	Ghoul
+	Undead
+	
+
+	
+
+	
+
+	Perception
+	+10; darkvision
+	Languages
+	Common, Necril
+	Skills
+	Acrobatics +12, Athletics +9, Stealth +12, Survival +10
+	STR
+	+2
+	DEX
+	+4
+	CON
+	+2
+	INT
+	+1
+	WIS
+	+2
+	CHA
+	+3
+	Slow
+	The Plague Zombie is permanently Slowed 1.
+	AC
+	20
+	Fort
+	+8
+	Ref
+	+12
+	Will
+	+10
+	
+
+	HP
+	45 (negative healing); Immunities death effects, disease, paralyzed, poison, unconscious
+	Stench
+	(aura, olfactory) 10 feet. A creature entering the aura or starting its turn in the aura must succeed at a DC 18 Fortitude save or become sickened 1 (plus slowed 1 as long as it's sickened on a critical failure). While within the aura, the creature takes a –2 circumstance penalty to saves against disease and to recover from the sickened condition. A creature that succeeds at its save is temporarily immune for 1 minute.
+	Speed
+	30 feet, swim 30 feet
+	Melee
+	(A)
+	 jaws +13 (finesse), Damage 1d6+7 piercing plus ghast fever and paralysis
+	Melee
+	(A)
+	claw +11 (agile, finesse), Damage 1d4+7 slashing plus paralysis
+	Swift Leap
+	(A)
+	(move) The ghast jumps up to half its Speed. This movement doesn’t trigger reactions.
+	Consume Flesh
+	(AA)
+	(manipulate) Requirements The ghast is adjacent to the corpse of a creature that died within the last hour. Effect The ghast devours a chunk of the corpse and regains 4d6 Hit Points. It can regain Hit Points from any given corpse only once.
+	Ghast Fever
+	
+
+	(disease) Saving Throw Fortitude DC 18; Stage 1 carrier with no ill effect (1 day); Stage 2 3d8 negative damage and regains half as many Hit Points from all healing (1 day); Stage 3 as stage 2 (1 day); Stage 4 3d8 negative damage and gains no benefit from healing (1 day); Stage 5 as stage 4 (1 day); Stage 6 dead, and rises as a ghast the next midnight
+	Paralysis
+	
+
+	(incapacitation, occult, necromancy) Any living creature (including elves) hit by a ghast's attack must succeed at a DC 18 Fortitude save or become paralyzed. It can attempt a new save at the end of each of its turns, and the DC cumulatively decreases by 1 on each such save.

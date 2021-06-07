@@ -1,0 +1,56 @@
+CHOUGH
+	CREATURE
+	2
+	NE
+	Medium
+	Humanoid
+	
+
+	
+
+	
+
+	
+
+	Perception
+	+8; darkvision
+	Languages
+	Undercommon
+	Skills
+	Athletics +8, Acrobatics +10, Stealth +6
+	STR
+	+4
+	DEX
+	+1
+	CON
+	+4
+	INT
+	-1
+	WIS
+	+2
+	CHA
+	+1
+	AC
+	17
+	Fort
+	+10
+	Ref
+	+8
+	Will
+	+5
+	
+
+	HP
+	38
+	Ferocity (R)
+	Speed
+	25 feet climb 25 feet
+	Melee
+	(A)
+	Claws +10 (agile) Damage 1d6+4 slashing
+	Aggressive Leap
+	(A)
+	Chough can, as part of a Stride action, make a DC 20 Acrobatics check. If she succeeds, her next Claw attack deals 1d10+4 damage instead of its normal damage.
+	Rend
+	(A)
+	Claw

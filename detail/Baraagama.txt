@@ -1,0 +1,60 @@
+BARAAGAMA
+	CREATURE
+	15
+	CN
+	Gargantuan
+	Aberration
+	Aquatic
+	
+
+	
+
+	
+
+	Perception
+	+24; darkvision, tremorsense (imprecise) 60 feet
+	Skills
+	Athletics +32
+	STR
+	+3
+	DEX
+	+6
+	CON
+	+3
+	INT
+	-2
+	WIS
+	+2
+	CHA
+	+0
+	AC
+	37
+	Fort
+	+32
+	Ref
+	+23
+	Will
+	+26
+	all-around vision
+	HP
+	300; Immunities acid Resistances cold 20
+	Naturally Invisible The invisible stalker is invisible at all times, though when it takes a hostile action of any kind, it is hidden instead of undetected until the start of its next turn, as the vague outline of its humanoid form is faintly visible for a short period of time.
+	Speed
+	60 feet, swim 60 feet
+	Melee
+	(A)
+	bite +32 [+27/+22] (magical, reach 15 feet), Damage 4d12+17 piercing
+	Melee
+	(A)
+	claw +32 [+28/+24] (agile, magical, reach 20 feet), Damage 3d10+17 slashing
+	Legendary Storm
+	(AAA)
+	Frequency: Once per day
+Baraagama can call forth a legendary storm, casting Cataclysm. However, it manifests only Incredible lightning, Beating winds and a tsunami (only 3 of the 7 effects).
+	Pull Apart
+	(AA)
+	Baraagama makes two claw Strikes against the same target. If both hit, the target takes an extra 2d12+13 slashing damage, with a DC 36 basic Fortitude save. On a critical failure, the creature is torn to pieces and dies. Baragaama’s multiple attack penalty increases only after all the attacks are made.
+	Thrash
+	(AA)
+	Baraagama Strikes once against each creature in its reach with its claws. Each attack takes a –2 circumstance penalty and counts toward the mukradi's multiple attack penalty, but the multiple attack penalty doesn’t increase until after all the attacks are made.
+	________________

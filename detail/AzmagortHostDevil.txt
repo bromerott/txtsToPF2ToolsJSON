@@ -1,0 +1,55 @@
+AZMAGORT, HOST DEVIL
+	CREATURE
+	8
+	LE
+	Medium
+	Devil
+	Fiend
+	
+
+	
+
+	
+
+	Perception
+	+18; greater darkvision, true seeing
+	Languages
+	Celestial, Common, Draconic, Infernal; telepathy 100 feet
+	Skills
+	Acrobatics +17, Crafting +14, Deception +19, Diplomacy +15, Intimidation +19, Religion +16, Stealth +17
+	STR
+	+5
+	DEX
+	+5
+	CON
+	+5
+	INT
+	+2
+	WIS
+	+4
+	CHA
+	+5
+	AC
+	27
+	Fort
+	+19
+	Ref
+	+17
+	Will
+	+16
+	+1 vs magic
+	HP
+	120 ; Immunities fire; Resistances physical 5 (except silver), poison 10; Weaknesses good 5
+	Speed
+	25 feet, fly 40 feet
+	Melee
+	(A)
+	flaming ranseur +19 [+14/+9] (evil, fire, magical, versatile P), Damage 1d10+8 slashing plus 1d6 evil and 1d6 fire
+	Melee
+	(A)
+	claw+19 [+15/+11] (evil, fire, magical, versatile P), Damage 1d8+8 slashing plus 1d6 evil and 1d6 fire
+	Divine Innate Spells
+	DC 26; 5th dimension door; 4th dimension door (at will), divine wrath, retributive pain; 3rd fear (at will); 2nd illusory disguise (at will), illusory object; Constant (6th) true seeing
+	Noxious Breath
+	(AA)
+	The host devil exhales a breath that reeks of pure corruption in a 30-foot cone. Creatures in the area must make a DC 26 Fortitude save or be sickened 2. Creatures that succeed are immune to this Host Devil’’s Noxious breath for 24 hours.

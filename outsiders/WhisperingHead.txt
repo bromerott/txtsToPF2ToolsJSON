@@ -1,0 +1,33 @@
+WHISPERING HEAD
+	CREATURE
+	14
+	Haunt
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	Complexity
+	Complex
+	Stealth
+	+22 (master)
+	Description
+	A barely visible spectral head hovers above a person, as faint whispers describing thoughts of suicide echo through the vicinity.
+	Disable Religion DC 32 (master) to utter a prayer with enough devotion to make it go away, as well as Diplomacy DC 30 (master) to give words of encouragement strong enough to overpower the haunt’s whispers.
+	Whispers of Suicide (R)  Trigger  A creature moves within 5 ft. of the whispering head; Effect The whispering head whispers thoughts of suicide into its head, compelling it to ends it life. The target is subjected to a 6th-level Phantasmal Killer spell (DC 30).
+	Routine (A) The whispering head moves 20 feet towards the nearest creature, prioritizing the latest target it has used Whispers of Suicide on.

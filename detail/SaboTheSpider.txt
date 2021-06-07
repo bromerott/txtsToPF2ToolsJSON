@@ -1,0 +1,57 @@
+SABO THE SPIDER
+	CREATURE
+	5
+	LE
+	Medium
+	Humanoid
+	Human
+	
+
+	
+
+	
+
+	
+
+	Perception
+	+11; 
+	Skills
+	Athletics +11, Deception +12, Intimidation +12, Religion +12, Society +9
+	STR
+	+4
+	DEX
+	+1
+	CON
+	+1
+	INT
+	+0
+	WIS
+	+3
+	CHA
+	+2
+	AC
+	24
+	Fort
+	+11
+	Ref
+	+9
+	Will
+	+13
+	
+
+	HP
+	73; 
+	Swear Vengeance
+	Trigger A creature Sabo can see damages a follower of Asmodeus other than Sabo; Effect Sabo gains the effect of a 1st-level true strike spell. 
+	Speed
+	20 feet
+	Melee
+	(A)
+	mace +14 (shove), Damage 1d8+6 bludgeoning
+	Divine Spellcasting
+	DC 21, attack +13; 2nd harm (×3), restoration, see invisibility, shield
+other; 1st detect alignment, magic weapon, spirit link; Cantrips (2nd) detect magic, divine lance, forbidding ward, read aura, sigil
+	Channel Smite
+	(AA)
+	Sabo expends a prepared harm spell and makes a melee Strike. Instead of the normal effect of the spell, its negative damage is added to the Strike’s damage.
+	________________

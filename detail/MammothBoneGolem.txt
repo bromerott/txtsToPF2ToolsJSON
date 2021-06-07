@@ -1,0 +1,54 @@
+MAMMOTH BONE GOLEM
+	CREATURE
+	13
+	N
+	Large
+	Construct
+	Golem
+	Mindless
+	
+
+	
+
+	Perception
+	+21; darkvision
+	Skills
+	Athletics +30
+	STR
+	+8
+	DEX
+	-1
+	CON
+	+4
+	INT
+	-5
+	WIS
+	+0
+	CHA
+	-5
+	AC
+	34
+	Fort
+	+26
+	Ref
+	+21
+	Will
+	+22
+	+1 vs magic
+	HP
+	190 ; Immunities bleed, death effects, disease, doomed, drained, fatigued, fire, healing, magic (see below), mental, necromancy, nonlethal attacks, paralyzed, poison, sickened, unconscious; Resistances physical 15 (except adamantine)
+	Golem Antimagic harmed by fire (6d10, 3d6 from areas or persistent damage); healed by cold (area 2d6 HP); slowed by sonic
+Vulnerable to Casting Bind Undead against the Bone Golem makes it slowed 1.
+Vulnerable to Casting Animate Dead against the Bone Golem deals 8d10 points of force damage as the bones rip apart from its body.
+	Speed
+	25 feet, fly 40 feet
+	Melee
+	(A)
+	fist +28 [+23/+18] (magical, reach 10 feet), Damage 3d10+12 bludgeoning
+	Bone Prison
+	(AA)
+	The Bone Golem throws some of its bones at a creature within 30 feet. The bones magically duplicate and form a cage surrounding the creature and trapping it. The cage has AC 5, Hardness 15, and 70 Hit Points. It's immune to critical hits and precision damage. Disintegrate destroys the sphere instantly. If the target is unwilling, the effects of the cage depend on the target's Reflex save.
+Critical Success The target breaks enough bones, causing the cage to collapse entirely.
+Success The cage functions normally but has only 20 Hit Points instead of 70.
+Failure The cage has its normal effect.
+	________________

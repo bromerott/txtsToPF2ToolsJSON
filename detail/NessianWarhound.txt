@@ -1,0 +1,60 @@
+NESSIAN WARHOUND
+	CREATURE
+	10
+	LE
+	Large
+	Beast
+	Fiend
+	Fire
+	
+
+	
+
+	
+
+	Perception
+	 +21; darkvision, scent (imprecise) 120 feet
+	Languages
+	  Infernal (can’t speak any language)
+	Skills
+	Acrobatics +20, Athletics +21, Stealth +20, Survival +22 (+24 to Track)
+	STR
+	+6
+	DEX
+	+5
+	CON
+	+5
+	INT
+	-2
+	WIS
+	+4
+	CHA
+	-2
+	AC
+	30
+	Fort
+	+23
+	Ref
+	+21
+	Will
+	+18
+	
+
+	HP
+	180; Immunities fire; Weaknesses cold 10
+	Hellish Revenge (R)  Trigger The Nessian warhound is critically hit by any Strike. Effect The Nessian warhound’s Breath Weapon recharges. It can immediately use it as part of this reaction.
+	Speed
+	40 feet
+	Melee
+	(A)
+	jaws +23 (magical), Damage 2d8+8 piercing plus 1d6 evil and 2d6 fire
+	Breath Weapon
+	(AA)
+	(divine, evocation, fire) The warhound breathes flames that deal 10d6 fire damage to all creatures in a 15-foot cone (DC 30 basic Reflex save.) The warhound can’t use Breath Weapon again for 1d4 rounds. If the Nessian warhound would take fire damage or be targeted by a fire effect, its Breath Weapon recharges.
+	
+
+
+
+
+
+________________

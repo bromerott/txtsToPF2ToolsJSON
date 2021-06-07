@@ -1,0 +1,52 @@
+SCARPLUME
+	CREATURE
+	4
+	NE
+	Medium
+	Humanoid
+	Strix
+	
+
+	
+
+	
+
+	Perception
+	+6; darkvision
+	Languages
+	Common, Strix
+	STR
+	+0
+	DEX
+	+2
+	CON
+	+2
+	INT
+	+0
+	WIS
+	+1
+	CHA
+	+4
+	AC
+	15
+	Fort
+	+7
+	Ref
+	+7
+	Will
+	+8
+	
+
+	HP
+	30
+	Speed
+	25 feet, fly 30 feet
+	Primal Spells
+	DC 15; 2nd (3/day) resist energy, flaming sphere, shrink 1st (4/day) burning hands, shocking grasp, longstrider Cantrips (2nd) produce flame, light, disrupt undead, electric arc, acid splash
+	Blood Magic
+	Whenever Scarplume casts Resist Energy, Burning Hands, Produce Flame or Elemental Toss, he can deal 1 point of fire damage to the targets of those spells
+	Elemental Toss
+	(A)
+	Spell attack +9 Damage 1d8 bludgeoning 
+	Signature Spells
+	Scarplume can Heighten Burning Hands freely

@@ -1,0 +1,57 @@
+LEGION ARCHON
+	CREATURE
+	8
+	LG
+	Medium
+	Archon
+	Celestial
+	
+
+	
+
+	
+
+	
+
+	
+
+	Perception
+	 +17; darkvision
+	Skills
+	Acrobatics +15, Athletics +16, Diplomacy +18, Intimidation +18, Religion +15, Survival +16
+	STR
+	+5
+	DEX
+	+2
+	CON
+	+4
+	INT
+	+1
+	WIS
+	+2
+	CHA
+	+5
+	AC
+	29
+	Fort
+	+19
+	Ref
+	+13
+	Will
+	+17
+	+1 vs magic
+	HP
+	100; Resistances fire 15; Weaknesses evil 10
+	Retributive Strike  (R) A legion archon can also make a Retributive Strike by throwing its flame of justice.
+	Speed
+	30 feet, fly 60 feet
+	Melee
+	(A)
+	flame of justice +18 (magical, versatile P), Damage 2d10+5 slashing plus 1d6 fire and 1d6 good
+	Ranged
+	(A)
+	flame of justice +15 (magical, range increment 30 feet, versatile P), Damage 2d10+5 slashing plus 1d6 fire and 1d6 good
+	Divine Innate Spells
+	DC 24; 4th dimension door (at will); 1st true strike (x3); Cantrips (4th) light, message; Constant (5th) tongues
+	Flame of Justice
+	If disarmed or thrown, the flame of justice vanishes after landing or dealing damage and reappears in the legion archon’s hands again instantly. On a critical hit, the fire damage from the flame of justice deals maximum damage (6 on the d6) before being doubled for the critical hit, and the target takes 1d10 persistent fire damage.

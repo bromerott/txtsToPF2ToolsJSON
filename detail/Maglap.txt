@@ -1,0 +1,65 @@
+MAGLAP
+	CREATURE
+	6
+	CE
+	Medium
+	Aberration
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	Perception
+	+14; darkvision 
+	Skills
+	Acrobatics +16, Athletics +16, Deception +17, Stealth +17, Thievery +13
+	STR
+	+0
+	DEX
+	+4
+	CON
+	+1
+	INT
+	+4
+	WIS
+	+3
+	CHA
+	+5
+	AC
+	25
+	Fort
+	+13
+	Ref
+	+13
+	Will
+	+16
+	+2 status to saves vs. auditory and visual
+	HP
+	90; Resistances bludgeoning 5
+	Speed
+	25 feet
+	Melee
+	(A)
+	longsword +18 (versatile P), Damage 1d8+10 slashing
+	Melee
+	(A)
+	claw +16 (agile), Damage 2d6+10 slashing plus Grab
+	Blood Nourishment
+	(A)
+	Maglap uses its three-pronged tongue to drink the blood of an adjacent restrained or unconscious creature. The creature gains drained 1.
+	Revert Form
+	(R)
+	Requirements Maglap is in an assumed form. Effect The faceless stalker resumes its true form. Until the start of its next turn, it gains a +2 status bonus to attack rolls, damage rolls, saving throws, and skill checks.
+	Assume Form
+	(concentrate, occult, polymorph, transmutation) Maglap spends 10 minutes reshaping its appearance to take on the shape of any Small or Medium humanoid. It gains a +4 circumstance bonus to Deception checks to pass as that creature.
+	Sneak Attack
+	Maglap deals 1d6 extra precision damage to flat-footed creatures.

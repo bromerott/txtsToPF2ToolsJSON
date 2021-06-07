@@ -1,0 +1,56 @@
+SHELL SENTINEL
+	CREATURE
+	6
+	LE
+	Medium
+	Construct
+	
+
+	
+
+	
+
+	
+
+	Perception
+	+12; darkvision
+	Skills
+	Athletics +16, Stealth +12 (+18 when underwater)
+	STR
+	+6
+	DEX
+	+1
+	CON
+	+5
+	INT
+	-2
+	WIS
+	+2
+	CHA
+	-1
+	AC
+	22
+	Fort
+	+17
+	Ref
+	+11
+	Will
+	+14
+	
+
+	HP
+	120
+	Speed
+	20 feet, swim 20 feet
+	Melee
+	(A)
+	talon +17 (reach 10 feet), Damage 2d8+10 bludgeoning plus Grab
+	Shell Storm
+	(AA) 
+	The Sentinel makes a talon attack against all creatures within reach. Its multiple attack penalty increases only after all the attacks.
+	Fragile Frame
+	Whenever a shell sentinel is dealt a critical hit from a bludgeoning weapon or rolls a critical failure on a Reflex save, it must succeed at a DC 27 Fortitude save to resist being forced to discorporate. For 2 rounds, a shell sentinel gains weakness 10 to bludgeoning damage.
+	Ink Cloud
+	(AA) 
+	Frequency once per minute
+The Sentinel exudes a dark cloud of ink as long as its underwater, spreading as a 10 ft. aura. Creatures in the cloud other than the sentinel are blinded while in the area, 

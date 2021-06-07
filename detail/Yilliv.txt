@@ -1,0 +1,54 @@
+YILLIV
+	CREATURE
+	5
+	N
+	Medium
+	Outsider
+	
+
+	
+
+	
+
+	
+
+	Perception
+	+10; darkvision
+	Languages
+	All
+	Skills
+	Acrobatics +16; Stealth +14
+	STR
+	+3
+	DEX
+	+5
+	CON
+	+2
+	INT
+	+4
+	WIS
+	+1
+	CHA
+	+0
+	AC
+	24
+	Fort
+	+9
+	Ref
+	+16
+	Will
+	+10
+	
+
+	HP
+	50; Immunities bleed, paralyzed, poison, sleep
+	Disperse (R) Frequency 3 times per day Trigger Yilliv takes damage from a hostile action. Effect Yilliv disperses into paper shards. Until the end of the current turn, it can’t be attacked or targeted, doesn’t take up space, and any auras or emanations it has are suppressed. At the end of the current turn, Yilliv  reforms in any space in which it can fit within 25 feet of where it dispersed.
+	Speed
+	50 feet; swiftness
+	Melee
+	(A)
+	ribbon lash +14 (finesse, reach 10 feet), Damage 2d6+7 bludgeoning plus Steal Memories
+	Swiftness
+	Yilliv’s movement doesn’t trigger reactions.
+	Steal Memories
+	Yilliv’s ribbon lashes steal the memories from their targets and magically writes them down in Soul Tomes linked to those creatures. Each strike makes the target stupefied 1. This condition can stack with itself up to a maximum of stupefied 10. A creature can read from its own soul tome in order to restore the stolen memories. Every 10 minutes spent in study lessens the stupefied condition by 1.

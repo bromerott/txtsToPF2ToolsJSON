@@ -1,0 +1,75 @@
+HEI-FEN
+	CREATURE
+	12
+	LE
+	Medium
+	Humanoid
+	Ratfolk
+	
+
+	
+
+	
+
+	Items
+	+2 Greater Striking Shortsword, +2 Greater Resilient Chain Shirt
+	Perception
+	+22; scent (imprecise) 30 ft.
+	Skills
+	Acrobatics +23, Arcana +17, Athletics +13, Crafting +17, Deception +17, Medicine +18, Occultism +17, Performance +15, Religion +18, Society +21, Stealth +18, Thievery +20
+	STR
+	-1
+	DEX
+	+5
+	CON
+	+4
+	INT
+	+3
+	WIS
+	+4
+	CHA
+	+1
+	AC
+	31
+	Fort
+	+21
+	Ref
+	+24
+	Will
+	+21
+	Success on Reflex counts as Cri. Success
+	HP
+	162
+	Clever Gambit (R) Trigger: Hei-Fen critically hits a creature she has identified with Recall Knowledge
+Effect: Hei-Fen Steps or Strides
+	Opportune Backstab (R) Trigger: A creature within Hei Fen’s reach is hit by a melee attack from one of her allies
+Effect: Hei-Fen makes a Strike against the triggering creature.
+	Speed
+	30 feet
+	Melee
+	(A)
+	+2  greating striking shortsword +23 [+19/+15] (magical), Damage 3d6+3
+	Predictable!
+	(A)
+	Hei-Fen rolls Perception against a target’s Deception DC.
+Critical Success, she gains a +2 circumstance bonus to AC and to her next saving throw against the creature. 
+Success As per Critical Success, but the bonus is instead +1.
+	Debilitating Strike
+	(F)
+	Trigger: Hei-Fen’s Strike hits a flat-footed creature and deals damage.
+Effect: Hei-Fen can choose one of the following effects:
+
+-Make the creature enfeebled 1
+-Impose a -10 foot penalty to its Speeds. 
+-The target can’t flank other creatures, and can’t provide flanking
+The target doesn’t gain a bonus to AC for raising a shield, and Taking Cover only grants a +2 bonus instead of +4.
+-The target takes 3d6 persistent bleed damage.
+
+The chosen effect lasts until the end of Hei-Fen’s next turn.
+	Sneak Attack
+	Hei-Fen deals an extra 3d6 points of precision damage against creatures that are flat-footed. On the first round of combat, creatures that haven’t acted are flat-footed to Hei-Fen.
+	Light Step
+	Hei-Fen ignores difficult terrain when Striding or Stepping.
+	Deny Advantage
+	Hei-Fen is not flat-footed to hidden, undetected or flanking creatures of level 12 or lower.
+	________________

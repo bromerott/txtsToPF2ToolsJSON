@@ -1,0 +1,51 @@
+AHRLI
+	CREATURE
+	11
+	LN
+	Large
+	Outsider
+	
+
+	
+
+	
+
+	
+
+	Perception
+	+22; low-light vision
+	Skills
+	Athletics +26, Crafting +21, Diplomacy +24, Intimidation +26, Performance +21
+	STR
+	+7
+	DEX
+	+0
+	CON
+	+5
+	INT
+	+1
+	WIS
+	+3
+	CHA
+	+1
+	AC
+	30
+	Fort
+	+25
+	Ref
+	+18
+	Will
+	+21
+	
+
+	HP
+	220
+	Speed
+	20 feet, swim 60 feet
+	Melee
+	(A)
+	ranseur +25 [+20/+15] (disarm, magical, reach 20 feet), Damage 2d10+13 piercing
+	Otherworldy Booty
+	(A)
+	A mercane can retrieve or hide an extradimensional storage chest. The mercane does not need an expensive replica chest to use this ability; any chest will do. It can only use this ability on one chest at a time.
+	________________

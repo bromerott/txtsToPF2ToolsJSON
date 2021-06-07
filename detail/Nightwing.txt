@@ -1,0 +1,55 @@
+NIGHTWING
+	CREATURE
+	15
+	CE
+	Huge
+	Undead
+	Shadow
+	
+
+	
+
+	
+
+	Perception
+	+27
+	Skills
+	Acrobatics +25, Athletics +25, Intimidation +30, Nature +30, Stealth +27, Survival +27
+	STR
+	+6
+	DEX
+	+4
+	CON
+	+8
+	INT
+	-2
+	WIS
+	+6
+	CHA
+	+8
+	AC
+	37
+	Fort
+	+29
+	Ref
+	+25
+	Will
+	+27
+	
+
+	HP
+	280; Immunities death effects, disease, paralyzed, poison, precision, unconscious; Resistances all 5 (except force, ghost touch, or positive; double resistance against non-magical); Weaknesses light vulnerability
+	Attack of Opportunity (R)
+	Speed
+	30 feet, fly 30 feet
+	Melee
+	(A)
+	bite +29 [+24/+19], Damage 3d6+14 slashing plus 3d6 cold and magic drain
+	Ranged
+	(A)
+	flame jet +29 [+24/+19] (fire, range increment 40 feet), Damage 6d6 cold and magic drain
+	Arcane Innate Spellcasting
+	DC 36, attack +28; 8th confusion, cone of cold; 7th finger of death, dispel magic, haste, slow; 6th darkness, cone of cold
+	Magic Drain
+	The bite of a nightwing drains magical power and energy. When a nightwing bites a foe, the victim must make a DC 36 Will save or one spell effect currently affecting him immediately ends—determine which spell is drained randomly if the target is under the effects of more than one spell. The nightwing heals damage equal to twice the level of the spell drained—hit points in excess of its maximum are instead gained as temporary hit points that last for 1 hour.
+	________________

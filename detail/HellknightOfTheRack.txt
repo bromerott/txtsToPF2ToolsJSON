@@ -1,0 +1,58 @@
+HELLKNIGHT OF THE RACK
+	CREATURE
+	8
+	LE
+	Medium
+	Humanoid
+	Human
+	
+
+	
+
+	
+
+	Perception
+	+16
+	Languages
+	Common
+	Skills
+	Athletics +19, Deception +16, Intimidation +18, Religion +14, Survival +14
+	STR
+	+4
+	DEX
+	+1
+	CON
+	+3
+	INT
+	+0
+	WIS
+	+1
+	CHA
+	+3
+	AC
+	31
+	Fort
+	+20
+	Ref
+	+16
+	Will
+	+17
+	
+
+	HP
+	105
+	Destructive Vengeance (R) (divine, necromancy) Trigger An enemy within 15 feet damages the hellknight; Effect The hellknight increases the amount of damage they take by 2d6 and deals 2d6 damage to the triggering enemy, choosing evil or negative damage. In addition, the hellknight deals 2 extra damage of the chosen type with their Strikes against the triggering creature until the end of the hellknight’s next turn.
+	Speed
+	20 feet
+	Melee
+	(A)
+	greataxe +21 [+16/+11] (sweep), Damage 1d12+16 slashing
+	Ranged
+	(A)
+	javelin +18 [+13/+8] (thrown 30 feet), Damage 1d6+16 piercing
+	Intimidating Strike
+	(AA)
+	 The hellknight makes a melee Strike. If they hit and deal damage, the target is frightened 1, or frightened 2 on a critical hit.
+	Champion Devotion Spells
+	DC 26, 1 Focus Point; 3rd touch of corruption
+	________________

@@ -1,0 +1,65 @@
+TAVOUL ABRAMOS
+	CREATURE
+	13
+	LE
+	Medium
+	Humanoid
+	
+
+	
+
+	
+
+	
+
+	Items
+	+2 Frost Greater Striking Spiked Chain, +2 Greater Resilient Chain Shirt
+	Perception
+	+24
+	Skills
+	Acrobatics +25, Athletics +15, Crafting +17, Deception +17, Religion +18, Society +21, Stealth +18, Thievery +20
+	STR
+	+1
+	DEX
+	+5
+	CON
+	+4
+	INT
+	+3
+	WIS
+	+4
+	CHA
+	+1
+	AC
+	33
+	Fort
+	+23
+	Ref
+	+26
+	Will
+	+23
+	Success on Reflex counts as Cri. Success
+	HP
+	192
+	Speed
+	40 feet
+	Melee
+	(A)
+	+2 Frost Greater Striking Spiked Chain +25 [+20/+15] (magical), Damage 3d8+6 plus 1d6 cold damage
+On a crit, the target is prone and must make a DC 28 Fortitude save or be slowed 1 too.
+	Debilitating Strike
+	(F)
+	Trigger: Tavoul’s Strike hits a flat-footed creature and deals damage.
+Effect: Tavoul can choose one of the following effects:
+
+-Make the creature enfeebled 1.
+-Impose a -10 foot penalty to its Speeds. 
+-The target can’t flank other creatures, and can’t provide flanking
+-The target takes 3d6 persistent bleed damage.
+
+The chosen effect lasts until the end of Tavoul’s next turn.
+	Sneak Attack
+	Tavoul deals an extra 3d6 points of precision damage against creatures that are flat-footed. On the first round of combat, creatures that haven’t acted are flat-footed to Tavoul.
+	Hit and Run Tactics
+	Tavoul ignores difficult terrain when Striding or Stepping, and does not trigger reactions when moving up to half of his speed.
+	________________

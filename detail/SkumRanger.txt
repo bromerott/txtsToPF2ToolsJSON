@@ -1,0 +1,47 @@
+SKUM RANGER
+	CREATURE
+	11
+	LE
+	Medium
+	Amphibious
+	Humanoid
+	
+
+	
+
+	
+
+	Perception
+	+20;
+	Skills
+	Athletics +20, Intimidation +18, Stealth +22
+	STR
+	+4
+	DEX
+	+4
+	CON
+	+3
+	INT
+	+0
+	WIS
+	+0
+	CHA
+	-2
+	AC
+	32
+	Fort
+	+22
+	Ref
+	+18
+	Will
+	+19
+	successes on Fort count as crit successes
+	HP
+	195
+	Attack of Opportunity (R) Only against prey
+	Speed
+	30 feet, swim 30 feet
+	Melee
+	(A)
+	trident +24 [+19/+14] (magical, thrown 20 ft), Damage 2d8+11 bludgeoning
+	Hunt Prey

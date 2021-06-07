@@ -1,0 +1,58 @@
+ZORUMAR
+	CREATURE
+	6
+	CG
+	Medium
+	Air
+	Elemental
+	Genie
+	
+
+	
+
+	Perception
+	+15; darkvision, detect magic
+	Skills
+	Acrobatics +16, Arcana +13, Athletics +13, Crafting +11, Deception +13, Diplomacy +15, Society +11, Stealth +14
+	STR
+	+4
+	DEX
+	+5
+	CON
+	+2
+	INT
+	+2
+	WIS
+	+2
+	CHA
+	+4
+	AC
+	24
+	Fort
+	+11
+	Ref
+	+16
+	Will
+	+12
+	
+
+	HP
+	91; Immunities acid; Resistances mental 5, sonic 5
+	Whirlwind
+	(air, arcane, aura, evocation) 20 feet. All squares in the djinni’s aura are difficult terrain for Striding and Flying creatures. Creatures with the air trait are immune.
+	Speed
+	25 feet, fly 40 feet
+	Melee
+	(A)
+	scimitar +17 (forceful +1, reach 10 feet, sweep), Damage 1d6+12 slashing
+	Melee
+	(A)
+	fist +18 (agile, finesse, magical, nonlethal, reach 10 feet), Damage 1d4+12 bludgeoning
+	Ranged
+	(A)
+	crashing wind +17 (air, arcane, evocation, range increment 20 feet), Damage 1d8+8 bludgeoning
+	Hurricane Blast
+	(A)
+	 (air, arcane, evocation) Frequency Once per round. Effect Zorumar evokes strong magical winds to push his foes back. This functions like Gust of Wind, except that the area of the spell can be two 30-ft lines.
+	Arcane Innate Spells
+	DC 25; 7th plane shift (at will; to Astral Plane, Elemental Planes, or Material Plane only); 4th creation, gaseous form; 3rd illusory creature, illusory object; 2nd enhance victuals (at will), invisibility (at will; self only); Constant (3rd) detect magic

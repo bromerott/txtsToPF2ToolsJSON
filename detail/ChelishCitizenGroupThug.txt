@@ -1,0 +1,54 @@
+CHELISH CITIZEN GROUP THUG
+	CREATURE
+	-2
+	LN
+	Medium
+	Humanoid
+	
+
+	
+
+	
+
+	
+
+	Perception
+	+0
+	Languages
+	Common
+	Skills
+	Intimidation +4, Lore (Kintargo) +3
+	STR
+	+1
+	DEX
+	+1
+	CON
+	+1
+	INT
+	+0
+	WIS
+	+1
+	CHA
+	+1
+	Items
+	Leather Armor, Light Mace
+	AC
+	14
+	Fort
+	+4
+	Ref
+	+4
+	Will
+	+3
+	
+
+	HP
+	6
+	Speed
+	25 feet
+	Melee
+	(A)
+	Light Mace +3 Damage 1d6+1 bludgeoning
+	We are the hand of Cheliax!
+	(A)
+	Requirements The Thug has reduced an enemy to 0 hp this turn Effect The thug revels in the pain they deal out, gaining a +1 circumstance bonus to attack rolls for 1 minute.

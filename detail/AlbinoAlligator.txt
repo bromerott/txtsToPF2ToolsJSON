@@ -1,0 +1,54 @@
+ALBINO ALLIGATOR
+	CREATURE
+	3
+	N
+	Large
+	Animal
+	
+
+	
+
+	
+
+	
+
+	Perception
+	+10; low-light vision
+	Skills
+	Athletics +12, Stealth +8 (+12 in water)
+	STR
+	+5
+	DEX
+	+1
+	CON
+	+4
+	INT
+	-4
+	WIS
+	+1
+	CHA
+	-4
+	AC
+	18
+	Fort
+	+11
+	Ref
+	+8
+	Will
+	+8
+	
+
+	HP
+	50
+	Speed
+	20 feet, swim 25 feet
+	Melee
+	(A)
+	Jaws +12 Damage 1d10+5 piercing plus Grab
+	Melee
+	(A)
+	Tail +12 (agile) Damage 1d6+5 bludgeoning
+	Aquatic Ambush
+	(A)
+	The Albino Alligator moves 35 feet
+	Death Roll

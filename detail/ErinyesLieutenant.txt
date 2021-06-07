@@ -1,0 +1,62 @@
+﻿ERINYES LIEUTENANT
+	CREATURE
+	9
+	LE
+	Medium
+	Devil
+	Fiend
+	
+
+	
+
+	
+
+	Perception
+	+16; greater darkvision, true seeing
+	Languages
+	Celestial, Common, Draconic, Infernal; telepathy 100 feet
+	Skills
+	Acrobatics +19, Crafting +16, Deception +21, Diplomacy +17, Intimidation +21, Religion +18, Stealth +19
+	STR
+	+5
+	DEX
+	+5
+	CON
+	+5
+	INT
+	+2
+	WIS
+	+4
+	CHA
+	+6
+	Items
+	100 feet of erinys-hair rope, breastplate, longsword, +1 striking composite longbow (60 arrows)
+	AC
+	29
+	Fort
+	+19
+	Ref
+	+21
+	Will
+	+18
+	+1 status to saves vs. magic
+	HP
+	90; Immunities fire; Resistances physical 5 (except silver), poison 10; Weaknesses good 5
+	Speed
+	25 feet, fly 40 feet
+	Melee
+	(A)
+	flaming longsword +21 (evil, fire, magical, versatile P), Damage 1d8+10 slashing plus 1d6 evil and 1d6 fire
+	Melee
+	(A)
+	flaming composite longbow +22 (deadly 1d10, evil, fire, magical, range increment 100 feet, reload 0, volley 30 feet), Damage 2d8+6 piercing plus 1d6 evil and 1d6 fire
+	Ranged
+	(A)
+	rope +17 (magical, range increment 30 feet), Damage rope snare
+	Furious Fusilade
+	(AAA)
+	The erinys hovers in place if they are flying and fires one arrow at any number of creatures in a 30-foot cone. Each attack is rolled separately. This counts as one attack for the purpose of the erinyes multiple attack penalty.
+	Divine Innate Spells DC 28; 5th dimension door; 4th dimension door (at will), divine wrath, retributive pain; 3rd fear (at will); 2nd illusory disguise (at will), illusory object; Constant (6th) true seeing Rituals DC 26; 1st infernal pact
+	Flames of Fury Any weapon an erinys holds gains the effects of a flaming rune while they hold it.
+	Rope Snare
+	An erinys carries a coil of rope woven of their hair (use the statistics for rope) that animates in their hands. When a creature is hit by the erinys’s rope, a segment of the rope tears loose and wraps itself around the creature, imposing a 10–foot circumstance penalty to Speed. The piece that tears off is 10 feet long for a Medium or smaller creature, and doubles in length for each size larger than Medium. When a creature Escapes the effect (DC 28), the detached segment of rope withers away into useless black sludge.
